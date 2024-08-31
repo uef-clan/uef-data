@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
     },
     "clanLevel": 22,
-    "attacks": 2,
-    "stars": 6,
-    "destructionPercentage": 13.333333,
+    "attacks": 3,
+    "stars": 8,
+    "destructionPercentage": 19.733334,
     "members": [
       {
         "tag": "#G9800GYGL",
@@ -73,7 +73,17 @@
         "townhallLevel": 16,
         "mapPosition": 1,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#89Q0YQYL",
+            "defenderTag": "#P8YGG09Y",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 3,
+            "duration": 180
+          }
+        ]
       },
       {
         "tag": "#QG8RPCL02",
@@ -148,16 +158,30 @@
         "name": "tijmen6",
         "townhallLevel": 8,
         "mapPosition": 15,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 3,
+        "bestOpponentAttack": {
+          "attackerTag": "#GL92U8VJ8",
+          "defenderTag": "#QP8UV2L9R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 60
+        }
       },
       {
         "tag": "#20CCR02Q",
         "name": "Daan",
         "townhallLevel": 7,
         "mapPosition": 14,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQR2VJ999",
+          "defenderTag": "#20CCR02Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 98
+        }
       }
     ]
   },
@@ -170,9 +194,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HPKE1lha58e3GmKn4CK5r9SK-WYkVSMysUTDduB7WDk.png"
     },
     "clanLevel": 9,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 5,
+    "stars": 6,
+    "destructionPercentage": 13.333333,
     "members": [
       {
         "tag": "#QJQP8C0V8",
@@ -227,7 +251,25 @@
         "townhallLevel": 7,
         "mapPosition": 14,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#GQR2VJ999",
+            "defenderTag": "#20CCR02Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 98
+          },
+          {
+            "attackerTag": "#GQR2VJ999",
+            "defenderTag": "#QP8UV2L9R",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 7,
+            "duration": 82
+          }
+        ]
       },
       {
         "tag": "#9CCYJGV9R",
@@ -275,15 +317,40 @@
         "townhallLevel": 7,
         "mapPosition": 15,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#GJ9J0PR0Y",
+            "defenderTag": "#QP8UV2L9R",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 4,
+            "duration": 87
+          },
+          {
+            "attackerTag": "#GJ9J0PR0Y",
+            "defenderTag": "#20CCR02Q",
+            "stars": 1,
+            "destructionPercentage": 65,
+            "order": 5,
+            "duration": 70
+          }
+        ]
       },
       {
         "tag": "#P8YGG09Y",
         "name": "MANANABAS",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#89Q0YQYL",
+          "defenderTag": "#P8YGG09Y",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 3,
+          "duration": 180
+        }
       },
       {
         "tag": "#GL92U8VJ8",
@@ -291,7 +358,17 @@
         "townhallLevel": 8,
         "mapPosition": 12,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#GL92U8VJ8",
+            "defenderTag": "#QP8UV2L9R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 60
+          }
+        ]
       },
       {
         "tag": "#QVR822R98",
