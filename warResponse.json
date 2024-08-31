@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
     },
     "clanLevel": 22,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 19.733334,
+    "attacks": 4,
+    "stars": 11,
+    "destructionPercentage": 26.4,
     "members": [
       {
         "tag": "#G9800GYGL",
@@ -32,8 +32,15 @@
         "name": "Frank",
         "townhallLevel": 10,
         "mapPosition": 11,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GRRVVVY90",
+          "defenderTag": "#QJ0VCVQYC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 98
+        }
       },
       {
         "tag": "#QJ02YGJR0",
@@ -89,6 +96,14 @@
             "destructionPercentage": 96,
             "order": 3,
             "duration": 180
+          },
+          {
+            "attackerTag": "#89Q0YQYL",
+            "defenderTag": "#8GPLLPJ0P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 138
           }
         ]
       },
@@ -123,8 +138,15 @@
         "name": "FrankMan",
         "townhallLevel": 11,
         "mapPosition": 9,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJQP8C0V8",
+          "defenderTag": "#U0YLJVY0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 121
+        }
       },
       {
         "tag": "#29UC8C2PC",
@@ -139,8 +161,15 @@
         "name": "GuusjeMan",
         "townhallLevel": 8,
         "mapPosition": 12,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#GRRVVVY90",
+          "defenderTag": "#GGPCCUG8P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 97
+        },
         "attacks": [
           {
             "attackerTag": "#GGPCCUG8P",
@@ -157,8 +186,15 @@
         "name": "Guusje",
         "townhallLevel": 11,
         "mapPosition": 10,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJQP8C0V8",
+          "defenderTag": "#LJ02J988Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 74
+        }
       },
       {
         "tag": "#QP8UV2L9R",
@@ -201,9 +237,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HPKE1lha58e3GmKn4CK5r9SK-WYkVSMysUTDduB7WDk.png"
     },
     "clanLevel": 9,
-    "attacks": 6,
-    "stars": 9,
-    "destructionPercentage": 20.0,
+    "attacks": 11,
+    "stars": 21,
+    "destructionPercentage": 46.666668,
     "members": [
       {
         "tag": "#QJQP8C0V8",
@@ -211,7 +247,25 @@
         "townhallLevel": 11,
         "mapPosition": 10,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#QJQP8C0V8",
+            "defenderTag": "#LJ02J988Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 74
+          },
+          {
+            "attackerTag": "#QJQP8C0V8",
+            "defenderTag": "#U0YLJVY0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 121
+          }
+        ]
       },
       {
         "tag": "#GQRULU9R9",
@@ -226,7 +280,17 @@
           "destructionPercentage": 100,
           "order": 1,
           "duration": 66
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#GQRULU9R9",
+            "defenderTag": "#GGPCCUG8P",
+            "stars": 0,
+            "destructionPercentage": 45,
+            "order": 10,
+            "duration": 107
+          }
+        ]
       },
       {
         "tag": "#2JGR8YGL9",
@@ -291,8 +355,15 @@
         "name": "lance",
         "townhallLevel": 16,
         "mapPosition": 1,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#89Q0YQYL",
+          "defenderTag": "#8GPLLPJ0P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 138
+        }
       },
       {
         "tag": "#GYCL0QURP",
@@ -308,7 +379,25 @@
         "townhallLevel": 8,
         "mapPosition": 11,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#GRRVVVY90",
+            "defenderTag": "#GGPCCUG8P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 97
+          },
+          {
+            "attackerTag": "#GRRVVVY90",
+            "defenderTag": "#QJ0VCVQYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 98
+          }
+        ]
       },
       {
         "tag": "#PP82RCGYC",
