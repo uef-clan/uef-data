@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
     },
     "clanLevel": 22,
-    "attacks": 4,
-    "stars": 11,
-    "destructionPercentage": 26.4,
+    "attacks": 6,
+    "stars": 17,
+    "destructionPercentage": 39.733334,
     "members": [
       {
         "tag": "#G9800GYGL",
@@ -54,16 +54,30 @@
         "name": "Tobias",
         "townhallLevel": 14,
         "mapPosition": 5,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP82RCGYC",
+          "defenderTag": "#QJ02YGJR0",
+          "stars": 1,
+          "destructionPercentage": 82,
+          "order": 19,
+          "duration": 108
+        }
       },
       {
         "tag": "#9L9RRPV2G",
         "name": "Tobias",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9CCYJGV9R",
+          "defenderTag": "#9L9RRPV2G",
+          "stars": 1,
+          "destructionPercentage": 44,
+          "order": 25,
+          "duration": 95
+        }
       },
       {
         "tag": "#2GG0VGQ9Y",
@@ -85,16 +99,40 @@
         "name": "Azka Thegazters",
         "townhallLevel": 14,
         "mapPosition": 4,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP82RCGYC",
+          "defenderTag": "#2Y08ULL9J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "duration": 136
+        },
+        "attacks": [
+          {
+            "attackerTag": "#2Y08ULL9J",
+            "defenderTag": "#9CCYJGV9R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 125
+          }
+        ]
       },
       {
         "tag": "#89Q0YQYL",
         "name": "Beunmeister",
         "townhallLevel": 16,
         "mapPosition": 1,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8GPLLPJ0P",
+          "defenderTag": "#89Q0YQYL",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 22,
+          "duration": 96
+        },
         "attacks": [
           {
             "attackerTag": "#89Q0YQYL",
@@ -119,8 +157,15 @@
         "name": "max",
         "townhallLevel": 13,
         "mapPosition": 6,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JGR8YGL9",
+          "defenderTag": "#QG8RPCL02",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 73
+        },
         "attacks": [
           {
             "attackerTag": "#QG8RPCL02",
@@ -137,8 +182,15 @@
         "name": "CuriousWanderer",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8GPLLPJ0P",
+          "defenderTag": "#RVGCJGQ8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 109
+        }
       },
       {
         "tag": "#U0YLJVY0",
@@ -153,14 +205,24 @@
           "destructionPercentage": 100,
           "order": 15,
           "duration": 121
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#U0YLJVY0",
+            "defenderTag": "#GYCL0QURP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 87
+          }
+        ]
       },
       {
         "tag": "#29UC8C2PC",
         "name": "Rutger",
         "townhallLevel": 11,
         "mapPosition": 7,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G8UYLPRJ2",
           "defenderTag": "#29UC8C2PC",
@@ -251,9 +313,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/HPKE1lha58e3GmKn4CK5r9SK-WYkVSMysUTDduB7WDk.png"
     },
     "clanLevel": 9,
-    "attacks": 13,
-    "stars": 26,
-    "destructionPercentage": 59.333332,
+    "attacks": 21,
+    "stars": 39,
+    "destructionPercentage": 92.066666,
     "members": [
       {
         "tag": "#QJQP8C0V8",
@@ -312,7 +374,17 @@
         "townhallLevel": 15,
         "mapPosition": 4,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#2JGR8YGL9",
+            "defenderTag": "#QG8RPCL02",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 73
+          }
+        ]
       },
       {
         "tag": "#YJ0Q9CLPG",
@@ -379,8 +451,33 @@
         "name": "G0h@n",
         "townhallLevel": 13,
         "mapPosition": 5,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2Y08ULL9J",
+          "defenderTag": "#9CCYJGV9R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 125
+        },
+        "attacks": [
+          {
+            "attackerTag": "#9CCYJGV9R",
+            "defenderTag": "#9L9RRPV2G",
+            "stars": 1,
+            "destructionPercentage": 44,
+            "order": 25,
+            "duration": 95
+          },
+          {
+            "attackerTag": "#9CCYJGV9R",
+            "defenderTag": "#QJ02YGJR0",
+            "stars": 1,
+            "destructionPercentage": 71,
+            "order": 26,
+            "duration": 83
+          }
+        ]
       },
       {
         "tag": "#8GPLLPJ0P",
@@ -395,15 +492,50 @@
           "destructionPercentage": 100,
           "order": 13,
           "duration": 138
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#8GPLLPJ0P",
+            "defenderTag": "#89Q0YQYL",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 22,
+            "duration": 96
+          },
+          {
+            "attackerTag": "#8GPLLPJ0P",
+            "defenderTag": "#RVGCJGQ8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 109
+          }
+        ]
       },
       {
         "tag": "#GYCL0QURP",
         "name": "mandaragat",
         "townhallLevel": 11,
         "mapPosition": 9,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#U0YLJVY0",
+          "defenderTag": "#GYCL0QURP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 87
+        },
+        "attacks": [
+          {
+            "attackerTag": "#GYCL0QURP",
+            "defenderTag": "#29UC8C2PC",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 21,
+            "duration": 94
+          }
+        ]
       },
       {
         "tag": "#GRRVVVY90",
@@ -437,7 +569,25 @@
         "townhallLevel": 14,
         "mapPosition": 3,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#PP82RCGYC",
+            "defenderTag": "#QJ02YGJR0",
+            "stars": 1,
+            "destructionPercentage": 82,
+            "order": 19,
+            "duration": 108
+          },
+          {
+            "attackerTag": "#PP82RCGYC",
+            "defenderTag": "#2Y08ULL9J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 136
+          }
+        ]
       },
       {
         "tag": "#GJ9J0PR0Y",
