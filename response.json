@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 29655,
+  "clanPoints": 29675,
   "clanBuilderBasePoints": 35089,
   "clanCapitalPoints": 2667,
   "capitalLeague": {
@@ -109,52 +109,6 @@
       }
     },
     {
-      "tag": "#QJ02YGJR0",
-      "name": "Tobias",
-      "role": 0,
-      "townHallLevel": 14,
-      "expLevel": 192,
-      "league": {
-        "id": 29000020,
-        "name": "Titan League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
-        }
-      },
-      "trophies": 4545,
-      "builderBaseTrophies": 3346,
-      "clanRank": 3,
-      "previousClanRank": 3,
-      "donations": 3005,
-      "donationsReceived": 2825,
-      "builderBaseLeague": {
-        "id": 44000026,
-        "name": "Steel League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000032
-          },
-          {
-            "type": 0,
-            "id": 82000063
-          }
-        ]
-      }
-    },
-    {
       "tag": "#9L9RRPV2G",
       "name": "Tobias",
       "role": 0,
@@ -169,12 +123,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
         }
       },
-      "trophies": 4532,
+      "trophies": 4562,
       "builderBaseTrophies": 4525,
-      "clanRank": 4,
+      "clanRank": 3,
       "previousClanRank": 4,
-      "donations": 3121,
-      "donationsReceived": 3089,
+      "donations": 3199,
+      "donationsReceived": 3172,
       "builderBaseLeague": {
         "id": 44000032,
         "name": "Platinum League III"
@@ -196,6 +150,52 @@
           {
             "type": 0,
             "id": 82000066
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#QJ02YGJR0",
+      "name": "Tobias",
+      "role": 0,
+      "townHallLevel": 14,
+      "expLevel": 192,
+      "league": {
+        "id": 29000020,
+        "name": "Titan League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
+        }
+      },
+      "trophies": 4555,
+      "builderBaseTrophies": 3346,
+      "clanRank": 4,
+      "previousClanRank": 3,
+      "donations": 3088,
+      "donationsReceived": 2903,
+      "builderBaseLeague": {
+        "id": 44000026,
+        "name": "Steel League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000032
+          },
+          {
+            "type": 0,
+            "id": 82000063
           }
         ]
       }
