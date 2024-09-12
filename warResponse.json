@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 10,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,17 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
     },
     "clanLevel": 22,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 10.0,
     "members": [
       {
         "tag": "#G9800GYGL",
         "name": "kvmvm",
         "townhallLevel": 11,
         "mapPosition": 4,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9GJJUJ008",
+          "defenderTag": "#G9800GYGL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 119
+        }
       },
       {
         "tag": "#QJ0VCVQYC",
@@ -81,7 +88,17 @@
         "townhallLevel": 9,
         "mapPosition": 7,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#GGPCCUG8P",
+            "defenderTag": "#QLLRQVY8G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 127
+          }
+        ]
       },
       {
         "tag": "#LJ02J988Q",
@@ -110,9 +127,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/h-jXF2lXZgzeg6ZrrxmsH6NnOOVwM00YYVCPk0q5-Tc.png"
     },
     "clanLevel": 5,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 10.0,
     "members": [
       {
         "tag": "#YRY22P99C",
@@ -135,13 +152,20 @@
         "name": "sedsz",
         "townhallLevel": 9,
         "mapPosition": 9,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGPCCUG8P",
+          "defenderTag": "#QLLRQVY8G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 127
+        }
       },
       {
         "tag": "#QR29JLQGQ",
         "name": "safwannnnn",
-        "townhallLevel": 11,
+        "townhallLevel": 12,
         "mapPosition": 7,
         "opponentAttacks": 0,
         "bestOpponentAttack": null
@@ -160,7 +184,17 @@
         "townhallLevel": 12,
         "mapPosition": 3,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#9GJJUJ008",
+            "defenderTag": "#G9800GYGL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 119
+          }
+        ]
       },
       {
         "tag": "#PUJ98PQV0",
