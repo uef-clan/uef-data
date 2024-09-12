@@ -1,37 +1,199 @@
 {
-  "state": "notInWar",
-  "teamSize": 0,
-  "attacksPerMember": 0,
-  "battleModifier": null,
-  "preparationStartTime": null,
-  "startTime": null,
-  "endTime": null,
+  "state": "preparation",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "preparationStartTime": "20240911T203740.000Z",
+  "startTime": "20240912T193740.000Z",
+  "endTime": "20240913T193740.000Z",
   "clan": {
-    "tag": null,
-    "name": null,
+    "tag": "#VLRLQGU",
+    "name": "www.uef-clan.eu",
     "badgeUrls": {
-      "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      "small": "https://api-assets.clashofclans.com/badges/70/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
     },
-    "clanLevel": 0,
+    "clanLevel": 22,
     "attacks": 0,
     "stars": 0,
     "destructionPercentage": 0.0,
-    "members": null
+    "members": [
+      {
+        "tag": "#G9800GYGL",
+        "name": "kvmvm",
+        "townhallLevel": 11,
+        "mapPosition": 4,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QJ0VCVQYC",
+        "name": "Frank",
+        "townhallLevel": 10,
+        "mapPosition": 8,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2GG0VGQ9Y",
+        "name": "Lynn & Daan",
+        "townhallLevel": 8,
+        "mapPosition": 9,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#Y8LRCRR8",
+        "name": "romano 0344",
+        "townhallLevel": 13,
+        "mapPosition": 3,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#89Q0YQYL",
+        "name": "Beunmeister",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#RVGCJGQ8",
+        "name": "CuriousWanderer",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#U0YLJVY0",
+        "name": "FrankMan",
+        "townhallLevel": 11,
+        "mapPosition": 5,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GGPCCUG8P",
+        "name": "GuusjeMan",
+        "townhallLevel": 9,
+        "mapPosition": 7,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#LJ02J988Q",
+        "name": "Guusje",
+        "townhallLevel": 11,
+        "mapPosition": 6,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#20CCR02Q",
+        "name": "Daan",
+        "townhallLevel": 7,
+        "mapPosition": 10,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      }
+    ]
   },
   "opponent": {
-    "tag": null,
-    "name": null,
+    "tag": "#2R2UUP2Q9",
+    "name": "STAR WARS",
     "badgeUrls": {
-      "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      "small": "https://api-assets.clashofclans.com/badges/70/h-jXF2lXZgzeg6ZrrxmsH6NnOOVwM00YYVCPk0q5-Tc.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/h-jXF2lXZgzeg6ZrrxmsH6NnOOVwM00YYVCPk0q5-Tc.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/h-jXF2lXZgzeg6ZrrxmsH6NnOOVwM00YYVCPk0q5-Tc.png"
     },
-    "clanLevel": 0,
+    "clanLevel": 5,
     "attacks": 0,
     "stars": 0,
     "destructionPercentage": 0.0,
-    "members": null
+    "members": [
+      {
+        "tag": "#YRY22P99C",
+        "name": "himanshu",
+        "townhallLevel": 11,
+        "mapPosition": 4,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GLPGPPR28",
+        "name": "KIM DIN",
+        "townhallLevel": 9,
+        "mapPosition": 8,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QLLRQVY8G",
+        "name": "sedsz",
+        "townhallLevel": 9,
+        "mapPosition": 9,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QR29JLQGQ",
+        "name": "safwannnnn",
+        "townhallLevel": 11,
+        "mapPosition": 7,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QR88U0UGV",
+        "name": "Devil",
+        "townhallLevel": 11,
+        "mapPosition": 5,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#9GJJUJ008",
+        "name": "RANDY SATHISH",
+        "townhallLevel": 12,
+        "mapPosition": 3,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#PUJ98PQV0",
+        "name": "Joker",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2PYLG0GP2",
+        "name": "raj",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#LJYQ22JRC",
+        "name": "shanks",
+        "townhallLevel": 11,
+        "mapPosition": 6,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GYCV8YR82",
+        "name": "Toxic ☣️ Fumes",
+        "townhallLevel": 7,
+        "mapPosition": 10,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      }
+    ]
   }
 }
