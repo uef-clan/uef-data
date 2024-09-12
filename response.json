@@ -17,7 +17,7 @@
   },
   "clanLevel": 22,
   "clanPoints": 30698,
-  "clanBuilderBasePoints": 35295,
+  "clanBuilderBasePoints": 35292,
   "clanCapitalPoints": 2709,
   "capitalLeague": {
     "id": 85000013,
@@ -1552,14 +1552,14 @@
         }
       },
       "trophies": 1283,
-      "builderBaseTrophies": 2213,
+      "builderBaseTrophies": 2180,
       "clanRank": 36,
       "previousClanRank": 36,
       "donations": 75,
       "donationsReceived": 482,
       "builderBaseLeague": {
-        "id": 44000021,
-        "name": "Brass League II"
+        "id": 44000020,
+        "name": "Brass League III"
       },
       "playerHouse": {
         "elements": [
@@ -1776,7 +1776,7 @@
       "name": "kvmvm",
       "role": 3,
       "townHallLevel": 11,
-      "expLevel": 101,
+      "expLevel": 102,
       "league": {
         "id": 29000005,
         "name": "Silver League II",
