@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32236,
+  "clanPoints": 32226,
   "clanBuilderBasePoints": 35860,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -51,7 +51,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 4976,
+      "trophies": 4960,
       "builderBaseTrophies": 4837,
       "clanRank": 1,
       "previousClanRank": 2,
@@ -1096,52 +1096,6 @@
       }
     },
     {
-      "tag": "#82RUY9RG9",
-      "name": "Rinse",
-      "role": 3,
-      "townHallLevel": 11,
-      "expLevel": 92,
-      "league": {
-        "id": 29000011,
-        "name": "Crystal League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png"
-        }
-      },
-      "trophies": 2158,
-      "builderBaseTrophies": 1595,
-      "clanRank": 25,
-      "previousClanRank": 25,
-      "donations": 125,
-      "donationsReceived": 2050,
-      "builderBaseLeague": {
-        "id": 44000015,
-        "name": "Copper League V"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000000
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000011
-          },
-          {
-            "type": 0,
-            "id": 82000058
-          }
-        ]
-      }
-    },
-    {
       "tag": "#JJRRR888",
       "name": "'t Brikje",
       "role": 3,
@@ -1158,7 +1112,7 @@
       },
       "trophies": 2157,
       "builderBaseTrophies": 2719,
-      "clanRank": 26,
+      "clanRank": 25,
       "previousClanRank": 26,
       "donations": 30,
       "donationsReceived": 77,
@@ -1183,6 +1137,52 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#82RUY9RG9",
+      "name": "Rinse",
+      "role": 3,
+      "townHallLevel": 11,
+      "expLevel": 92,
+      "league": {
+        "id": 29000011,
+        "name": "Crystal League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png"
+        }
+      },
+      "trophies": 2135,
+      "builderBaseTrophies": 1595,
+      "clanRank": 26,
+      "previousClanRank": 25,
+      "donations": 125,
+      "donationsReceived": 2050,
+      "builderBaseLeague": {
+        "id": 44000015,
+        "name": "Copper League V"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000000
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000011
+          },
+          {
+            "type": 0,
+            "id": 82000058
           }
         ]
       }
