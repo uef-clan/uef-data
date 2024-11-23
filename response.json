@@ -933,32 +933,6 @@
       }
     },
     {
-      "tag": "#29UC8C2PC",
-      "name": "Rutger",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 138,
-      "league": {
-        "id": 29000012,
-        "name": "Crystal League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
-        }
-      },
-      "trophies": 2424,
-      "builderBaseTrophies": 2960,
-      "clanRank": 21,
-      "previousClanRank": 22,
-      "donations": 40,
-      "donationsReceived": 54,
-      "builderBaseLeague": {
-        "id": 44000024,
-        "name": "Iron League II"
-      }
-    },
-    {
       "tag": "#QLV2URJYJ",
       "name": "harkooo",
       "role": 3,
@@ -974,7 +948,7 @@
       },
       "trophies": 2422,
       "builderBaseTrophies": 2352,
-      "clanRank": 22,
+      "clanRank": 21,
       "previousClanRank": 21,
       "donations": 0,
       "donationsReceived": 0,
@@ -1001,6 +975,32 @@
             "id": 82000066
           }
         ]
+      }
+    },
+    {
+      "tag": "#29UC8C2PC",
+      "name": "Rutger",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 138,
+      "league": {
+        "id": 29000012,
+        "name": "Crystal League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
+        }
+      },
+      "trophies": 2417,
+      "builderBaseTrophies": 2960,
+      "clanRank": 22,
+      "previousClanRank": 22,
+      "donations": 40,
+      "donationsReceived": 54,
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Iron League II"
       }
     },
     {
