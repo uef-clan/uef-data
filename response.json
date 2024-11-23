@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32184,
+  "clanPoints": 32186,
   "clanBuilderBasePoints": 35851,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3147,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 4817,
+      "donations": 4918,
       "donationsReceived": 6124,
       "builderBaseLeague": {
         "id": 44000025,
@@ -1161,7 +1161,7 @@
       "clanRank": 26,
       "previousClanRank": 25,
       "donations": 125,
-      "donationsReceived": 2050,
+      "donationsReceived": 2085,
       "builderBaseLeague": {
         "id": 44000016,
         "name": "Copper League IV"
@@ -1723,6 +1723,52 @@
       }
     },
     {
+      "tag": "#LV020LC28",
+      "name": "BroekUit",
+      "role": 3,
+      "townHallLevel": 10,
+      "expLevel": 81,
+      "league": {
+        "id": 29000007,
+        "name": "Gold League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
+        }
+      },
+      "trophies": 1403,
+      "builderBaseTrophies": 2491,
+      "clanRank": 40,
+      "previousClanRank": 41,
+      "donations": 0,
+      "donationsReceived": 691,
+      "builderBaseLeague": {
+        "id": 44000022,
+        "name": "Brass League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000016
+          },
+          {
+            "type": 0,
+            "id": 82000071
+          }
+        ]
+      }
+    },
+    {
       "tag": "#QUVJ8LGCP",
       "name": "kings09",
       "role": 3,
@@ -1739,7 +1785,7 @@
       },
       "trophies": 1383,
       "builderBaseTrophies": 1869,
-      "clanRank": 40,
+      "clanRank": 41,
       "previousClanRank": 40,
       "donations": 0,
       "donationsReceived": 66,
@@ -1764,52 +1810,6 @@
           {
             "type": 0,
             "id": 82000059
-          }
-        ]
-      }
-    },
-    {
-      "tag": "#LV020LC28",
-      "name": "BroekUit",
-      "role": 3,
-      "townHallLevel": 10,
-      "expLevel": 81,
-      "league": {
-        "id": 29000006,
-        "name": "Silver League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/nvrBLvCK10elRHmD1g9w5UU1flDRMhYAojMB2UbYfPs.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/nvrBLvCK10elRHmD1g9w5UU1flDRMhYAojMB2UbYfPs.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/nvrBLvCK10elRHmD1g9w5UU1flDRMhYAojMB2UbYfPs.png"
-        }
-      },
-      "trophies": 1381,
-      "builderBaseTrophies": 2491,
-      "clanRank": 41,
-      "previousClanRank": 41,
-      "donations": 0,
-      "donationsReceived": 625,
-      "builderBaseLeague": {
-        "id": 44000022,
-        "name": "Brass League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000016
-          },
-          {
-            "type": 0,
-            "id": 82000071
           }
         ]
       }
