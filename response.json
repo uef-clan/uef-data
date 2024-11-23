@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32269,
+  "clanPoints": 32257,
   "clanBuilderBasePoints": 35872,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -173,7 +173,7 @@
       "builderBaseTrophies": 4500,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 9014,
+      "donations": 9097,
       "donationsReceived": 9084,
       "builderBaseLeague": {
         "id": 44000032,
@@ -261,12 +261,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
         }
       },
-      "trophies": 4417,
+      "trophies": 4392,
       "builderBaseTrophies": 3346,
       "clanRank": 6,
       "previousClanRank": 6,
       "donations": 8728,
-      "donationsReceived": 9222,
+      "donationsReceived": 9305,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -312,7 +312,7 @@
       "clanRank": 7,
       "previousClanRank": 7,
       "donations": 4714,
-      "donationsReceived": 6004,
+      "donationsReceived": 6044,
       "builderBaseLeague": {
         "id": 44000025,
         "name": "Iron League I"
@@ -1879,7 +1879,7 @@
       "builderBaseTrophies": 4808,
       "clanRank": 43,
       "previousClanRank": 43,
-      "donations": 5752,
+      "donations": 5792,
       "donationsReceived": 593,
       "builderBaseLeague": {
         "id": 44000034,
