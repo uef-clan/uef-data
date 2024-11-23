@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32322,
+  "clanPoints": 32328,
   "clanBuilderBasePoints": 35872,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -215,7 +215,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
         }
       },
-      "trophies": 4501,
+      "trophies": 4512,
       "builderBaseTrophies": 2397,
       "clanRank": 5,
       "previousClanRank": 5,
@@ -572,7 +572,7 @@
       "name": "wes",
       "role": 3,
       "townHallLevel": 14,
-      "expLevel": 182,
+      "expLevel": 183,
       "league": {
         "id": 29000014,
         "name": "Master League II",
