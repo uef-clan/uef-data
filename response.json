@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32209,
-  "clanBuilderBasePoints": 35860,
+  "clanPoints": 32224,
+  "clanBuilderBasePoints": 35876,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
     "id": 85000014,
@@ -399,7 +399,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
         }
       },
-      "trophies": 3200,
+      "trophies": 3230,
       "builderBaseTrophies": 3402,
       "clanRank": 9,
       "previousClanRank": 10,
@@ -492,7 +492,7 @@
         }
       },
       "trophies": 3074,
-      "builderBaseTrophies": 4875,
+      "builderBaseTrophies": 4900,
       "clanRank": 11,
       "previousClanRank": 9,
       "donations": 1457,
@@ -1157,14 +1157,14 @@
         }
       },
       "trophies": 2135,
-      "builderBaseTrophies": 1595,
+      "builderBaseTrophies": 1677,
       "clanRank": 26,
       "previousClanRank": 25,
       "donations": 125,
       "donationsReceived": 2050,
       "builderBaseLeague": {
-        "id": 44000015,
-        "name": "Copper League V"
+        "id": 44000016,
+        "name": "Copper League IV"
       },
       "playerHouse": {
         "elements": [
