@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32219,
-  "clanBuilderBasePoints": 35861,
+  "clanPoints": 32222,
+  "clanBuilderBasePoints": 35865,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
     "id": 85000014,
@@ -933,6 +933,32 @@
       }
     },
     {
+      "tag": "#29UC8C2PC",
+      "name": "Rutger",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 138,
+      "league": {
+        "id": 29000012,
+        "name": "Crystal League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
+        }
+      },
+      "trophies": 2424,
+      "builderBaseTrophies": 2960,
+      "clanRank": 21,
+      "previousClanRank": 22,
+      "donations": 40,
+      "donationsReceived": 54,
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Iron League II"
+      }
+    },
+    {
       "tag": "#QLV2URJYJ",
       "name": "harkooo",
       "role": 3,
@@ -948,7 +974,7 @@
       },
       "trophies": 2422,
       "builderBaseTrophies": 2352,
-      "clanRank": 21,
+      "clanRank": 22,
       "previousClanRank": 21,
       "donations": 0,
       "donationsReceived": 0,
@@ -975,32 +1001,6 @@
             "id": 82000066
           }
         ]
-      }
-    },
-    {
-      "tag": "#29UC8C2PC",
-      "name": "Rutger",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 138,
-      "league": {
-        "id": 29000012,
-        "name": "Crystal League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
-        }
-      },
-      "trophies": 2398,
-      "builderBaseTrophies": 2960,
-      "clanRank": 22,
-      "previousClanRank": 22,
-      "donations": 40,
-      "donationsReceived": 54,
-      "builderBaseLeague": {
-        "id": 44000024,
-        "name": "Iron League II"
       }
     },
     {
@@ -1320,14 +1320,14 @@
         }
       },
       "trophies": 1933,
-      "builderBaseTrophies": 2396,
+      "builderBaseTrophies": 2425,
       "clanRank": 30,
       "previousClanRank": 30,
       "donations": 88,
       "donationsReceived": 1899,
       "builderBaseLeague": {
-        "id": 44000021,
-        "name": "Brass League II"
+        "id": 44000022,
+        "name": "Brass League I"
       },
       "playerHouse": {
         "elements": [
