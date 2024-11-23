@@ -17,7 +17,7 @@
   },
   "clanLevel": 22,
   "clanPoints": 32320,
-  "clanBuilderBasePoints": 35872,
+  "clanBuilderBasePoints": 35866,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
     "id": 85000014,
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3147,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 4769,
+      "donations": 4770,
       "donationsReceived": 6124,
       "builderBaseLeague": {
         "id": 44000025,
@@ -450,7 +450,7 @@
       "clanRank": 10,
       "previousClanRank": 9,
       "donations": 1457,
-      "donationsReceived": 1157,
+      "donationsReceived": 1158,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -1773,7 +1773,7 @@
       "name": "BroekUit",
       "role": 3,
       "townHallLevel": 10,
-      "expLevel": 80,
+      "expLevel": 81,
       "league": {
         "id": 29000006,
         "name": "Silver League I",
@@ -1784,7 +1784,7 @@
         }
       },
       "trophies": 1365,
-      "builderBaseTrophies": 2563,
+      "builderBaseTrophies": 2513,
       "clanRank": 41,
       "previousClanRank": 41,
       "donations": 0,
