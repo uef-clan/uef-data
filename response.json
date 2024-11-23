@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32291,
+  "clanPoints": 32278,
   "clanBuilderBasePoints": 35872,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -83,6 +83,32 @@
       }
     },
     {
+      "tag": "#2Y08ULL9J",
+      "name": "Azka Thegazters",
+      "role": 1,
+      "townHallLevel": 15,
+      "expLevel": 217,
+      "league": {
+        "id": 29000021,
+        "name": "Titan League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+        }
+      },
+      "trophies": 4938,
+      "builderBaseTrophies": 3718,
+      "clanRank": 2,
+      "previousClanRank": 3,
+      "donations": 603,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000028,
+        "name": "Steel League I"
+      }
+    },
+    {
       "tag": "#9GYP9288C",
       "name": "King niels",
       "role": 3,
@@ -97,9 +123,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 4968,
+      "trophies": 4938,
       "builderBaseTrophies": 4197,
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 1,
       "donations": 1172,
       "donationsReceived": 83,
@@ -126,32 +152,6 @@
             "id": 82000068
           }
         ]
-      }
-    },
-    {
-      "tag": "#2Y08ULL9J",
-      "name": "Azka Thegazters",
-      "role": 1,
-      "townHallLevel": 15,
-      "expLevel": 217,
-      "league": {
-        "id": 29000021,
-        "name": "Titan League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
-        }
-      },
-      "trophies": 4938,
-      "builderBaseTrophies": 3718,
-      "clanRank": 3,
-      "previousClanRank": 3,
-      "donations": 603,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000028,
-        "name": "Steel League I"
       }
     },
     {
@@ -1192,7 +1192,7 @@
       "name": "Dokter B",
       "role": 3,
       "townHallLevel": 13,
-      "expLevel": 166,
+      "expLevel": 167,
       "league": {
         "id": 29000010,
         "name": "Crystal League III",
@@ -1202,7 +1202,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
         }
       },
-      "trophies": 2073,
+      "trophies": 2091,
       "builderBaseTrophies": 2857,
       "clanRank": 27,
       "previousClanRank": 27,
