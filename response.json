@@ -17,7 +17,7 @@
   },
   "clanLevel": 22,
   "clanPoints": 32230,
-  "clanBuilderBasePoints": 35850,
+  "clanBuilderBasePoints": 35851,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
     "id": 85000014,
@@ -389,7 +389,7 @@
       "name": "CuriousWanderer",
       "role": 1,
       "townHallLevel": 15,
-      "expLevel": 212,
+      "expLevel": 213,
       "league": {
         "id": 29000016,
         "name": "Champion League III",
@@ -1529,7 +1529,7 @@
         }
       },
       "trophies": 1734,
-      "builderBaseTrophies": 2439,
+      "builderBaseTrophies": 2448,
       "clanRank": 35,
       "previousClanRank": 35,
       "donations": 122,
