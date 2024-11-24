@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32239,
-  "clanBuilderBasePoints": 35818,
+  "clanPoints": 32243,
+  "clanBuilderBasePoints": 35832,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
     "id": 85000014,
@@ -98,14 +98,14 @@
         }
       },
       "trophies": 4959,
-      "builderBaseTrophies": 4181,
+      "builderBaseTrophies": 4211,
       "clanRank": 2,
       "previousClanRank": 2,
-      "donations": 1222,
+      "donations": 1252,
       "donationsReceived": 83,
       "builderBaseLeague": {
-        "id": 44000030,
-        "name": "Titanium League II"
+        "id": 44000031,
+        "name": "Titanium League I"
       },
       "playerHouse": {
         "elements": [
@@ -215,7 +215,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
         }
       },
-      "trophies": 4539,
+      "trophies": 4545,
       "builderBaseTrophies": 2397,
       "clanRank": 5,
       "previousClanRank": 5,
@@ -1156,12 +1156,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png"
         }
       },
-      "trophies": 2120,
-      "builderBaseTrophies": 1635,
+      "trophies": 2128,
+      "builderBaseTrophies": 1628,
       "clanRank": 26,
       "previousClanRank": 26,
       "donations": 125,
-      "donationsReceived": 2154,
+      "donationsReceived": 2184,
       "builderBaseLeague": {
         "id": 44000016,
         "name": "Copper League IV"
