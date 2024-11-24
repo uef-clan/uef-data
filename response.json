@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32240,
+  "clanPoints": 32239,
   "clanBuilderBasePoints": 35826,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -1146,7 +1146,7 @@
       "name": "Rinse",
       "role": 3,
       "townHallLevel": 11,
-      "expLevel": 92,
+      "expLevel": 93,
       "league": {
         "id": 29000011,
         "name": "Crystal League II",
@@ -1156,7 +1156,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png"
         }
       },
-      "trophies": 2132,
+      "trophies": 2120,
       "builderBaseTrophies": 1635,
       "clanRank": 26,
       "previousClanRank": 26,
