@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32262,
-  "clanBuilderBasePoints": 35845,
+  "clanPoints": 32264,
+  "clanBuilderBasePoints": 35846,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
     "id": 85000014,
@@ -1391,7 +1391,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
         }
       },
-      "trophies": 1860,
+      "trophies": 1880,
       "builderBaseTrophies": 5000,
       "clanRank": 32,
       "previousClanRank": 32,
@@ -1968,14 +1968,14 @@
         }
       },
       "trophies": 812,
-      "builderBaseTrophies": 1293,
+      "builderBaseTrophies": 1306,
       "clanRank": 45,
       "previousClanRank": 45,
       "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
-        "id": 44000012,
-        "name": "Stone League III"
+        "id": 44000013,
+        "name": "Stone League II"
       }
     },
     {
