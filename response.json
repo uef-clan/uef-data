@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32219,
+  "clanPoints": 32224,
   "clanBuilderBasePoints": 35844,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -169,12 +169,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4801,
+      "trophies": 4811,
       "builderBaseTrophies": 4500,
       "clanRank": 4,
       "previousClanRank": 4,
       "donations": 9363,
-      "donationsReceived": 9317,
+      "donationsReceived": 9398,
       "builderBaseLeague": {
         "id": 44000032,
         "name": "Platinum League III"
@@ -265,7 +265,7 @@
       "builderBaseTrophies": 3346,
       "clanRank": 6,
       "previousClanRank": 6,
-      "donations": 8961,
+      "donations": 9042,
       "donationsReceived": 9571,
       "builderBaseLeague": {
         "id": 44000026,
