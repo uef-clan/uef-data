@@ -17,7 +17,7 @@
   },
   "clanLevel": 22,
   "clanPoints": 32161,
-  "clanBuilderBasePoints": 35824,
+  "clanBuilderBasePoints": 35829,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
     "id": 85000014,
@@ -1529,14 +1529,14 @@
         }
       },
       "trophies": 1714,
-      "builderBaseTrophies": 2361,
+      "builderBaseTrophies": 2411,
       "clanRank": 35,
       "previousClanRank": 35,
       "donations": 91,
       "donationsReceived": 1428,
       "builderBaseLeague": {
-        "id": 44000021,
-        "name": "Brass League II"
+        "id": 44000022,
+        "name": "Brass League I"
       },
       "playerHouse": {
         "elements": [
