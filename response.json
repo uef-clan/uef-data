@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32214,
+  "clanPoints": 32213,
   "clanBuilderBasePoints": 35849,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3147,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 5104,
+      "donations": 5109,
       "donationsReceived": 6284,
       "builderBaseLeague": {
         "id": 44000025,
@@ -917,7 +917,7 @@
       "name": "Epic Goblin",
       "role": 3,
       "townHallLevel": 13,
-      "expLevel": 163,
+      "expLevel": 164,
       "league": {
         "id": 29000012,
         "name": "Crystal League I",
@@ -927,7 +927,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
         }
       },
-      "trophies": 2477,
+      "trophies": 2470,
       "builderBaseTrophies": 1843,
       "clanRank": 21,
       "previousClanRank": 20,
@@ -1115,7 +1115,7 @@
       "clanRank": 25,
       "previousClanRank": 25,
       "donations": 30,
-      "donationsReceived": 149,
+      "donationsReceived": 154,
       "builderBaseLeague": {
         "id": 44000023,
         "name": "Iron League III"
