@@ -55,8 +55,8 @@
       "builderBaseTrophies": 4837,
       "clanRank": 1,
       "previousClanRank": 1,
-      "donations": 2432,
-      "donationsReceived": 3410,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -100,8 +100,8 @@
       "builderBaseTrophies": 4211,
       "clanRank": 2,
       "previousClanRank": 2,
-      "donations": 1252,
-      "donationsReceived": 83,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000031,
         "name": "Titanium League I"
@@ -134,19 +134,18 @@
       "townHallLevel": 15,
       "expLevel": 217,
       "league": {
-        "id": 29000021,
-        "name": "Titan League I",
+        "id": 29000000,
+        "name": "Unranked",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
       "trophies": 4937,
       "builderBaseTrophies": 3718,
       "clanRank": 3,
       "previousClanRank": 3,
-      "donations": 723,
+      "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000028,
@@ -172,8 +171,8 @@
       "builderBaseTrophies": 4500,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 9944,
-      "donationsReceived": 9977,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000032,
         "name": "Platinum League III"
@@ -218,8 +217,8 @@
       "builderBaseTrophies": 2477,
       "clanRank": 5,
       "previousClanRank": 5,
-      "donations": 610,
-      "donationsReceived": 456,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
@@ -264,8 +263,8 @@
       "builderBaseTrophies": 3346,
       "clanRank": 6,
       "previousClanRank": 6,
-      "donations": 9621,
-      "donationsReceived": 10152,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -310,8 +309,8 @@
       "builderBaseTrophies": 3124,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 5175,
-      "donationsReceived": 6324,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000025,
         "name": "Iron League I"
@@ -356,8 +355,8 @@
       "builderBaseTrophies": 2797,
       "clanRank": 8,
       "previousClanRank": 8,
-      "donations": 3626,
-      "donationsReceived": 1391,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000023,
         "name": "Iron League III"
@@ -402,8 +401,8 @@
       "builderBaseTrophies": 3402,
       "clanRank": 9,
       "previousClanRank": 9,
-      "donations": 2924,
-      "donationsReceived": 853,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000027,
         "name": "Steel League II"
@@ -448,8 +447,8 @@
       "builderBaseTrophies": 2111,
       "clanRank": 10,
       "previousClanRank": 10,
-      "donations": 36,
-      "donationsReceived": 1869,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000020,
         "name": "Brass League III"
@@ -494,8 +493,8 @@
       "builderBaseTrophies": 4819,
       "clanRank": 11,
       "previousClanRank": 11,
-      "donations": 1457,
-      "donationsReceived": 1253,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -540,7 +539,7 @@
       "builderBaseTrophies": 2562,
       "clanRank": 12,
       "previousClanRank": 12,
-      "donations": 198,
+      "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000022,
@@ -675,7 +674,7 @@
       "builderBaseTrophies": 3432,
       "clanRank": 15,
       "previousClanRank": 15,
-      "donations": 104,
+      "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000027,
@@ -812,8 +811,8 @@
       "builderBaseTrophies": 2209,
       "clanRank": 18,
       "previousClanRank": 18,
-      "donations": 76,
-      "donationsReceived": 312,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
@@ -858,8 +857,8 @@
       "builderBaseTrophies": 2960,
       "clanRank": 19,
       "previousClanRank": 21,
-      "donations": 97,
-      "donationsReceived": 54,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000024,
         "name": "Iron League II"
@@ -929,8 +928,8 @@
       "builderBaseTrophies": 1843,
       "clanRank": 21,
       "previousClanRank": 20,
-      "donations": 79,
-      "donationsReceived": 154,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000018,
         "name": "Copper League II"
@@ -1021,7 +1020,7 @@
       "clanRank": 23,
       "previousClanRank": 23,
       "donations": 0,
-      "donationsReceived": 225,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000023,
         "name": "Iron League III"
@@ -1066,8 +1065,8 @@
       "builderBaseTrophies": 2676,
       "clanRank": 24,
       "previousClanRank": 25,
-      "donations": 30,
-      "donationsReceived": 154,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000023,
         "name": "Iron League III"
@@ -1158,8 +1157,8 @@
       "builderBaseTrophies": 1658,
       "clanRank": 26,
       "previousClanRank": 26,
-      "donations": 160,
-      "donationsReceived": 2221,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000016,
         "name": "Copper League IV"
@@ -1204,8 +1203,8 @@
       "builderBaseTrophies": 2857,
       "clanRank": 27,
       "previousClanRank": 27,
-      "donations": 154,
-      "donationsReceived": 633,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000024,
         "name": "Iron League II"
@@ -1250,8 +1249,8 @@
       "builderBaseTrophies": 2385,
       "clanRank": 28,
       "previousClanRank": 29,
-      "donations": 92,
-      "donationsReceived": 2191,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
@@ -1342,7 +1341,7 @@
       "clanRank": 30,
       "previousClanRank": 30,
       "donations": 0,
-      "donationsReceived": 134,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
@@ -1367,8 +1366,8 @@
       "builderBaseTrophies": 2026,
       "clanRank": 31,
       "previousClanRank": 31,
-      "donations": 2,
-      "donationsReceived": 174,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000020,
         "name": "Brass League III"
@@ -1393,8 +1392,8 @@
       "builderBaseTrophies": 5000,
       "clanRank": 32,
       "previousClanRank": 32,
-      "donations": 2142,
-      "donationsReceived": 617,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000035,
         "name": "Emerald League III"
@@ -1530,8 +1529,8 @@
       "builderBaseTrophies": 2398,
       "clanRank": 35,
       "previousClanRank": 34,
-      "donations": 122,
-      "donationsReceived": 1595,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
@@ -1669,7 +1668,7 @@
       "clanRank": 38,
       "previousClanRank": 38,
       "donations": 0,
-      "donationsReceived": 34,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000006,
         "name": "Clay League IV"
@@ -1740,7 +1739,7 @@
       "clanRank": 40,
       "previousClanRank": 40,
       "donations": 0,
-      "donationsReceived": 691,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
@@ -1786,7 +1785,7 @@
       "clanRank": 41,
       "previousClanRank": 41,
       "donations": 0,
-      "donationsReceived": 573,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
@@ -1832,7 +1831,7 @@
       "clanRank": 42,
       "previousClanRank": 42,
       "donations": 0,
-      "donationsReceived": 66,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000018,
         "name": "Copper League II"
@@ -1877,8 +1876,8 @@
       "builderBaseTrophies": 4808,
       "clanRank": 43,
       "previousClanRank": 43,
-      "donations": 6072,
-      "donationsReceived": 593,
+      "donations": 0,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -1924,7 +1923,7 @@
       "clanRank": 44,
       "previousClanRank": 44,
       "donations": 0,
-      "donationsReceived": 628,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000027,
         "name": "Steel League II"
@@ -1970,7 +1969,7 @@
       "clanRank": 45,
       "previousClanRank": 45,
       "donations": 0,
-      "donationsReceived": 26,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000013,
         "name": "Stone League II"
@@ -2088,7 +2087,7 @@
       "clanRank": 48,
       "previousClanRank": 48,
       "donations": 0,
-      "donationsReceived": 130,
+      "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000023,
         "name": "Iron League III"
