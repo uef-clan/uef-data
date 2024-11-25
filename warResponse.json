@@ -1,37 +1,359 @@
 {
-  "state": "notInWar",
-  "teamSize": 0,
-  "attacksPerMember": 0,
-  "battleModifier": null,
-  "preparationStartTime": null,
-  "startTime": null,
-  "endTime": null,
+  "state": "preparation",
+  "teamSize": 20,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "preparationStartTime": "20241125T234634.000Z",
+  "startTime": "20241126T224634.000Z",
+  "endTime": "20241127T224634.000Z",
   "clan": {
-    "tag": null,
-    "name": null,
+    "tag": "#VLRLQGU",
+    "name": "www.uef-clan.eu",
     "badgeUrls": {
-      "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      "small": "https://api-assets.clashofclans.com/badges/70/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
-    "clanLevel": 0,
+    "clanLevel": 23,
     "attacks": 0,
     "stars": 0,
     "destructionPercentage": 0.0,
-    "members": null
+    "members": [
+      {
+        "tag": "#G2LRGULG0",
+        "name": "stefkefilms",
+        "townhallLevel": 11,
+        "mapPosition": 13,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#JJRRR888",
+        "name": "'t Brikje",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QJ0VCVQYC",
+        "name": "Frank",
+        "townhallLevel": 10,
+        "mapPosition": 17,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QJ02YGJR0",
+        "name": "Tobias",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#9L9RRPV2G",
+        "name": "Tobias",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2GG0VGQ9Y",
+        "name": "Lynn & Daan",
+        "townhallLevel": 8,
+        "mapPosition": 19,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2Y08ULL9J",
+        "name": "Azka Thegazters",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#89Q0YQYL",
+        "name": "Beunmeister",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QG8RPCL02",
+        "name": "max",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#RVGCJGQ8",
+        "name": "CuriousWanderer",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#999JUCGLG",
+        "name": "Paddy Field",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#U0YLJVY0",
+        "name": "FrankMan",
+        "townhallLevel": 11,
+        "mapPosition": 14,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#29UC8C2PC",
+        "name": "Rutger",
+        "townhallLevel": 12,
+        "mapPosition": 11,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GGPCCUG8P",
+        "name": "GuusjeMan",
+        "townhallLevel": 11,
+        "mapPosition": 12,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QRYPQJUPY",
+        "name": "sander",
+        "townhallLevel": 8,
+        "mapPosition": 18,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#P8UVRLJQR",
+        "name": "Gekke Man",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#LJ02J988Q",
+        "name": "Guusje",
+        "townhallLevel": 11,
+        "mapPosition": 15,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QP8UV2L9R",
+        "name": "tijmen6",
+        "townhallLevel": 9,
+        "mapPosition": 16,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#82QCPCG9P",
+        "name": "wes",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#20CCR02Q",
+        "name": "Daan",
+        "townhallLevel": 7,
+        "mapPosition": 20,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      }
+    ]
   },
   "opponent": {
-    "tag": null,
-    "name": null,
+    "tag": "#YQP02828",
+    "name": "made in iran",
     "badgeUrls": {
-      "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      "small": "https://api-assets.clashofclans.com/badges/70/Q73YssjMLR8jT-gGToUvIyND4H-T3Fs71aNZ6CT53pU.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/Q73YssjMLR8jT-gGToUvIyND4H-T3Fs71aNZ6CT53pU.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/Q73YssjMLR8jT-gGToUvIyND4H-T3Fs71aNZ6CT53pU.png"
     },
-    "clanLevel": 0,
+    "clanLevel": 20,
     "attacks": 0,
     "stars": 0,
     "destructionPercentage": 0.0,
-    "members": null
+    "members": [
+      {
+        "tag": "#Q80J8P902",
+        "name": "aminnaghavi3",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#G892YU2VU",
+        "name": "sadaf",
+        "townhallLevel": 11,
+        "mapPosition": 13,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#892J28JC",
+        "name": "davood",
+        "townhallLevel": 10,
+        "mapPosition": 15,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#28YCVLP0U",
+        "name": "navid.plm",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2L2C9VQLP",
+        "name": "amin naghavi",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#G8C0V9U9J",
+        "name": "shahzad king",
+        "townhallLevel": 7,
+        "mapPosition": 19,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2PURQUVPP",
+        "name": "aminnaghavi2",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QRP2C0R9Y",
+        "name": "Armin",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2U8GV9UGV",
+        "name": "*Ramin*",
+        "townhallLevel": 11,
+        "mapPosition": 12,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#G8UJ020UY",
+        "name": "hi",
+        "townhallLevel": 6,
+        "mapPosition": 18,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#G8C8LVQJL",
+        "name": "John'",
+        "townhallLevel": 6,
+        "mapPosition": 20,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QYURYCVCP",
+        "name": "hoom",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#G8UYY9VLJ",
+        "name": "NaHiD",
+        "townhallLevel": 9,
+        "mapPosition": 16,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#20GP9VYL9",
+        "name": "farshad maxes",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#99V8QP8",
+        "name": "cr7",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#G8VCYGG8C",
+        "name": "amirho",
+        "townhallLevel": 13,
+        "mapPosition": 11,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#Q92YVPYJG",
+        "name": "amir",
+        "townhallLevel": 10,
+        "mapPosition": 14,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QCCV2PL2Q",
+        "name": "ggking",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#8L90UYP89",
+        "name": "rashid",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#G2U9Q8LVJ",
+        "name": "leo",
+        "townhallLevel": 9,
+        "mapPosition": 17,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      }
+    ]
   }
 }
