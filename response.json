@@ -1234,12 +1234,11 @@
       "townHallLevel": 11,
       "expLevel": 87,
       "league": {
-        "id": 29000010,
-        "name": "Crystal League III",
+        "id": 29000000,
+        "name": "Unranked",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
       "trophies": 2009,
@@ -1247,7 +1246,7 @@
       "clanRank": 28,
       "previousClanRank": 29,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 35,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
@@ -1433,7 +1432,7 @@
       "builderBaseTrophies": 2555,
       "clanRank": 33,
       "previousClanRank": 33,
-      "donations": 37,
+      "donations": 72,
       "donationsReceived": 69,
       "builderBaseLeague": {
         "id": 44000022,
