@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32258,
+  "clanPoints": 32250,
   "clanBuilderBasePoints": 36085,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -563,51 +563,6 @@
       }
     },
     {
-      "tag": "#8JVJRCUV",
-      "name": "NielS",
-      "role": 3,
-      "townHallLevel": 13,
-      "expLevel": 183,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 2838,
-      "builderBaseTrophies": 3980,
-      "clanRank": 13,
-      "previousClanRank": 13,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000029,
-        "name": "Titanium League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000052
-          },
-          {
-            "type": 2,
-            "id": 82000081
-          },
-          {
-            "type": 0,
-            "id": 82000058
-          }
-        ]
-      }
-    },
-    {
       "tag": "#20GL00CQ9",
       "name": "Klein Diempje",
       "role": 3,
@@ -623,7 +578,7 @@
       },
       "trophies": 2811,
       "builderBaseTrophies": 3907,
-      "clanRank": 14,
+      "clanRank": 13,
       "previousClanRank": 14,
       "donations": 0,
       "donationsReceived": 0,
@@ -648,6 +603,51 @@
           {
             "type": 0,
             "id": 82000066
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#8JVJRCUV",
+      "name": "NielS",
+      "role": 3,
+      "townHallLevel": 13,
+      "expLevel": 183,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 2811,
+      "builderBaseTrophies": 3980,
+      "clanRank": 14,
+      "previousClanRank": 13,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000029,
+        "name": "Titanium League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000052
+          },
+          {
+            "type": 2,
+            "id": 82000081
+          },
+          {
+            "type": 0,
+            "id": 82000058
           }
         ]
       }
@@ -1414,51 +1414,6 @@
       }
     },
     {
-      "tag": "#999JUCGLG",
-      "name": "Paddy Field",
-      "role": 1,
-      "townHallLevel": 15,
-      "expLevel": 244,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 1870,
-      "builderBaseTrophies": 5000,
-      "clanRank": 33,
-      "previousClanRank": 32,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000035,
-        "name": "Emerald League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000054
-          },
-          {
-            "type": 2,
-            "id": 82000041
-          },
-          {
-            "type": 0,
-            "id": 82000089
-          }
-        ]
-      }
-    },
-    {
       "tag": "#99LQPJ2UG",
       "name": "sdetopper",
       "role": 3,
@@ -1475,7 +1430,7 @@
       },
       "trophies": 1868,
       "builderBaseTrophies": 2555,
-      "clanRank": 34,
+      "clanRank": 33,
       "previousClanRank": 33,
       "donations": 72,
       "donationsReceived": 136,
@@ -1500,6 +1455,51 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#999JUCGLG",
+      "name": "Paddy Field",
+      "role": 1,
+      "townHallLevel": 15,
+      "expLevel": 244,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 1860,
+      "builderBaseTrophies": 5000,
+      "clanRank": 34,
+      "previousClanRank": 32,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000054
+          },
+          {
+            "type": 2,
+            "id": 82000041
+          },
+          {
+            "type": 0,
+            "id": 82000089
           }
         ]
       }
