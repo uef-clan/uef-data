@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32111,
-  "clanBuilderBasePoints": 35829,
+  "clanPoints": 32032,
+  "clanBuilderBasePoints": 35835,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -259,11 +259,11 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png"
         }
       },
-      "trophies": 4376,
+      "trophies": 4255,
       "builderBaseTrophies": 3346,
       "clanRank": 6,
       "previousClanRank": 6,
-      "donations": 185,
+      "donations": 215,
       "donationsReceived": 216,
       "builderBaseLeague": {
         "id": 44000026,
@@ -308,7 +308,7 @@
       "builderBaseTrophies": 3124,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 37,
+      "donations": 69,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000025,
@@ -382,52 +382,6 @@
       }
     },
     {
-      "tag": "#RVGCJGQ8",
-      "name": "CuriousWanderer",
-      "role": 1,
-      "townHallLevel": 15,
-      "expLevel": 213,
-      "league": {
-        "id": 29000016,
-        "name": "Champion League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
-        }
-      },
-      "trophies": 3120,
-      "builderBaseTrophies": 3402,
-      "clanRank": 9,
-      "previousClanRank": 9,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000027,
-        "name": "Steel League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000010
-          },
-          {
-            "type": 0,
-            "id": 82000064
-          }
-        ]
-      }
-    },
-    {
       "tag": "#QG8RPCL02",
       "name": "max",
       "role": 3,
@@ -444,7 +398,7 @@
       },
       "trophies": 3086,
       "builderBaseTrophies": 2111,
-      "clanRank": 10,
+      "clanRank": 9,
       "previousClanRank": 10,
       "donations": 0,
       "donationsReceived": 0,
@@ -469,6 +423,52 @@
           {
             "type": 0,
             "id": 82000071
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#RVGCJGQ8",
+      "name": "CuriousWanderer",
+      "role": 1,
+      "townHallLevel": 15,
+      "expLevel": 213,
+      "league": {
+        "id": 29000015,
+        "name": "Master League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
+        }
+      },
+      "trophies": 3084,
+      "builderBaseTrophies": 3402,
+      "clanRank": 10,
+      "previousClanRank": 9,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000027,
+        "name": "Steel League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000010
+          },
+          {
+            "type": 0,
+            "id": 82000064
           }
         ]
       }
@@ -1432,11 +1432,11 @@
         }
       },
       "trophies": 1845,
-      "builderBaseTrophies": 2486,
+      "builderBaseTrophies": 2536,
       "clanRank": 33,
       "previousClanRank": 33,
       "donations": 37,
-      "donationsReceived": 7,
+      "donationsReceived": 69,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
