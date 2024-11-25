@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32151,
+  "clanPoints": 32150,
   "clanBuilderBasePoints": 35835,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -1466,51 +1466,6 @@
       }
     },
     {
-      "tag": "#892VLVPG8",
-      "name": "GeTReKT",
-      "role": 3,
-      "townHallLevel": 11,
-      "expLevel": 125,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 1736,
-      "builderBaseTrophies": 2188,
-      "clanRank": 34,
-      "previousClanRank": 35,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000020,
-        "name": "Brass League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000000
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000014
-          },
-          {
-            "type": 0,
-            "id": 82000060
-          }
-        ]
-      }
-    },
-    {
       "tag": "#G2LRGULG0",
       "name": "stefkefilms",
       "role": 3,
@@ -1527,7 +1482,7 @@
       },
       "trophies": 1734,
       "builderBaseTrophies": 2398,
-      "clanRank": 35,
+      "clanRank": 34,
       "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
@@ -1552,6 +1507,51 @@
           {
             "type": 0,
             "id": 82000064
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#892VLVPG8",
+      "name": "GeTReKT",
+      "role": 3,
+      "townHallLevel": 11,
+      "expLevel": 125,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 1720,
+      "builderBaseTrophies": 2188,
+      "clanRank": 35,
+      "previousClanRank": 35,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Brass League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000000
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000014
+          },
+          {
+            "type": 0,
+            "id": 82000060
           }
         ]
       }
