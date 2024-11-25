@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32292,
+  "clanPoints": 32288,
   "clanBuilderBasePoints": 36085,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -566,51 +566,6 @@
       }
     },
     {
-      "tag": "#20GL00CQ9",
-      "name": "Klein Diempje",
-      "role": 3,
-      "townHallLevel": 14,
-      "expLevel": 199,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 2811,
-      "builderBaseTrophies": 3907,
-      "clanRank": 13,
-      "previousClanRank": 14,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000029,
-        "name": "Titanium League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000081
-          },
-          {
-            "type": 0,
-            "id": 82000066
-          }
-        ]
-      }
-    },
-    {
       "tag": "#8JVJRCUV",
       "name": "NielS",
       "role": 3,
@@ -626,7 +581,7 @@
       },
       "trophies": 2811,
       "builderBaseTrophies": 3980,
-      "clanRank": 14,
+      "clanRank": 13,
       "previousClanRank": 13,
       "donations": 0,
       "donationsReceived": 0,
@@ -651,6 +606,51 @@
           {
             "type": 0,
             "id": 82000058
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#20GL00CQ9",
+      "name": "Klein Diempje",
+      "role": 3,
+      "townHallLevel": 14,
+      "expLevel": 199,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 2794,
+      "builderBaseTrophies": 3907,
+      "clanRank": 14,
+      "previousClanRank": 14,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000029,
+        "name": "Titanium League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000081
+          },
+          {
+            "type": 0,
+            "id": 82000066
           }
         ]
       }
