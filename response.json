@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32155,
+  "clanPoints": 32158,
   "clanBuilderBasePoints": 35835,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -172,7 +172,7 @@
       "builderBaseTrophies": 4500,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 50,
+      "donations": 102,
       "donationsReceived": 103,
       "builderBaseLeague": {
         "id": 44000032,
@@ -252,19 +252,20 @@
       "townHallLevel": 15,
       "expLevel": 199,
       "league": {
-        "id": 29000000,
-        "name": "Unranked",
+        "id": 29000019,
+        "name": "Titan League III",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png"
         }
       },
-      "trophies": 4351,
+      "trophies": 4356,
       "builderBaseTrophies": 3346,
       "clanRank": 6,
       "previousClanRank": 6,
       "donations": 102,
-      "donationsReceived": 50,
+      "donationsReceived": 103,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -1437,7 +1438,7 @@
       "builderBaseTrophies": 2536,
       "clanRank": 33,
       "previousClanRank": 33,
-      "donations": 36,
+      "donations": 37,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000022,
