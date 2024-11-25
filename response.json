@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32268,
+  "clanPoints": 32284,
   "clanBuilderBasePoints": 36087,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -37,6 +37,52 @@
   "members": 50,
   "memberList": [
     {
+      "tag": "#89Q0YQYL",
+      "name": "Beunmeister",
+      "role": 1,
+      "townHallLevel": 17,
+      "expLevel": 261,
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      },
+      "trophies": 5002,
+      "builderBaseTrophies": 4837,
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 30,
+      "donationsReceived": 81,
+      "builderBaseLeague": {
+        "id": 44000034,
+        "name": "Platinum League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000079
+          },
+          {
+            "type": 2,
+            "id": 82000081
+          },
+          {
+            "type": 0,
+            "id": 82000071
+          }
+        ]
+      }
+    },
+    {
       "tag": "#9GYP9288C",
       "name": "King niels",
       "role": 3,
@@ -53,7 +99,7 @@
       },
       "trophies": 4979,
       "builderBaseTrophies": 4211,
-      "clanRank": 1,
+      "clanRank": 2,
       "previousClanRank": 2,
       "donations": 75,
       "donationsReceived": 0,
@@ -99,59 +145,13 @@
       },
       "trophies": 4978,
       "builderBaseTrophies": 3718,
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 3,
       "donations": 30,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000028,
         "name": "Steel League I"
-      }
-    },
-    {
-      "tag": "#89Q0YQYL",
-      "name": "Beunmeister",
-      "role": 1,
-      "townHallLevel": 17,
-      "expLevel": 261,
-      "league": {
-        "id": 29000022,
-        "name": "Legend League",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
-        }
-      },
-      "trophies": 4971,
-      "builderBaseTrophies": 4837,
-      "clanRank": 3,
-      "previousClanRank": 1,
-      "donations": 30,
-      "donationsReceived": 81,
-      "builderBaseLeague": {
-        "id": 44000034,
-        "name": "Platinum League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000079
-          },
-          {
-            "type": 2,
-            "id": 82000081
-          },
-          {
-            "type": 0,
-            "id": 82000071
-          }
-        ]
       }
     },
     {
