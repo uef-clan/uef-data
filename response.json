@@ -1200,7 +1200,7 @@
       "clanRank": 27,
       "previousClanRank": 26,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 35,
       "builderBaseLeague": {
         "id": 44000016,
         "name": "Copper League IV"
@@ -1246,7 +1246,7 @@
       "clanRank": 28,
       "previousClanRank": 28,
       "donations": 0,
-      "donationsReceived": 96,
+      "donationsReceived": 101,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
@@ -1432,7 +1432,7 @@
       "builderBaseTrophies": 2555,
       "clanRank": 33,
       "previousClanRank": 33,
-      "donations": 75,
+      "donations": 115,
       "donationsReceived": 136,
       "builderBaseLeague": {
         "id": 44000022,
