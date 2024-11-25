@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32158,
+  "clanPoints": 32156,
   "clanBuilderBasePoints": 35835,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -1329,15 +1329,14 @@
       "townHallLevel": 11,
       "expLevel": 107,
       "league": {
-        "id": 29000010,
-        "name": "Crystal League III",
+        "id": 29000000,
+        "name": "Unranked",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 1919,
+      "trophies": 1907,
       "builderBaseTrophies": 2217,
       "clanRank": 30,
       "previousClanRank": 30,
