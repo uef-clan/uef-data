@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32281,
-  "clanBuilderBasePoints": 36098,
+  "clanPoints": 32246,
+  "clanBuilderBasePoints": 36093,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -37,52 +37,6 @@
   "members": 50,
   "memberList": [
     {
-      "tag": "#9GYP9288C",
-      "name": "King niels",
-      "role": 3,
-      "townHallLevel": 15,
-      "expLevel": 199,
-      "league": {
-        "id": 29000022,
-        "name": "Legend League",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
-        }
-      },
-      "trophies": 4981,
-      "builderBaseTrophies": 4211,
-      "clanRank": 1,
-      "previousClanRank": 2,
-      "donations": 75,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000031,
-        "name": "Titanium League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000046
-          },
-          {
-            "type": 0,
-            "id": 82000068
-          }
-        ]
-      }
-    },
-    {
       "tag": "#2Y08ULL9J",
       "name": "Azka Thegazters",
       "role": 1,
@@ -99,7 +53,7 @@
       },
       "trophies": 4978,
       "builderBaseTrophies": 3718,
-      "clanRank": 2,
+      "clanRank": 1,
       "previousClanRank": 3,
       "donations": 30,
       "donationsReceived": 0,
@@ -125,10 +79,10 @@
       },
       "trophies": 4968,
       "builderBaseTrophies": 4837,
-      "clanRank": 3,
+      "clanRank": 2,
       "previousClanRank": 1,
       "donations": 30,
-      "donationsReceived": 84,
+      "donationsReceived": 164,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -150,6 +104,52 @@
           {
             "type": 0,
             "id": 82000071
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#9GYP9288C",
+      "name": "King niels",
+      "role": 3,
+      "townHallLevel": 15,
+      "expLevel": 199,
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      },
+      "trophies": 4910,
+      "builderBaseTrophies": 4211,
+      "clanRank": 3,
+      "previousClanRank": 2,
+      "donations": 155,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000031,
+        "name": "Titanium League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000046
+          },
+          {
+            "type": 0,
+            "id": 82000068
           }
         ]
       }
@@ -1520,7 +1520,7 @@
         }
       },
       "trophies": 1754,
-      "builderBaseTrophies": 2461,
+      "builderBaseTrophies": 2418,
       "clanRank": 35,
       "previousClanRank": 35,
       "donations": 2,
