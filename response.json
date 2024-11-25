@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/m772uGmnBUU4HX-s-ZNIhFc8UP6JlkeDUT5OTSjNVh4.png"
   },
   "clanLevel": 22,
-  "clanPoints": 32156,
+  "clanPoints": 32162,
   "clanBuilderBasePoints": 35835,
   "clanCapitalPoints": 2913,
   "capitalLeague": {
@@ -168,12 +168,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
         }
       },
-      "trophies": 4656,
+      "trophies": 4670,
       "builderBaseTrophies": 4500,
       "clanRank": 4,
       "previousClanRank": 4,
-      "donations": 102,
-      "donationsReceived": 103,
+      "donations": 132,
+      "donationsReceived": 186,
       "builderBaseLeague": {
         "id": 44000032,
         "name": "Platinum League III"
@@ -264,8 +264,8 @@
       "builderBaseTrophies": 3346,
       "clanRank": 6,
       "previousClanRank": 6,
-      "donations": 102,
-      "donationsReceived": 103,
+      "donations": 185,
+      "donationsReceived": 133,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -1380,15 +1380,14 @@
       "townHallLevel": 15,
       "expLevel": 244,
       "league": {
-        "id": 29000009,
-        "name": "Gold League I",
+        "id": 29000000,
+        "name": "Unranked",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 1862,
+      "trophies": 1852,
       "builderBaseTrophies": 5000,
       "clanRank": 32,
       "previousClanRank": 32,
