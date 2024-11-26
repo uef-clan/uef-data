@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32277,
+  "clanPoints": 32276,
   "clanBuilderBasePoints": 36125,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -82,7 +82,7 @@
       "clanRank": 2,
       "previousClanRank": 1,
       "donations": 68,
-      "donationsReceived": 164,
+      "donationsReceived": 165,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -205,7 +205,7 @@
       "name": "kvmvm",
       "role": 3,
       "townHallLevel": 12,
-      "expLevel": 121,
+      "expLevel": 122,
       "league": {
         "id": 29000020,
         "name": "Titan League II",
@@ -219,7 +219,7 @@
       "builderBaseTrophies": 2535,
       "clanRank": 5,
       "previousClanRank": 5,
-      "donations": 89,
+      "donations": 115,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000022,
@@ -449,7 +449,7 @@
       "clanRank": 10,
       "previousClanRank": 11,
       "donations": 0,
-      "donationsReceived": 31,
+      "donationsReceived": 56,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -1474,7 +1474,7 @@
           "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 1856,
+      "trophies": 1846,
       "builderBaseTrophies": 5000,
       "clanRank": 34,
       "previousClanRank": 34,
