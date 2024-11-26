@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32252,
-  "clanBuilderBasePoints": 36129,
+  "clanPoints": 32256,
+  "clanBuilderBasePoints": 36124,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -307,7 +307,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
         }
       },
-      "trophies": 3506,
+      "trophies": 3512,
       "builderBaseTrophies": 3173,
       "clanRank": 7,
       "previousClanRank": 7,
@@ -1766,15 +1766,16 @@
       "townHallLevel": 10,
       "expLevel": 81,
       "league": {
-        "id": 29000000,
-        "name": "Unranked",
+        "id": 29000007,
+        "name": "Gold League III",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
         }
       },
-      "trophies": 1410,
-      "builderBaseTrophies": 2493,
+      "trophies": 1435,
+      "builderBaseTrophies": 2458,
       "clanRank": 41,
       "previousClanRank": 41,
       "donations": 0,
