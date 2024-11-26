@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32234,
+  "clanPoints": 32246,
   "clanBuilderBasePoints": 36114,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -37,32 +37,6 @@
   "members": 50,
   "memberList": [
     {
-      "tag": "#2Y08ULL9J",
-      "name": "Azka Thegazters",
-      "role": 1,
-      "townHallLevel": 15,
-      "expLevel": 217,
-      "league": {
-        "id": 29000022,
-        "name": "Legend League",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
-        }
-      },
-      "trophies": 4936,
-      "builderBaseTrophies": 3718,
-      "clanRank": 1,
-      "previousClanRank": 3,
-      "donations": 30,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000028,
-        "name": "Steel League I"
-      }
-    },
-    {
       "tag": "#89Q0YQYL",
       "name": "Beunmeister",
       "role": 1,
@@ -77,11 +51,11 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 4928,
+      "trophies": 4952,
       "builderBaseTrophies": 4837,
-      "clanRank": 2,
+      "clanRank": 1,
       "previousClanRank": 1,
-      "donations": 30,
+      "donations": 68,
       "donationsReceived": 164,
       "builderBaseLeague": {
         "id": 44000034,
@@ -106,6 +80,32 @@
             "id": 82000071
           }
         ]
+      }
+    },
+    {
+      "tag": "#2Y08ULL9J",
+      "name": "Azka Thegazters",
+      "role": 1,
+      "townHallLevel": 15,
+      "expLevel": 217,
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      },
+      "trophies": 4936,
+      "builderBaseTrophies": 3718,
+      "clanRank": 2,
+      "previousClanRank": 3,
+      "donations": 30,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000028,
+        "name": "Steel League I"
       }
     },
     {
@@ -449,7 +449,7 @@
       "clanRank": 10,
       "previousClanRank": 11,
       "donations": 0,
-      "donationsReceived": 28,
+      "donationsReceived": 31,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -1383,7 +1383,7 @@
       "clanRank": 31,
       "previousClanRank": 33,
       "donations": 115,
-      "donationsReceived": 203,
+      "donationsReceived": 238,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
