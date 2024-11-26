@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32276,
+  "clanPoints": 32269,
   "clanBuilderBasePoints": 36123,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -169,7 +169,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4911,
+      "trophies": 4890,
       "builderBaseTrophies": 4500,
       "clanRank": 4,
       "previousClanRank": 4,
@@ -1436,32 +1436,6 @@
       }
     },
     {
-      "tag": "#YULPUJR9U",
-      "name": "RinseVX2",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 117,
-      "league": {
-        "id": 29000009,
-        "name": "Gold League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-        }
-      },
-      "trophies": 1892,
-      "builderBaseTrophies": 2026,
-      "clanRank": 33,
-      "previousClanRank": 32,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000020,
-        "name": "Brass League III"
-      }
-    },
-    {
       "tag": "#999JUCGLG",
       "name": "Paddy Field",
       "role": 1,
@@ -1475,9 +1449,9 @@
           "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 1868,
+      "trophies": 1895,
       "builderBaseTrophies": 5000,
-      "clanRank": 34,
+      "clanRank": 33,
       "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
@@ -1504,6 +1478,32 @@
             "id": 82000089
           }
         ]
+      }
+    },
+    {
+      "tag": "#YULPUJR9U",
+      "name": "RinseVX2",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 117,
+      "league": {
+        "id": 29000009,
+        "name": "Gold League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+        }
+      },
+      "trophies": 1892,
+      "builderBaseTrophies": 2026,
+      "clanRank": 34,
+      "previousClanRank": 32,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Brass League III"
       }
     },
     {
