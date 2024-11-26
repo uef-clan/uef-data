@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32259,
-  "clanBuilderBasePoints": 36117,
+  "clanPoints": 32262,
+  "clanBuilderBasePoints": 36123,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -728,51 +728,6 @@
       }
     },
     {
-      "tag": "#9RY0YYYCG",
-      "name": "Gus",
-      "role": 3,
-      "townHallLevel": 13,
-      "expLevel": 172,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 2666,
-      "builderBaseTrophies": 4067,
-      "clanRank": 17,
-      "previousClanRank": 17,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000030,
-        "name": "Titanium League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000081
-          },
-          {
-            "type": 0,
-            "id": 82000066
-          }
-        ]
-      }
-    },
-    {
       "tag": "#2P820RVP2",
       "name": "Timon",
       "role": 3,
@@ -787,9 +742,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
         }
       },
-      "trophies": 2658,
+      "trophies": 2671,
       "builderBaseTrophies": 2266,
-      "clanRank": 18,
+      "clanRank": 17,
       "previousClanRank": 19,
       "donations": 0,
       "donationsReceived": 0,
@@ -814,6 +769,51 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#9RY0YYYCG",
+      "name": "Gus",
+      "role": 3,
+      "townHallLevel": 13,
+      "expLevel": 172,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 2666,
+      "builderBaseTrophies": 4067,
+      "clanRank": 18,
+      "previousClanRank": 17,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000030,
+        "name": "Titanium League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000081
+          },
+          {
+            "type": 0,
+            "id": 82000066
           }
         ]
       }
@@ -1521,7 +1521,7 @@
         }
       },
       "trophies": 1754,
-      "builderBaseTrophies": 2450,
+      "builderBaseTrophies": 2500,
       "clanRank": 35,
       "previousClanRank": 35,
       "donations": 2,
