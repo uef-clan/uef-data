@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32259,
+  "clanPoints": 32271,
   "clanBuilderBasePoints": 36137,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -83,6 +83,52 @@
       }
     },
     {
+      "tag": "#9L9RRPV2G",
+      "name": "Tobias",
+      "role": 0,
+      "townHallLevel": 15,
+      "expLevel": 222,
+      "league": {
+        "id": 29000021,
+        "name": "Titan League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+        }
+      },
+      "trophies": 4915,
+      "builderBaseTrophies": 4500,
+      "clanRank": 2,
+      "previousClanRank": 4,
+      "donations": 541,
+      "donationsReceived": 352,
+      "builderBaseLeague": {
+        "id": 44000032,
+        "name": "Platinum League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000082
+          },
+          {
+            "type": 0,
+            "id": 82000066
+          }
+        ]
+      }
+    },
+    {
       "tag": "#2Y08ULL9J",
       "name": "Azka Thegazters",
       "role": 1,
@@ -99,7 +145,7 @@
       },
       "trophies": 4915,
       "builderBaseTrophies": 3718,
-      "clanRank": 2,
+      "clanRank": 3,
       "previousClanRank": 1,
       "donations": 30,
       "donationsReceived": 0,
@@ -125,7 +171,7 @@
       },
       "trophies": 4912,
       "builderBaseTrophies": 4211,
-      "clanRank": 3,
+      "clanRank": 4,
       "previousClanRank": 3,
       "donations": 155,
       "donationsReceived": 0,
@@ -150,52 +196,6 @@
           {
             "type": 0,
             "id": 82000068
-          }
-        ]
-      }
-    },
-    {
-      "tag": "#9L9RRPV2G",
-      "name": "Tobias",
-      "role": 0,
-      "townHallLevel": 15,
-      "expLevel": 222,
-      "league": {
-        "id": 29000021,
-        "name": "Titan League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
-        }
-      },
-      "trophies": 4890,
-      "builderBaseTrophies": 4500,
-      "clanRank": 4,
-      "previousClanRank": 4,
-      "donations": 541,
-      "donationsReceived": 352,
-      "builderBaseLeague": {
-        "id": 44000032,
-        "name": "Platinum League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000082
-          },
-          {
-            "type": 0,
-            "id": 82000066
           }
         ]
       }
