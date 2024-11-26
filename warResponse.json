@@ -202,8 +202,15 @@
         "name": "Gekke Man",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q80J8P902",
+          "defenderTag": "#P8UVRLJQR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 137
+        }
       },
       {
         "tag": "#LJ02J988Q",
@@ -248,9 +255,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Q73YssjMLR8jT-gGToUvIyND4H-T3Fs71aNZ6CT53pU.png"
     },
     "clanLevel": 20,
-    "attacks": 4,
-    "stars": 8,
-    "destructionPercentage": 16.55,
+    "attacks": 5,
+    "stars": 11,
+    "destructionPercentage": 21.55,
     "members": [
       {
         "tag": "#Q80J8P902",
@@ -258,7 +265,17 @@
         "townhallLevel": 14,
         "mapPosition": 6,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#Q80J8P902",
+            "defenderTag": "#P8UVRLJQR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 137
+          }
+        ]
       },
       {
         "tag": "#G892YU2VU",
