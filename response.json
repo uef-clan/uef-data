@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32246,
+  "clanPoints": 32245,
   "clanBuilderBasePoints": 36102,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -1414,51 +1414,6 @@
       }
     },
     {
-      "tag": "#999JUCGLG",
-      "name": "Paddy Field",
-      "role": 1,
-      "townHallLevel": 15,
-      "expLevel": 244,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 1882,
-      "builderBaseTrophies": 5000,
-      "clanRank": 33,
-      "previousClanRank": 32,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000035,
-        "name": "Emerald League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000054
-          },
-          {
-            "type": 2,
-            "id": 82000041
-          },
-          {
-            "type": 0,
-            "id": 82000089
-          }
-        ]
-      }
-    },
-    {
       "tag": "#99LQPJ2UG",
       "name": "sdetopper",
       "role": 3,
@@ -1475,7 +1430,7 @@
       },
       "trophies": 1881,
       "builderBaseTrophies": 2555,
-      "clanRank": 34,
+      "clanRank": 33,
       "previousClanRank": 33,
       "donations": 115,
       "donationsReceived": 203,
@@ -1500,6 +1455,51 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#999JUCGLG",
+      "name": "Paddy Field",
+      "role": 1,
+      "townHallLevel": 15,
+      "expLevel": 244,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 1876,
+      "builderBaseTrophies": 5000,
+      "clanRank": 34,
+      "previousClanRank": 32,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000054
+          },
+          {
+            "type": 2,
+            "id": 82000041
+          },
+          {
+            "type": 0,
+            "id": 82000089
           }
         ]
       }
