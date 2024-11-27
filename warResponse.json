@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 7,
-    "stars": 20,
-    "destructionPercentage": 34.15,
+    "attacks": 8,
+    "stars": 22,
+    "destructionPercentage": 38.25,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -199,7 +199,17 @@
         "townhallLevel": 15,
         "mapPosition": 2,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#RVGCJGQ8",
+            "defenderTag": "#8L90UYP89",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 19,
+            "duration": 98
+          }
+        ]
       },
       {
         "tag": "#999JUCGLG",
@@ -621,8 +631,15 @@
         "name": "rashid",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RVGCJGQ8",
+          "defenderTag": "#8L90UYP89",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 19,
+          "duration": 98
+        },
         "attacks": [
           {
             "attackerTag": "#8L90UYP89",
