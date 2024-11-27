@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 10,
-    "stars": 28,
-    "destructionPercentage": 48.25,
+    "attacks": 11,
+    "stars": 31,
+    "destructionPercentage": 53.25,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -65,7 +65,17 @@
         "townhallLevel": 10,
         "mapPosition": 17,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#QJ0VCVQYC",
+            "defenderTag": "#G2U9Q8LVJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 80
+          }
+        ]
       },
       {
         "tag": "#QJ02YGJR0",
@@ -698,8 +708,15 @@
         "name": "leo",
         "townhallLevel": 9,
         "mapPosition": 17,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ0VCVQYC",
+          "defenderTag": "#G2U9Q8LVJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 80
+        }
       }
     ]
   }
