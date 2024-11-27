@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 16,
-    "stars": 37,
-    "destructionPercentage": 64.55,
+    "attacks": 17,
+    "stars": 40,
+    "destructionPercentage": 69.55,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -267,6 +267,14 @@
             "destructionPercentage": 100,
             "order": 20,
             "duration": 81
+          },
+          {
+            "attackerTag": "#U0YLJVY0",
+            "defenderTag": "#G8C0V9U9J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 28,
+            "duration": 30
           }
         ]
       },
@@ -535,8 +543,15 @@
         "name": "shahzad king",
         "townhallLevel": 7,
         "mapPosition": 19,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#U0YLJVY0",
+          "defenderTag": "#G8C0V9U9J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "duration": 30
+        }
       },
       {
         "tag": "#2PURQUVPP",
