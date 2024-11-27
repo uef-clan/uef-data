@@ -297,7 +297,7 @@
       "name": "Daventria",
       "role": 1,
       "townHallLevel": 13,
-      "expLevel": 142,
+      "expLevel": 143,
       "league": {
         "id": 29000017,
         "name": "Champion League II",
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3209,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 240,
+      "donations": 271,
       "donationsReceived": 400,
       "builderBaseLeague": {
         "id": 44000026,
@@ -1780,7 +1780,7 @@
       "clanRank": 41,
       "previousClanRank": 41,
       "donations": 0,
-      "donationsReceived": 65,
+      "donationsReceived": 96,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
