@@ -2154,7 +2154,7 @@
       "name": "Daan",
       "role": 3,
       "townHallLevel": 7,
-      "expLevel": 101,
+      "expLevel": 102,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -2163,7 +2163,7 @@
           "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 631,
+      "trophies": 625,
       "builderBaseTrophies": 2411,
       "clanRank": 50,
       "previousClanRank": 50,
