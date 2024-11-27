@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32362,
-  "clanBuilderBasePoints": 36167,
+  "clanBuilderBasePoints": 36168,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -2028,14 +2028,14 @@
         }
       },
       "trophies": 747,
-      "builderBaseTrophies": 1787,
+      "builderBaseTrophies": 1801,
       "clanRank": 47,
       "previousClanRank": 47,
       "donations": 0,
       "donationsReceived": 26,
       "builderBaseLeague": {
-        "id": 44000017,
-        "name": "Copper League III"
+        "id": 44000018,
+        "name": "Copper League II"
       },
       "playerHouse": {
         "elements": [
