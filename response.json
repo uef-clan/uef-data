@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32254,
-  "clanBuilderBasePoints": 36137,
+  "clanPoints": 32251,
+  "clanBuilderBasePoints": 36143,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -262,7 +262,7 @@
         }
       },
       "trophies": 4373,
-      "builderBaseTrophies": 2535,
+      "builderBaseTrophies": 2585,
       "clanRank": 6,
       "previousClanRank": 5,
       "donations": 115,
@@ -703,32 +703,6 @@
       }
     },
     {
-      "tag": "#29UC8C2PC",
-      "name": "Rutger",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 139,
-      "league": {
-        "id": 29000013,
-        "name": "Master League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
-        }
-      },
-      "trophies": 2672,
-      "builderBaseTrophies": 2974,
-      "clanRank": 16,
-      "previousClanRank": 16,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000024,
-        "name": "Iron League II"
-      }
-    },
-    {
       "tag": "#2P820RVP2",
       "name": "Timon",
       "role": 3,
@@ -745,7 +719,7 @@
       },
       "trophies": 2666,
       "builderBaseTrophies": 2266,
-      "clanRank": 17,
+      "clanRank": 16,
       "previousClanRank": 19,
       "donations": 0,
       "donationsReceived": 0,
@@ -790,7 +764,7 @@
       },
       "trophies": 2666,
       "builderBaseTrophies": 4067,
-      "clanRank": 18,
+      "clanRank": 17,
       "previousClanRank": 17,
       "donations": 0,
       "donationsReceived": 0,
@@ -817,6 +791,32 @@
             "id": 82000066
           }
         ]
+      }
+    },
+    {
+      "tag": "#29UC8C2PC",
+      "name": "Rutger",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 139,
+      "league": {
+        "id": 29000013,
+        "name": "Master League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
+        }
+      },
+      "trophies": 2666,
+      "builderBaseTrophies": 2974,
+      "clanRank": 18,
+      "previousClanRank": 16,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Iron League II"
       }
     },
     {
@@ -1820,7 +1820,7 @@
           "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 1373,
+      "trophies": 1350,
       "builderBaseTrophies": 2408,
       "clanRank": 42,
       "previousClanRank": 42,
