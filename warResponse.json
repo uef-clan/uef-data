@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 27,
+    "attacks": 28,
     "stars": 59,
     "destructionPercentage": 98.7,
     "members": [
@@ -148,6 +148,14 @@
             "destructionPercentage": 100,
             "order": 5,
             "duration": 108
+          },
+          {
+            "attackerTag": "#9L9RRPV2G",
+            "defenderTag": "#20GP9VYL9",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 41,
+            "duration": 101
           }
         ]
       },
@@ -803,7 +811,7 @@
         "name": "farshad maxes",
         "townhallLevel": 16,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#89Q0YQYL",
           "defenderTag": "#20GP9VYL9",
