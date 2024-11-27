@@ -212,8 +212,15 @@
         "name": "Rutger",
         "townhallLevel": 12,
         "mapPosition": 11,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99V8QP8",
+          "defenderTag": "#29UC8C2PC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 86
+        }
       },
       {
         "tag": "#GGPCCUG8P",
@@ -289,9 +296,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Q73YssjMLR8jT-gGToUvIyND4H-T3Fs71aNZ6CT53pU.png"
     },
     "clanLevel": 20,
-    "attacks": 7,
-    "stars": 17,
-    "destructionPercentage": 31.55,
+    "attacks": 8,
+    "stars": 20,
+    "destructionPercentage": 36.55,
     "members": [
       {
         "tag": "#Q80J8P902",
@@ -502,6 +509,14 @@
             "destructionPercentage": 100,
             "order": 12,
             "duration": 106
+          },
+          {
+            "attackerTag": "#99V8QP8",
+            "defenderTag": "#29UC8C2PC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 86
           }
         ]
       },
