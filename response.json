@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32294,
+  "clanPoints": 32293,
   "clanBuilderBasePoints": 36148,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -219,7 +219,7 @@
       "builderBaseTrophies": 3346,
       "clanRank": 5,
       "previousClanRank": 6,
-      "donations": 793,
+      "donations": 823,
       "donationsReceived": 958,
       "builderBaseLeague": {
         "id": 44000026,
@@ -1476,12 +1476,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
         }
       },
-      "trophies": 1849,
+      "trophies": 1836,
       "builderBaseTrophies": 5000,
       "clanRank": 34,
       "previousClanRank": 34,
       "donations": 2,
-      "donationsReceived": 0,
+      "donationsReceived": 30,
       "builderBaseLeague": {
         "id": 44000035,
         "name": "Emerald League III"
