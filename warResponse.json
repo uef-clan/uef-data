@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 21,
-    "stars": 48,
-    "destructionPercentage": 83.8,
+    "attacks": 22,
+    "stars": 50,
+    "destructionPercentage": 84.25,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -226,6 +226,14 @@
             "destructionPercentage": 100,
             "order": 10,
             "duration": 71
+          },
+          {
+            "attackerTag": "#QG8RPCL02",
+            "defenderTag": "#QCCV2PL2Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 78
           }
         ]
       },
@@ -788,14 +796,14 @@
         "name": "ggking",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#29UC8C2PC",
+          "attackerTag": "#QG8RPCL02",
           "defenderTag": "#QCCV2PL2Q",
-          "stars": 1,
-          "destructionPercentage": 91,
-          "order": 26,
-          "duration": 111
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 78
         }
       },
       {
