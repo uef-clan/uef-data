@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 19,
-    "stars": 46,
-    "destructionPercentage": 79.55,
+    "attacks": 20,
+    "stars": 48,
+    "destructionPercentage": 83.8,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -422,7 +422,17 @@
           "destructionPercentage": 64,
           "order": 15,
           "duration": 82
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#82QCPCG9P",
+            "defenderTag": "#28YCVLP0U",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 31,
+            "duration": 129
+          }
+        ]
       },
       {
         "tag": "#20CCR02Q",
@@ -508,8 +518,15 @@
         "name": "navid.plm",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#82QCPCG9P",
+          "defenderTag": "#28YCVLP0U",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 31,
+          "duration": 129
+        },
         "attacks": [
           {
             "attackerTag": "#28YCVLP0U",
