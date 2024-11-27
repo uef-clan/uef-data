@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 25,
+    "attacks": 26,
     "stars": 56,
-    "destructionPercentage": 93.7,
+    "destructionPercentage": 95.45,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -41,6 +41,14 @@
             "destructionPercentage": 100,
             "order": 6,
             "duration": 96
+          },
+          {
+            "attackerTag": "#G2LRGULG0",
+            "defenderTag": "#QYURYCVCP",
+            "stars": 0,
+            "destructionPercentage": 35,
+            "order": 39,
+            "duration": 81
           }
         ]
       },
@@ -757,8 +765,15 @@
         "name": "hoom",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2LRGULG0",
+          "defenderTag": "#QYURYCVCP",
+          "stars": 0,
+          "destructionPercentage": 35,
+          "order": 39,
+          "duration": 81
+        }
       },
       {
         "tag": "#G8UYY9VLJ",
