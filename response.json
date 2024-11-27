@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32280,
+  "clanPoints": 32283,
   "clanBuilderBasePoints": 36137,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -911,6 +911,52 @@
       }
     },
     {
+      "tag": "#JJRRR888",
+      "name": "'t Brikje",
+      "role": 3,
+      "townHallLevel": 13,
+      "expLevel": 154,
+      "league": {
+        "id": 29000012,
+        "name": "Crystal League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
+        }
+      },
+      "trophies": 2475,
+      "builderBaseTrophies": 2676,
+      "clanRank": 21,
+      "previousClanRank": 23,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Iron League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000092
+          },
+          {
+            "type": 2,
+            "id": 82000032
+          },
+          {
+            "type": 0,
+            "id": 82000059
+          }
+        ]
+      }
+    },
+    {
       "tag": "#2QYCVRGLY",
       "name": "Epic Goblin",
       "role": 3,
@@ -926,7 +972,7 @@
       },
       "trophies": 2470,
       "builderBaseTrophies": 1910,
-      "clanRank": 21,
+      "clanRank": 22,
       "previousClanRank": 21,
       "donations": 0,
       "donationsReceived": 0,
@@ -972,7 +1018,7 @@
       },
       "trophies": 2468,
       "builderBaseTrophies": 3165,
-      "clanRank": 22,
+      "clanRank": 23,
       "previousClanRank": 22,
       "donations": 0,
       "donationsReceived": 0,
@@ -997,52 +1043,6 @@
           {
             "type": 0,
             "id": 82000064
-          }
-        ]
-      }
-    },
-    {
-      "tag": "#JJRRR888",
-      "name": "'t Brikje",
-      "role": 3,
-      "townHallLevel": 13,
-      "expLevel": 154,
-      "league": {
-        "id": 29000012,
-        "name": "Crystal League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
-        }
-      },
-      "trophies": 2458,
-      "builderBaseTrophies": 2676,
-      "clanRank": 23,
-      "previousClanRank": 23,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000092
-          },
-          {
-            "type": 2,
-            "id": 82000032
-          },
-          {
-            "type": 0,
-            "id": 82000059
           }
         ]
       }
