@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 6,
-    "stars": 18,
-    "destructionPercentage": 30.0,
+    "attacks": 7,
+    "stars": 20,
+    "destructionPercentage": 34.15,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -138,7 +138,17 @@
           "destructionPercentage": 79,
           "order": 1,
           "duration": 134
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#2Y08ULL9J",
+            "defenderTag": "#2PURQUVPP",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 18,
+            "duration": 113
+          }
+        ]
       },
       {
         "tag": "#89Q0YQYL",
@@ -444,8 +454,15 @@
         "name": "aminnaghavi2",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2Y08ULL9J",
+          "defenderTag": "#2PURQUVPP",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 18,
+          "duration": 113
+        },
         "attacks": [
           {
             "attackerTag": "#2PURQUVPP",
