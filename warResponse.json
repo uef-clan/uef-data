@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 4,
-    "stars": 12,
-    "destructionPercentage": 20.0,
+    "attacks": 5,
+    "stars": 15,
+    "destructionPercentage": 25.0,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -139,7 +139,17 @@
         "townhallLevel": 17,
         "mapPosition": 1,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#89Q0YQYL",
+            "defenderTag": "#2L2C9VQLP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 135
+          }
+        ]
       },
       {
         "tag": "#QG8RPCL02",
@@ -338,8 +348,15 @@
         "name": "amin naghavi",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#89Q0YQYL",
+          "defenderTag": "#2L2C9VQLP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 135
+        },
         "attacks": [
           {
             "attackerTag": "#2L2C9VQLP",
