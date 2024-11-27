@@ -250,8 +250,15 @@
         "name": "CuriousWanderer",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#20GP9VYL9",
+          "defenderTag": "#RVGCJGQ8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 159
+        },
         "attacks": [
           {
             "attackerTag": "#RVGCJGQ8",
@@ -504,9 +511,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Q73YssjMLR8jT-gGToUvIyND4H-T3Fs71aNZ6CT53pU.png"
     },
     "clanLevel": 20,
-    "attacks": 12,
-    "stars": 31,
-    "destructionPercentage": 54.75,
+    "attacks": 13,
+    "stars": 34,
+    "destructionPercentage": 59.75,
     "members": [
       {
         "tag": "#Q80J8P902",
@@ -781,7 +788,17 @@
           "destructionPercentage": 74,
           "order": 37,
           "duration": 100
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#20GP9VYL9",
+            "defenderTag": "#RVGCJGQ8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 159
+          }
+        ]
       },
       {
         "tag": "#99V8QP8",
