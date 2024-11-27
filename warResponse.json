@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 11,
+    "attacks": 12,
     "stars": 31,
     "destructionPercentage": 53.25,
     "members": [
@@ -291,6 +291,14 @@
             "destructionPercentage": 100,
             "order": 17,
             "duration": 59
+          },
+          {
+            "attackerTag": "#GGPCCUG8P",
+            "defenderTag": "#G892YU2VU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 94
           }
         ]
       },
@@ -412,7 +420,7 @@
         "name": "sadaf",
         "townhallLevel": 11,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#U0YLJVY0",
           "defenderTag": "#G892YU2VU",
