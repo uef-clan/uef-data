@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32246,
+  "clanPoints": 32248,
   "clanBuilderBasePoints": 36143,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -403,7 +403,7 @@
       "clanRank": 9,
       "previousClanRank": 12,
       "donations": 51,
-      "donationsReceived": 3,
+      "donationsReceived": 6,
       "builderBaseLeague": {
         "id": 44000020,
         "name": "Brass League III"
@@ -1379,11 +1379,11 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
         }
       },
-      "trophies": 1913,
+      "trophies": 1937,
       "builderBaseTrophies": 2585,
       "clanRank": 31,
       "previousClanRank": 31,
-      "donations": 188,
+      "donations": 191,
       "donationsReceived": 337,
       "builderBaseLeague": {
         "id": 44000022,
