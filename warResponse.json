@@ -24,8 +24,15 @@
         "name": "stefkefilms",
         "townhallLevel": 11,
         "mapPosition": 13,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8L90UYP89",
+          "defenderTag": "#G2LRGULG0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 52
+        },
         "attacks": [
           {
             "attackerTag": "#G2LRGULG0",
@@ -281,8 +288,15 @@
         "name": "wes",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8L90UYP89",
+          "defenderTag": "#82QCPCG9P",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 15,
+          "duration": 82
+        }
       },
       {
         "tag": "#20CCR02Q",
@@ -303,9 +317,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Q73YssjMLR8jT-gGToUvIyND4H-T3Fs71aNZ6CT53pU.png"
     },
     "clanLevel": 20,
-    "attacks": 9,
-    "stars": 23,
-    "destructionPercentage": 41.55,
+    "attacks": 11,
+    "stars": 28,
+    "destructionPercentage": 49.75,
     "members": [
       {
         "tag": "#Q80J8P902",
@@ -574,7 +588,25 @@
         "townhallLevel": 15,
         "mapPosition": 3,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#8L90UYP89",
+            "defenderTag": "#82QCPCG9P",
+            "stars": 2,
+            "destructionPercentage": 64,
+            "order": 15,
+            "duration": 82
+          },
+          {
+            "attackerTag": "#8L90UYP89",
+            "defenderTag": "#G2LRGULG0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 52
+          }
+        ]
       },
       {
         "tag": "#G2U9Q8LVJ",
