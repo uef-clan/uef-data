@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32296,
-  "clanBuilderBasePoints": 36139,
+  "clanPoints": 32302,
+  "clanBuilderBasePoints": 36148,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -717,7 +717,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
         }
       },
-      "trophies": 2666,
+      "trophies": 2689,
       "builderBaseTrophies": 2266,
       "clanRank": 16,
       "previousClanRank": 17,
@@ -809,7 +809,7 @@
         }
       },
       "trophies": 2666,
-      "builderBaseTrophies": 2949,
+      "builderBaseTrophies": 2986,
       "clanRank": 18,
       "previousClanRank": 16,
       "donations": 0,
@@ -1993,12 +1993,11 @@
       "townHallLevel": 9,
       "expLevel": 51,
       "league": {
-        "id": 29000004,
-        "name": "Silver League III",
+        "id": 29000000,
+        "name": "Unranked",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
       "trophies": 848,
