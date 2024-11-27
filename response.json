@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32269,
+  "clanPoints": 32267,
   "clanBuilderBasePoints": 36137,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -1468,14 +1468,15 @@
       "townHallLevel": 15,
       "expLevel": 244,
       "league": {
-        "id": 29000000,
-        "name": "Unranked",
+        "id": 29000009,
+        "name": "Gold League I",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
         }
       },
-      "trophies": 1889,
+      "trophies": 1860,
       "builderBaseTrophies": 5000,
       "clanRank": 34,
       "previousClanRank": 34,
