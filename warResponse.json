@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 28,
+    "attacks": 29,
     "stars": 59,
     "destructionPercentage": 98.7,
     "members": [
@@ -520,6 +520,14 @@
             "destructionPercentage": 85,
             "order": 31,
             "duration": 129
+          },
+          {
+            "attackerTag": "#82QCPCG9P",
+            "defenderTag": "#G8VCYGG8C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 63
           }
         ]
       },
@@ -884,7 +892,7 @@
         "name": "amirho",
         "townhallLevel": 13,
         "mapPosition": 11,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QG8RPCL02",
           "defenderTag": "#G8VCYGG8C",
