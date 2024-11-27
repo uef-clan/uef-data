@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 18,
-    "stars": 43,
-    "destructionPercentage": 74.55,
+    "attacks": 19,
+    "stars": 46,
+    "destructionPercentage": 79.55,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -74,6 +74,14 @@
             "destructionPercentage": 100,
             "order": 22,
             "duration": 80
+          },
+          {
+            "attackerTag": "#QJ0VCVQYC",
+            "defenderTag": "#G8C8LVQJL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 29
           }
         ]
       },
@@ -644,8 +652,15 @@
         "name": "John'",
         "townhallLevel": 6,
         "mapPosition": 20,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ0VCVQYC",
+          "defenderTag": "#G8C8LVQJL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 29
+        }
       },
       {
         "tag": "#QYURYCVCP",
