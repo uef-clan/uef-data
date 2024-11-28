@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32259,
+  "clanPoints": 32260,
   "clanBuilderBasePoints": 36180,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -1942,6 +1942,32 @@
       }
     },
     {
+      "tag": "#QP8UV2L9R",
+      "name": "tijmen6",
+      "role": 3,
+      "townHallLevel": 9,
+      "expLevel": 53,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 924,
+      "builderBaseTrophies": 1408,
+      "clanRank": 45,
+      "previousClanRank": 46,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000014,
+        "name": "Stone League I"
+      }
+    },
+    {
       "tag": "#LJ02J988Q",
       "name": "Guusje",
       "role": 0,
@@ -1957,7 +1983,7 @@
       },
       "trophies": 906,
       "builderBaseTrophies": 3566,
-      "clanRank": 45,
+      "clanRank": 46,
       "previousClanRank": 45,
       "donations": 0,
       "donationsReceived": 65,
@@ -1984,32 +2010,6 @@
             "id": 82000080
           }
         ]
-      }
-    },
-    {
-      "tag": "#QP8UV2L9R",
-      "name": "tijmen6",
-      "role": 3,
-      "townHallLevel": 9,
-      "expLevel": 53,
-      "league": {
-        "id": 29000004,
-        "name": "Silver League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
-        }
-      },
-      "trophies": 898,
-      "builderBaseTrophies": 1408,
-      "clanRank": 46,
-      "previousClanRank": 46,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000014,
-        "name": "Stone League I"
       }
     },
     {
