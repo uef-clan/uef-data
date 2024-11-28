@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32273,
+  "clanPoints": 32271,
   "clanBuilderBasePoints": 36180,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -1183,52 +1183,6 @@
       }
     },
     {
-      "tag": "#GGPCCUG8P",
-      "name": "GuusjeMan",
-      "role": 0,
-      "townHallLevel": 11,
-      "expLevel": 88,
-      "league": {
-        "id": 29000010,
-        "name": "Crystal League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
-        }
-      },
-      "trophies": 2014,
-      "builderBaseTrophies": 2389,
-      "clanRank": 27,
-      "previousClanRank": 28,
-      "donations": 0,
-      "donationsReceived": 268,
-      "builderBaseLeague": {
-        "id": 44000021,
-        "name": "Brass League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000054
-          },
-          {
-            "type": 2,
-            "id": 82000009
-          },
-          {
-            "type": 0,
-            "id": 82000064
-          }
-        ]
-      }
-    },
-    {
       "tag": "#82RUY9RG9",
       "name": "Rinse",
       "role": 3,
@@ -1245,7 +1199,7 @@
       },
       "trophies": 2011,
       "builderBaseTrophies": 1658,
-      "clanRank": 28,
+      "clanRank": 27,
       "previousClanRank": 27,
       "donations": 0,
       "donationsReceived": 105,
@@ -1290,7 +1244,7 @@
       },
       "trophies": 2002,
       "builderBaseTrophies": 2857,
-      "clanRank": 29,
+      "clanRank": 28,
       "previousClanRank": 30,
       "donations": 0,
       "donationsReceived": 0,
@@ -1335,7 +1289,7 @@
       },
       "trophies": 2000,
       "builderBaseTrophies": 2760,
-      "clanRank": 30,
+      "clanRank": 29,
       "previousClanRank": 29,
       "donations": 0,
       "donationsReceived": 0,
@@ -1360,6 +1314,52 @@
           {
             "type": 0,
             "id": 82000062
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#GGPCCUG8P",
+      "name": "GuusjeMan",
+      "role": 0,
+      "townHallLevel": 11,
+      "expLevel": 88,
+      "league": {
+        "id": 29000010,
+        "name": "Crystal League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
+        }
+      },
+      "trophies": 1999,
+      "builderBaseTrophies": 2389,
+      "clanRank": 30,
+      "previousClanRank": 28,
+      "donations": 0,
+      "donationsReceived": 268,
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Brass League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000054
+          },
+          {
+            "type": 2,
+            "id": 82000009
+          },
+          {
+            "type": 0,
+            "id": 82000064
           }
         ]
       }
