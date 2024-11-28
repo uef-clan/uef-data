@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32348,
+  "clanPoints": 32358,
   "clanBuilderBasePoints": 36169,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -143,11 +143,11 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4966,
+      "trophies": 4987,
       "builderBaseTrophies": 4500,
       "clanRank": 3,
       "previousClanRank": 3,
-      "donations": 1373,
+      "donations": 1375,
       "donationsReceived": 969,
       "builderBaseLeague": {
         "id": 44000032,
@@ -220,7 +220,7 @@
       "clanRank": 5,
       "previousClanRank": 5,
       "donations": 1059,
-      "donationsReceived": 1304,
+      "donationsReceived": 1306,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -311,8 +311,8 @@
       "builderBaseTrophies": 3253,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 674,
-      "donationsReceived": 600,
+      "donations": 701,
+      "donationsReceived": 640,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -1340,7 +1340,7 @@
       "clanRank": 30,
       "previousClanRank": 28,
       "donations": 0,
-      "donationsReceived": 268,
+      "donationsReceived": 293,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
@@ -1529,7 +1529,7 @@
       "clanRank": 35,
       "previousClanRank": 35,
       "donations": 28,
-      "donationsReceived": 288,
+      "donationsReceived": 290,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
@@ -1916,7 +1916,7 @@
       "builderBaseTrophies": 4808,
       "clanRank": 44,
       "previousClanRank": 44,
-      "donations": 641,
+      "donations": 681,
       "donationsReceived": 65,
       "builderBaseLeague": {
         "id": 44000034,
