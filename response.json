@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32308,
+  "clanPoints": 32314,
   "clanBuilderBasePoints": 36180,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -261,7 +261,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png"
         }
       },
-      "trophies": 4260,
+      "trophies": 4266,
       "builderBaseTrophies": 2608,
       "clanRank": 6,
       "previousClanRank": 6,
@@ -1275,51 +1275,6 @@
       }
     },
     {
-      "tag": "#PUPP98CCC",
-      "name": "JurriaanDuq",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 147,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 2000,
-      "builderBaseTrophies": 2760,
-      "clanRank": 29,
-      "previousClanRank": 29,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000015
-          },
-          {
-            "type": 0,
-            "id": 82000062
-          }
-        ]
-      }
-    },
-    {
       "tag": "#8PVYLR0VY",
       "name": "Dokter B",
       "role": 3,
@@ -1333,9 +1288,9 @@
           "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 1979,
+      "trophies": 2002,
       "builderBaseTrophies": 2857,
-      "clanRank": 30,
+      "clanRank": 29,
       "previousClanRank": 30,
       "donations": 0,
       "donationsReceived": 0,
@@ -1360,6 +1315,51 @@
           {
             "type": 0,
             "id": 82000064
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#PUPP98CCC",
+      "name": "JurriaanDuq",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 147,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 2000,
+      "builderBaseTrophies": 2760,
+      "clanRank": 30,
+      "previousClanRank": 29,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Iron League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000015
+          },
+          {
+            "type": 0,
+            "id": 82000062
           }
         ]
       }
