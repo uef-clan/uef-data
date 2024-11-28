@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32320,
+  "clanPoints": 32315,
   "clanBuilderBasePoints": 36169,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -87,7 +87,7 @@
       "name": "King niels",
       "role": 3,
       "townHallLevel": 15,
-      "expLevel": 199,
+      "expLevel": 200,
       "league": {
         "id": 29000022,
         "name": "Legend League",
@@ -97,7 +97,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 5000,
+      "trophies": 4990,
       "builderBaseTrophies": 4211,
       "clanRank": 2,
       "previousClanRank": 2,
