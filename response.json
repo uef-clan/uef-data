@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32359,
-  "clanBuilderBasePoints": 36169,
+  "clanBuilderBasePoints": 36177,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -308,10 +308,10 @@
         }
       },
       "trophies": 3553,
-      "builderBaseTrophies": 3253,
+      "builderBaseTrophies": 3284,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 711,
+      "donations": 726,
       "donationsReceived": 640,
       "builderBaseLeague": {
         "id": 44000026,
@@ -1204,7 +1204,7 @@
       "clanRank": 27,
       "previousClanRank": 27,
       "donations": 0,
-      "donationsReceived": 109,
+      "donationsReceived": 124,
       "builderBaseLeague": {
         "id": 44000016,
         "name": "Copper League IV"
