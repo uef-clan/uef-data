@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32365,
-  "clanBuilderBasePoints": 36177,
+  "clanBuilderBasePoints": 36173,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -147,7 +147,7 @@
       "builderBaseTrophies": 4500,
       "clanRank": 3,
       "previousClanRank": 3,
-      "donations": 1375,
+      "donations": 1456,
       "donationsReceived": 1052,
       "builderBaseLeague": {
         "id": 44000032,
@@ -220,7 +220,7 @@
       "clanRank": 5,
       "previousClanRank": 5,
       "donations": 1142,
-      "donationsReceived": 1306,
+      "donationsReceived": 1387,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -308,10 +308,10 @@
         }
       },
       "trophies": 3553,
-      "builderBaseTrophies": 3284,
+      "builderBaseTrophies": 3271,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 726,
+      "donations": 759,
       "donationsReceived": 640,
       "builderBaseLeague": {
         "id": 44000026,
@@ -1204,7 +1204,7 @@
       "clanRank": 27,
       "previousClanRank": 27,
       "donations": 0,
-      "donationsReceived": 124,
+      "donationsReceived": 140,
       "builderBaseLeague": {
         "id": 44000016,
         "name": "Copper League IV"
@@ -1529,7 +1529,7 @@
       "clanRank": 35,
       "previousClanRank": 35,
       "donations": 28,
-      "donationsReceived": 290,
+      "donationsReceived": 307,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
