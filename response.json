@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32277,
+  "clanPoints": 32283,
   "clanBuilderBasePoints": 36180,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -476,52 +476,6 @@
       }
     },
     {
-      "tag": "#Y8LRCRR8",
-      "name": "romano 0344",
-      "role": 3,
-      "townHallLevel": 14,
-      "expLevel": 212,
-      "league": {
-        "id": 29000015,
-        "name": "Master League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
-        }
-      },
-      "trophies": 3003,
-      "builderBaseTrophies": 4819,
-      "clanRank": 11,
-      "previousClanRank": 12,
-      "donations": 1,
-      "donationsReceived": 127,
-      "builderBaseLeague": {
-        "id": 44000034,
-        "name": "Platinum League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000032
-          },
-          {
-            "type": 0,
-            "id": 82000062
-          }
-        ]
-      }
-    },
-    {
       "tag": "#RVGCJGQ8",
       "name": "CuriousWanderer",
       "role": 1,
@@ -536,9 +490,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
         }
       },
-      "trophies": 2991,
+      "trophies": 3013,
       "builderBaseTrophies": 3402,
-      "clanRank": 12,
+      "clanRank": 11,
       "previousClanRank": 11,
       "donations": 113,
       "donationsReceived": 160,
@@ -563,6 +517,52 @@
           {
             "type": 0,
             "id": 82000064
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#Y8LRCRR8",
+      "name": "romano 0344",
+      "role": 3,
+      "townHallLevel": 14,
+      "expLevel": 212,
+      "league": {
+        "id": 29000015,
+        "name": "Master League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
+        }
+      },
+      "trophies": 3003,
+      "builderBaseTrophies": 4819,
+      "clanRank": 12,
+      "previousClanRank": 12,
+      "donations": 1,
+      "donationsReceived": 127,
+      "builderBaseLeague": {
+        "id": 44000034,
+        "name": "Platinum League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000032
+          },
+          {
+            "type": 0,
+            "id": 82000062
           }
         ]
       }
