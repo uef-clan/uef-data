@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32314,
+  "clanPoints": 32312,
   "clanBuilderBasePoints": 36171,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -659,52 +659,6 @@
       }
     },
     {
-      "tag": "#8YPUG9C88",
-      "name": "stormquini",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 147,
-      "league": {
-        "id": 29000013,
-        "name": "Master League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
-        }
-      },
-      "trophies": 2698,
-      "builderBaseTrophies": 3425,
-      "clanRank": 15,
-      "previousClanRank": 16,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000027,
-        "name": "Steel League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000000
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000009
-          },
-          {
-            "type": 0,
-            "id": 82000058
-          }
-        ]
-      }
-    },
-    {
       "tag": "#2P820RVP2",
       "name": "Timon",
       "role": 3,
@@ -721,7 +675,7 @@
       },
       "trophies": 2695,
       "builderBaseTrophies": 2266,
-      "clanRank": 16,
+      "clanRank": 15,
       "previousClanRank": 15,
       "donations": 0,
       "donationsReceived": 0,
@@ -746,6 +700,52 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#8YPUG9C88",
+      "name": "stormquini",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 147,
+      "league": {
+        "id": 29000013,
+        "name": "Master League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
+        }
+      },
+      "trophies": 2690,
+      "builderBaseTrophies": 3425,
+      "clanRank": 16,
+      "previousClanRank": 16,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000027,
+        "name": "Steel League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000000
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000009
+          },
+          {
+            "type": 0,
+            "id": 82000058
           }
         ]
       }
