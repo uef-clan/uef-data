@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32267,
+  "clanPoints": 32274,
   "clanBuilderBasePoints": 36131,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -659,52 +659,6 @@
       }
     },
     {
-      "tag": "#2P820RVP2",
-      "name": "Timon",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 137,
-      "league": {
-        "id": 29000013,
-        "name": "Master League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
-        }
-      },
-      "trophies": 2713,
-      "builderBaseTrophies": 2266,
-      "clanRank": 15,
-      "previousClanRank": 15,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000021,
-        "name": "Brass League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000006
-          },
-          {
-            "type": 3,
-            "id": 82000055
-          },
-          {
-            "type": 2,
-            "id": 82000046
-          },
-          {
-            "type": 0,
-            "id": 82000059
-          }
-        ]
-      }
-    },
-    {
       "tag": "#9RY0YYYCG",
       "name": "Gus",
       "role": 3,
@@ -719,9 +673,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
         }
       },
-      "trophies": 2713,
+      "trophies": 2741,
       "builderBaseTrophies": 3987,
-      "clanRank": 16,
+      "clanRank": 15,
       "previousClanRank": 17,
       "donations": 0,
       "donationsReceived": 0,
@@ -746,6 +700,52 @@
           {
             "type": 0,
             "id": 82000066
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#2P820RVP2",
+      "name": "Timon",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 137,
+      "league": {
+        "id": 29000013,
+        "name": "Master League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
+        }
+      },
+      "trophies": 2713,
+      "builderBaseTrophies": 2266,
+      "clanRank": 16,
+      "previousClanRank": 15,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Brass League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000006
+          },
+          {
+            "type": 3,
+            "id": 82000055
+          },
+          {
+            "type": 2,
+            "id": 82000046
+          },
+          {
+            "type": 0,
+            "id": 82000059
           }
         ]
       }
