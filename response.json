@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32325,
+  "clanPoints": 32314,
   "clanBuilderBasePoints": 36171,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -83,52 +83,6 @@
       }
     },
     {
-      "tag": "#9GYP9288C",
-      "name": "King niels",
-      "role": 3,
-      "townHallLevel": 15,
-      "expLevel": 200,
-      "league": {
-        "id": 29000022,
-        "name": "Legend League",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
-        }
-      },
-      "trophies": 4990,
-      "builderBaseTrophies": 4211,
-      "clanRank": 2,
-      "previousClanRank": 2,
-      "donations": 305,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000031,
-        "name": "Titanium League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000046
-          },
-          {
-            "type": 0,
-            "id": 82000068
-          }
-        ]
-      }
-    },
-    {
       "tag": "#9L9RRPV2G",
       "name": "Tobias",
       "role": 0,
@@ -145,7 +99,7 @@
       },
       "trophies": 4987,
       "builderBaseTrophies": 4500,
-      "clanRank": 3,
+      "clanRank": 2,
       "previousClanRank": 3,
       "donations": 1541,
       "donationsReceived": 1052,
@@ -170,6 +124,52 @@
           {
             "type": 0,
             "id": 82000066
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#9GYP9288C",
+      "name": "King niels",
+      "role": 3,
+      "townHallLevel": 15,
+      "expLevel": 200,
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      },
+      "trophies": 4969,
+      "builderBaseTrophies": 4211,
+      "clanRank": 3,
+      "previousClanRank": 2,
+      "donations": 305,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000031,
+        "name": "Titanium League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000046
+          },
+          {
+            "type": 0,
+            "id": 82000068
           }
         ]
       }
