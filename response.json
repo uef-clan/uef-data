@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32280,
+  "clanPoints": 32279,
   "clanBuilderBasePoints": 36131,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -1602,52 +1602,6 @@
       }
     },
     {
-      "tag": "#G0G8YRUG2",
-      "name": "thijs",
-      "role": 3,
-      "townHallLevel": 10,
-      "expLevel": 84,
-      "league": {
-        "id": 29000008,
-        "name": "Gold League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
-        }
-      },
-      "trophies": 1564,
-      "builderBaseTrophies": 1384,
-      "clanRank": 37,
-      "previousClanRank": 37,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000013,
-        "name": "Stone League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000009
-          },
-          {
-            "type": 0,
-            "id": 82000058
-          }
-        ]
-      }
-    },
-    {
       "tag": "#22G8CQGPV",
       "name": "gdetopper",
       "role": 3,
@@ -1664,7 +1618,7 @@
       },
       "trophies": 1564,
       "builderBaseTrophies": 1654,
-      "clanRank": 38,
+      "clanRank": 37,
       "previousClanRank": 38,
       "donations": 0,
       "donationsReceived": 0,
@@ -1685,6 +1639,52 @@
           {
             "type": 2,
             "id": 82000017
+          },
+          {
+            "type": 0,
+            "id": 82000058
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#G0G8YRUG2",
+      "name": "thijs",
+      "role": 3,
+      "townHallLevel": 10,
+      "expLevel": 84,
+      "league": {
+        "id": 29000008,
+        "name": "Gold League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
+        }
+      },
+      "trophies": 1556,
+      "builderBaseTrophies": 1384,
+      "clanRank": 38,
+      "previousClanRank": 37,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000013,
+        "name": "Stone League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000009
           },
           {
             "type": 0,
