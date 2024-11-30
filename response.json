@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32324,
+  "clanPoints": 32325,
   "clanBuilderBasePoints": 36131,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -2112,7 +2112,7 @@
       "name": "Frank",
       "role": 0,
       "townHallLevel": 10,
-      "expLevel": 94,
+      "expLevel": 95,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -2121,7 +2121,7 @@
           "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 651,
+      "trophies": 675,
       "builderBaseTrophies": 2739,
       "clanRank": 49,
       "previousClanRank": 49,
