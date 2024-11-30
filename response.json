@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32302,
+  "clanPoints": 32304,
   "clanBuilderBasePoints": 36134,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3222,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 812,
+      "donations": 842,
       "donationsReceived": 862,
       "builderBaseLeague": {
         "id": 44000026,
@@ -450,7 +450,7 @@
       "clanRank": 10,
       "previousClanRank": 11,
       "donations": 108,
-      "donationsReceived": 213,
+      "donationsReceived": 223,
       "builderBaseLeague": {
         "id": 44000033,
         "name": "Platinum League II"
@@ -496,7 +496,7 @@
       "clanRank": 11,
       "previousClanRank": 10,
       "donations": 51,
-      "donationsReceived": 137,
+      "donationsReceived": 147,
       "builderBaseLeague": {
         "id": 44000020,
         "name": "Brass League III"
@@ -1154,7 +1154,7 @@
           "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 2142,
+      "trophies": 2165,
       "builderBaseTrophies": 2490,
       "clanRank": 26,
       "previousClanRank": 26,
@@ -1483,7 +1483,7 @@
       "builderBaseTrophies": 5000,
       "clanRank": 34,
       "previousClanRank": 34,
-      "donations": 181,
+      "donations": 201,
       "donationsReceived": 30,
       "builderBaseLeague": {
         "id": 44000035,
@@ -1783,7 +1783,7 @@
       "clanRank": 41,
       "previousClanRank": 41,
       "donations": 0,
-      "donationsReceived": 233,
+      "donationsReceived": 263,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
