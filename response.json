@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32323,
+  "clanPoints": 32322,
   "clanBuilderBasePoints": 36148,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -2016,52 +2016,6 @@
       }
     },
     {
-      "tag": "#2GG0VGQ9Y",
-      "name": "Lynn & Daan",
-      "role": 0,
-      "townHallLevel": 8,
-      "expLevel": 118,
-      "league": {
-        "id": 29000003,
-        "name": "Bronze League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png"
-        }
-      },
-      "trophies": 734,
-      "builderBaseTrophies": 1801,
-      "clanRank": 47,
-      "previousClanRank": 47,
-      "donations": 0,
-      "donationsReceived": 26,
-      "builderBaseLeague": {
-        "id": 44000018,
-        "name": "Copper League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000052
-          },
-          {
-            "type": 2,
-            "id": 82000042
-          },
-          {
-            "type": 0,
-            "id": 82000066
-          }
-        ]
-      }
-    },
-    {
       "tag": "#QRYPQJUPY",
       "name": "sander",
       "role": 3,
@@ -2078,7 +2032,7 @@
       },
       "trophies": 733,
       "builderBaseTrophies": 1435,
-      "clanRank": 48,
+      "clanRank": 47,
       "previousClanRank": 48,
       "donations": 0,
       "donationsReceived": 0,
@@ -2103,6 +2057,52 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#2GG0VGQ9Y",
+      "name": "Lynn & Daan",
+      "role": 0,
+      "townHallLevel": 8,
+      "expLevel": 118,
+      "league": {
+        "id": 29000003,
+        "name": "Bronze League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png"
+        }
+      },
+      "trophies": 725,
+      "builderBaseTrophies": 1801,
+      "clanRank": 48,
+      "previousClanRank": 47,
+      "donations": 0,
+      "donationsReceived": 26,
+      "builderBaseLeague": {
+        "id": 44000018,
+        "name": "Copper League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000052
+          },
+          {
+            "type": 2,
+            "id": 82000042
+          },
+          {
+            "type": 0,
+            "id": 82000066
           }
         ]
       }
