@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 17,
+    "attacks": 18,
     "stars": 42,
     "destructionPercentage": 97.2,
     "members": [
@@ -34,6 +34,14 @@
             "destructionPercentage": 100,
             "order": 25,
             "duration": 80
+          },
+          {
+            "attackerTag": "#QJ0VCVQYC",
+            "defenderTag": "#QV9C8VJ0J",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 30,
+            "duration": 144
           }
         ]
       },
@@ -446,7 +454,7 @@
         "name": "Брат",
         "townhallLevel": 12,
         "mapPosition": 9,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#29UC8C2PC",
           "defenderTag": "#QV9C8VJ0J",
