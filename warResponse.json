@@ -145,8 +145,15 @@
         "name": "tijmen6",
         "townhallLevel": 9,
         "mapPosition": 12,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2YL9V0R8",
+          "defenderTag": "#QP8UV2L9R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 85
+        }
       },
       {
         "tag": "#20CCR02Q",
@@ -167,9 +174,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/JT8pFqyDikdk_23zbgWBUv1O7a7W8K0NcNPi_Q2_X6Y.png"
     },
     "clanLevel": 20,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 6.6666665,
+    "attacks": 2,
+    "stars": 6,
+    "destructionPercentage": 13.333333,
     "members": [
       {
         "tag": "#QLVUY2YQ9",
@@ -194,6 +201,14 @@
             "destructionPercentage": 100,
             "order": 2,
             "duration": 86
+          },
+          {
+            "attackerTag": "#G2YL9V0R8",
+            "defenderTag": "#QP8UV2L9R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 85
           }
         ]
       },
