@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 9,
-    "stars": 25,
-    "destructionPercentage": 57.466667,
+    "attacks": 10,
+    "stars": 27,
+    "destructionPercentage": 63.866665,
     "members": [
       {
         "tag": "#QJ0VCVQYC",
@@ -118,6 +118,14 @@
             "destructionPercentage": 75,
             "order": 17,
             "duration": 113
+          },
+          {
+            "attackerTag": "#89Q0YQYL",
+            "defenderTag": "#LUVRL8GY2",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 18,
+            "duration": 153
           }
         ]
       },
@@ -547,8 +555,15 @@
         "name": "Kesh35",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#89Q0YQYL",
+          "defenderTag": "#LUVRL8GY2",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 18,
+          "duration": 153
+        }
       }
     ]
   }
