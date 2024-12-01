@@ -130,8 +130,15 @@
         "name": "Guusje",
         "townhallLevel": 11,
         "mapPosition": 11,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2YL9V0R8",
+          "defenderTag": "#LJ02J988Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 86
+        }
       },
       {
         "tag": "#QP8UV2L9R",
@@ -160,9 +167,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/JT8pFqyDikdk_23zbgWBUv1O7a7W8K0NcNPi_Q2_X6Y.png"
     },
     "clanLevel": 20,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 6.6666665,
     "members": [
       {
         "tag": "#QLVUY2YQ9",
@@ -178,7 +185,17 @@
         "townhallLevel": 10,
         "mapPosition": 12,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#G2YL9V0R8",
+            "defenderTag": "#LJ02J988Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 86
+          }
+        ]
       },
       {
         "tag": "#QV9C8VJ0J",
