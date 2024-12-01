@@ -82,8 +82,15 @@
         "name": "max",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8GLY8Q900",
+          "defenderTag": "#QG8RPCL02",
+          "stars": 1,
+          "destructionPercentage": 86,
+          "order": 4,
+          "duration": 117
+        }
       },
       {
         "tag": "#RVGCJGQ8",
@@ -174,9 +181,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/JT8pFqyDikdk_23zbgWBUv1O7a7W8K0NcNPi_Q2_X6Y.png"
     },
     "clanLevel": 20,
-    "attacks": 2,
-    "stars": 6,
-    "destructionPercentage": 13.333333,
+    "attacks": 3,
+    "stars": 7,
+    "destructionPercentage": 19.066668,
     "members": [
       {
         "tag": "#QLVUY2YQ9",
@@ -305,7 +312,17 @@
         "townhallLevel": 13,
         "mapPosition": 7,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#8GLY8Q900",
+            "defenderTag": "#QG8RPCL02",
+            "stars": 1,
+            "destructionPercentage": 86,
+            "order": 4,
+            "duration": 117
+          }
+        ]
       },
       {
         "tag": "#LC8C0P8YR",
