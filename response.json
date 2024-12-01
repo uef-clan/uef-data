@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32314,
+  "clanPoints": 32334,
   "clanBuilderBasePoints": 36155,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
@@ -51,12 +51,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 5043,
+      "trophies": 5083,
       "builderBaseTrophies": 4846,
       "clanRank": 1,
       "previousClanRank": 1,
       "donations": 346,
-      "donationsReceived": 803,
+      "donationsReceived": 853,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -342,7 +342,7 @@
       "tag": "#P8UVRLJQR",
       "name": "Gekke Man",
       "role": 3,
-      "townHallLevel": 13,
+      "townHallLevel": 14,
       "expLevel": 195,
       "league": {
         "id": 29000015,
@@ -357,7 +357,7 @@
       "builderBaseTrophies": 2797,
       "clanRank": 8,
       "previousClanRank": 8,
-      "donations": 325,
+      "donations": 438,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000023,
@@ -542,7 +542,7 @@
       "clanRank": 12,
       "previousClanRank": 11,
       "donations": 51,
-      "donationsReceived": 177,
+      "donationsReceived": 215,
       "builderBaseLeague": {
         "id": 44000020,
         "name": "Brass League III"
@@ -1484,7 +1484,7 @@
       "clanRank": 34,
       "previousClanRank": 34,
       "donations": 201,
-      "donationsReceived": 63,
+      "donationsReceived": 88,
       "builderBaseLeague": {
         "id": 44000035,
         "name": "Emerald League III"
