@@ -219,8 +219,15 @@
         "name": "FrankMan",
         "townhallLevel": 11,
         "mapPosition": 10,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QU0G8UUPP",
+          "defenderTag": "#U0YLJVY0",
+          "stars": 1,
+          "destructionPercentage": 66,
+          "order": 26,
+          "duration": 126
+        },
         "attacks": [
           {
             "attackerTag": "#U0YLJVY0",
@@ -359,9 +366,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/JT8pFqyDikdk_23zbgWBUv1O7a7W8K0NcNPi_Q2_X6Y.png"
     },
     "clanLevel": 20,
-    "attacks": 10,
-    "stars": 17,
-    "destructionPercentage": 41.533333,
+    "attacks": 11,
+    "stars": 18,
+    "destructionPercentage": 45.933334,
     "members": [
       {
         "tag": "#QLVUY2YQ9",
@@ -572,7 +579,17 @@
           "destructionPercentage": 100,
           "order": 22,
           "duration": 61
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#QU0G8UUPP",
+            "defenderTag": "#U0YLJVY0",
+            "stars": 1,
+            "destructionPercentage": 66,
+            "order": 26,
+            "duration": 126
+          }
+        ]
       },
       {
         "tag": "#GGVLJYGQ8",
