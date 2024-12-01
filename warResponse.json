@@ -257,8 +257,15 @@
         "name": "Paddy Field",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2V9RC02R2",
+          "defenderTag": "#999JUCGLG",
+          "stars": 1,
+          "destructionPercentage": 79,
+          "order": 38,
+          "duration": 101
+        },
         "attacks": [
           {
             "attackerTag": "#999JUCGLG",
@@ -445,9 +452,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/JT8pFqyDikdk_23zbgWBUv1O7a7W8K0NcNPi_Q2_X6Y.png"
     },
     "clanLevel": 20,
-    "attacks": 15,
-    "stars": 25,
-    "destructionPercentage": 62.533333,
+    "attacks": 16,
+    "stars": 26,
+    "destructionPercentage": 67.8,
     "members": [
       {
         "tag": "#QLVUY2YQ9",
@@ -592,6 +599,14 @@
             "destructionPercentage": 94,
             "order": 36,
             "duration": 161
+          },
+          {
+            "attackerTag": "#2V9RC02R2",
+            "defenderTag": "#999JUCGLG",
+            "stars": 1,
+            "destructionPercentage": 79,
+            "order": 38,
+            "duration": 101
           }
         ]
       },
