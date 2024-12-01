@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 20,
+    "attacks": 21,
     "stars": 42,
     "destructionPercentage": 97.2,
     "members": [
@@ -353,6 +353,14 @@
             "destructionPercentage": 100,
             "order": 11,
             "duration": 139
+          },
+          {
+            "attackerTag": "#LJ02J988Q",
+            "defenderTag": "#QGY02VVG0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 161
           }
         ]
       },
@@ -502,7 +510,7 @@
         "name": "THE M,Fırat",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QG8RPCL02",
           "defenderTag": "#QGY02VVG0",
