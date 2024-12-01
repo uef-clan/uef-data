@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32347,
-  "clanBuilderBasePoints": 36154,
+  "clanPoints": 32345,
+  "clanBuilderBasePoints": 36149,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -1515,7 +1515,7 @@
       "name": "stefkefilms",
       "role": 3,
       "townHallLevel": 11,
-      "expLevel": 100,
+      "expLevel": 101,
       "league": {
         "id": 29000008,
         "name": "Gold League II",
@@ -1525,8 +1525,8 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
         }
       },
-      "trophies": 1782,
-      "builderBaseTrophies": 2533,
+      "trophies": 1761,
+      "builderBaseTrophies": 2483,
       "clanRank": 35,
       "previousClanRank": 35,
       "donations": 28,
