@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 2,
-    "stars": 6,
-    "destructionPercentage": 13.333333,
+    "attacks": 3,
+    "stars": 9,
+    "destructionPercentage": 20.0,
     "members": [
       {
         "tag": "#QJ0VCVQYC",
@@ -33,7 +33,17 @@
         "townhallLevel": 15,
         "mapPosition": 6,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#QJ02YGJR0",
+            "defenderTag": "#8GLY8Q900",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 91
+          }
+        ]
       },
       {
         "tag": "#9L9RRPV2G",
@@ -370,8 +380,15 @@
         "name": "OFLUemin61",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ02YGJR0",
+          "defenderTag": "#8GLY8Q900",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 91
+        },
         "attacks": [
           {
             "attackerTag": "#8GLY8Q900",
