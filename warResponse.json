@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 7,
-    "stars": 20,
-    "destructionPercentage": 45.8,
+    "attacks": 8,
+    "stars": 23,
+    "destructionPercentage": 52.466667,
     "members": [
       {
         "tag": "#QJ0VCVQYC",
@@ -183,7 +183,17 @@
           "destructionPercentage": 40,
           "order": 12,
           "duration": 91
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#29UC8C2PC",
+            "defenderTag": "#QV9C8VJ0J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 83
+          }
+        ]
       },
       {
         "tag": "#GGPCCUG8P",
@@ -248,8 +258,15 @@
         "name": "Daan",
         "townhallLevel": 7,
         "mapPosition": 15,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGVLJYGQ8",
+          "defenderTag": "#20CCR02Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 66
+        }
       }
     ]
   },
@@ -262,9 +279,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/JT8pFqyDikdk_23zbgWBUv1O7a7W8K0NcNPi_Q2_X6Y.png"
     },
     "clanLevel": 20,
-    "attacks": 7,
-    "stars": 10,
-    "destructionPercentage": 26.533333,
+    "attacks": 8,
+    "stars": 13,
+    "destructionPercentage": 33.2,
     "members": [
       {
         "tag": "#QLVUY2YQ9",
@@ -305,8 +322,15 @@
         "name": "Брат",
         "townhallLevel": 12,
         "mapPosition": 9,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#29UC8C2PC",
+          "defenderTag": "#QV9C8VJ0J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 83
+        }
       },
       {
         "tag": "#8GPJ8UYL",
@@ -457,6 +481,14 @@
             "destructionPercentage": 0,
             "order": 7,
             "duration": 0
+          },
+          {
+            "attackerTag": "#GGVLJYGQ8",
+            "defenderTag": "#20CCR02Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 66
           }
         ]
       },
