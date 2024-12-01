@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32319,
-  "clanBuilderBasePoints": 36170,
+  "clanBuilderBasePoints": 36171,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -1617,14 +1617,14 @@
         }
       },
       "trophies": 1581,
-      "builderBaseTrophies": 1384,
+      "builderBaseTrophies": 1424,
       "clanRank": 37,
       "previousClanRank": 37,
       "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
-        "id": 44000013,
-        "name": "Stone League II"
+        "id": 44000014,
+        "name": "Stone League I"
       },
       "playerHouse": {
         "elements": [
