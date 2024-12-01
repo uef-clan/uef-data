@@ -126,8 +126,15 @@
         "name": "Azka Thegazters",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2V9RC02R2",
+          "defenderTag": "#2Y08ULL9J",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 36,
+          "duration": 161
+        },
         "attacks": [
           {
             "attackerTag": "#2Y08ULL9J",
@@ -431,9 +438,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/JT8pFqyDikdk_23zbgWBUv1O7a7W8K0NcNPi_Q2_X6Y.png"
     },
     "clanLevel": 20,
-    "attacks": 13,
-    "stars": 20,
-    "destructionPercentage": 49.6,
+    "attacks": 14,
+    "stars": 22,
+    "destructionPercentage": 55.866665,
     "members": [
       {
         "tag": "#QLVUY2YQ9",
@@ -561,7 +568,17 @@
           "destructionPercentage": 100,
           "order": 14,
           "duration": 126
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#2V9RC02R2",
+            "defenderTag": "#2Y08ULL9J",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 36,
+            "duration": 161
+          }
+        ]
       },
       {
         "tag": "#CGP2U9R",
