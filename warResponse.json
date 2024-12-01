@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 12,
-    "stars": 33,
-    "destructionPercentage": 77.2,
+    "attacks": 13,
+    "stars": 36,
+    "destructionPercentage": 83.86667,
     "members": [
       {
         "tag": "#QJ0VCVQYC",
@@ -210,7 +210,17 @@
         "townhallLevel": 11,
         "mapPosition": 10,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#U0YLJVY0",
+            "defenderTag": "#G2YL9V0R8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 67
+          }
+        ]
       },
       {
         "tag": "#29UC8C2PC",
@@ -348,8 +358,15 @@
         "name": "Real-Leader",
         "townhallLevel": 10,
         "mapPosition": 12,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#U0YLJVY0",
+          "defenderTag": "#G2YL9V0R8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 67
+        },
         "attacks": [
           {
             "attackerTag": "#G2YL9V0R8",
