@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32341,
-  "clanBuilderBasePoints": 36163,
+  "clanBuilderBasePoints": 36161,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3273,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 921,
+      "donations": 992,
       "donationsReceived": 1042,
       "builderBaseLeague": {
         "id": 44000026,
@@ -610,14 +610,14 @@
         }
       },
       "trophies": 2826,
-      "builderBaseTrophies": 4003,
+      "builderBaseTrophies": 3998,
       "clanRank": 14,
       "previousClanRank": 15,
       "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
-        "id": 44000030,
-        "name": "Titanium League II"
+        "id": 44000029,
+        "name": "Titanium League III"
       },
       "playerHouse": {
         "elements": [
@@ -1205,7 +1205,7 @@
       "clanRank": 27,
       "previousClanRank": 27,
       "donations": 0,
-      "donationsReceived": 369,
+      "donationsReceived": 405,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
@@ -1341,7 +1341,7 @@
       "clanRank": 30,
       "previousClanRank": 30,
       "donations": 1,
-      "donationsReceived": 140,
+      "donationsReceived": 175,
       "builderBaseLeague": {
         "id": 44000016,
         "name": "Copper League IV"
