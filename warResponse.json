@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 15,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -165,7 +165,7 @@
       {
         "tag": "#G2YL9V0R8",
         "name": "Real-Leader",
-        "townhallLevel": 9,
+        "townhallLevel": 10,
         "mapPosition": 12,
         "opponentAttacks": 0,
         "bestOpponentAttack": null
