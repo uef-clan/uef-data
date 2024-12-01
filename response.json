@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32330,
-  "clanBuilderBasePoints": 36154,
+  "clanBuilderBasePoints": 36170,
   "clanCapitalPoints": 3065,
   "capitalLeague": {
     "id": 85000015,
@@ -446,14 +446,14 @@
         }
       },
       "trophies": 3092,
-      "builderBaseTrophies": 4799,
+      "builderBaseTrophies": 4831,
       "clanRank": 10,
       "previousClanRank": 10,
       "donations": 108,
       "donationsReceived": 223,
       "builderBaseLeague": {
-        "id": 44000033,
-        "name": "Platinum League II"
+        "id": 44000034,
+        "name": "Platinum League I"
       },
       "playerHouse": {
         "elements": [
