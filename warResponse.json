@@ -68,7 +68,7 @@
         "name": "Tobias",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QRCVV229Y",
           "defenderTag": "#9L9RRPV2G",
@@ -423,7 +423,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/JT8pFqyDikdk_23zbgWBUv1O7a7W8K0NcNPi_Q2_X6Y.png"
     },
     "clanLevel": 20,
-    "attacks": 12,
+    "attacks": 13,
     "stars": 20,
     "destructionPercentage": 49.6,
     "members": [
@@ -503,7 +503,17 @@
           "destructionPercentage": 100,
           "order": 1,
           "duration": 179
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#8GPJ8UYL",
+            "defenderTag": "#9L9RRPV2G",
+            "stars": 1,
+            "destructionPercentage": 38,
+            "order": 34,
+            "duration": 109
+          }
+        ]
       },
       {
         "tag": "#QGY02VVG0",
