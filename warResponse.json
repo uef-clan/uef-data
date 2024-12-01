@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 5,
-    "stars": 14,
-    "destructionPercentage": 32.466667,
+    "attacks": 7,
+    "stars": 20,
+    "destructionPercentage": 45.8,
     "members": [
       {
         "tag": "#QJ0VCVQYC",
@@ -132,7 +132,17 @@
         "townhallLevel": 15,
         "mapPosition": 2,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#RVGCJGQ8",
+            "defenderTag": "#2V9RC02R2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 126
+          }
+        ]
       },
       {
         "tag": "#999JUCGLG",
@@ -221,7 +231,17 @@
           "destructionPercentage": 100,
           "order": 3,
           "duration": 85
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#QP8UV2L9R",
+            "defenderTag": "#GGVLJYGQ8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 50
+          }
+        ]
       },
       {
         "tag": "#20CCR02Q",
@@ -326,8 +346,15 @@
         "name": "mete",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RVGCJGQ8",
+          "defenderTag": "#2V9RC02R2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 126
+        }
       },
       {
         "tag": "#CGP2U9R",
@@ -413,8 +440,15 @@
         "name": "Old player",
         "townhallLevel": 8,
         "mapPosition": 14,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QP8UV2L9R",
+          "defenderTag": "#GGVLJYGQ8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 50
+        },
         "attacks": [
           {
             "attackerTag": "#GGVLJYGQ8",
