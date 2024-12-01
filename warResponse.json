@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 8,
-    "stars": 23,
-    "destructionPercentage": 52.466667,
+    "attacks": 9,
+    "stars": 25,
+    "destructionPercentage": 57.466667,
     "members": [
       {
         "tag": "#QJ0VCVQYC",
@@ -109,7 +109,17 @@
         "townhallLevel": 17,
         "mapPosition": 1,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#89Q0YQYL",
+            "defenderTag": "#LC8C0P8YR",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 17,
+            "duration": 113
+          }
+        ]
       },
       {
         "tag": "#QG8RPCL02",
@@ -522,8 +532,15 @@
         "name": "KEMALETTİN 29",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#89Q0YQYL",
+          "defenderTag": "#LC8C0P8YR",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 17,
+          "duration": 113
+        }
       },
       {
         "tag": "#LUVRL8GY2",
