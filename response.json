@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32331,
+  "clanPoints": 32332,
   "clanBuilderBasePoints": 36154,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -1606,7 +1606,7 @@
       "name": "thijs",
       "role": 3,
       "townHallLevel": 10,
-      "expLevel": 84,
+      "expLevel": 85,
       "league": {
         "id": 29000008,
         "name": "Gold League II",
@@ -2016,6 +2016,51 @@
       }
     },
     {
+      "tag": "#QJ0VCVQYC",
+      "name": "Frank",
+      "role": 0,
+      "townHallLevel": 10,
+      "expLevel": 95,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 753,
+      "builderBaseTrophies": 2739,
+      "clanRank": 47,
+      "previousClanRank": 49,
+      "donations": 0,
+      "donationsReceived": 195,
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Iron League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000079
+          },
+          {
+            "type": 2,
+            "id": 82000042
+          },
+          {
+            "type": 0,
+            "id": 82000080
+          }
+        ]
+      }
+    },
+    {
       "tag": "#2GG0VGQ9Y",
       "name": "Lynn & Daan",
       "role": 0,
@@ -2032,7 +2077,7 @@
       },
       "trophies": 742,
       "builderBaseTrophies": 1801,
-      "clanRank": 47,
+      "clanRank": 48,
       "previousClanRank": 47,
       "donations": 0,
       "donationsReceived": 52,
@@ -2078,7 +2123,7 @@
       },
       "trophies": 733,
       "builderBaseTrophies": 1435,
-      "clanRank": 48,
+      "clanRank": 49,
       "previousClanRank": 48,
       "donations": 0,
       "donationsReceived": 0,
@@ -2103,51 +2148,6 @@
           {
             "type": 0,
             "id": 82000059
-          }
-        ]
-      }
-    },
-    {
-      "tag": "#QJ0VCVQYC",
-      "name": "Frank",
-      "role": 0,
-      "townHallLevel": 10,
-      "expLevel": 95,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 727,
-      "builderBaseTrophies": 2739,
-      "clanRank": 49,
-      "previousClanRank": 49,
-      "donations": 0,
-      "donationsReceived": 195,
-      "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000079
-          },
-          {
-            "type": 2,
-            "id": 82000042
-          },
-          {
-            "type": 0,
-            "id": 82000080
           }
         ]
       }
