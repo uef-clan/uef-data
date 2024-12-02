@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 23,
-    "stars": 42,
-    "destructionPercentage": 97.53333,
+    "attacks": 24,
+    "stars": 43,
+    "destructionPercentage": 98.4,
     "members": [
       {
         "tag": "#QJ0VCVQYC",
@@ -150,6 +150,14 @@
             "destructionPercentage": 100,
             "order": 1,
             "duration": 179
+          },
+          {
+            "attackerTag": "#2Y08ULL9J",
+            "defenderTag": "#CV8GLQGQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 150
           }
         ]
       },
@@ -679,14 +687,14 @@
         "name": "pırıL",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#999JUCGLG",
+          "attackerTag": "#2Y08ULL9J",
           "defenderTag": "#CV8GLQGQ",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 10,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 150
         }
       },
       {
