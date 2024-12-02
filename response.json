@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32350,
+  "clanPoints": 32348,
   "clanBuilderBasePoints": 36157,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -1322,52 +1322,6 @@
       }
     },
     {
-      "tag": "#82RUY9RG9",
-      "name": "Rinse",
-      "role": 3,
-      "townHallLevel": 11,
-      "expLevel": 94,
-      "league": {
-        "id": 29000010,
-        "name": "Crystal League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
-        }
-      },
-      "trophies": 1940,
-      "builderBaseTrophies": 1658,
-      "clanRank": 30,
-      "previousClanRank": 30,
-      "donations": 1,
-      "donationsReceived": 175,
-      "builderBaseLeague": {
-        "id": 44000016,
-        "name": "Copper League IV"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000000
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000011
-          },
-          {
-            "type": 0,
-            "id": 82000058
-          }
-        ]
-      }
-    },
-    {
       "tag": "#99LQPJ2UG",
       "name": "sdetopper",
       "role": 3,
@@ -1384,7 +1338,7 @@
       },
       "trophies": 1925,
       "builderBaseTrophies": 2608,
-      "clanRank": 31,
+      "clanRank": 30,
       "previousClanRank": 31,
       "donations": 228,
       "donationsReceived": 538,
@@ -1409,6 +1363,52 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#82RUY9RG9",
+      "name": "Rinse",
+      "role": 3,
+      "townHallLevel": 11,
+      "expLevel": 94,
+      "league": {
+        "id": 29000010,
+        "name": "Crystal League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
+        }
+      },
+      "trophies": 1911,
+      "builderBaseTrophies": 1658,
+      "clanRank": 31,
+      "previousClanRank": 30,
+      "donations": 1,
+      "donationsReceived": 175,
+      "builderBaseLeague": {
+        "id": 44000016,
+        "name": "Copper League IV"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000000
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000011
+          },
+          {
+            "type": 0,
+            "id": 82000058
           }
         ]
       }
