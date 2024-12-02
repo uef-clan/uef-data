@@ -100,14 +100,14 @@
         "name": "Lynn & Daan",
         "townhallLevel": 8,
         "mapPosition": 14,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GGVLJYGQ8",
+          "attackerTag": "#LUVRL8GY2",
           "defenderTag": "#2GG0VGQ9Y",
-          "stars": 0,
-          "destructionPercentage": 0,
-          "order": 7,
-          "duration": 0
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 33
         },
         "attacks": [
           {
@@ -315,14 +315,14 @@
         "name": "Rutger",
         "townhallLevel": 12,
         "mapPosition": 8,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QGY02VVG0",
+          "attackerTag": "#LUVRL8GY2",
           "defenderTag": "#29UC8C2PC",
-          "stars": 0,
-          "destructionPercentage": 40,
-          "order": 12,
-          "duration": 91
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 75
         },
         "attacks": [
           {
@@ -460,9 +460,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/JT8pFqyDikdk_23zbgWBUv1O7a7W8K0NcNPi_Q2_X6Y.png"
     },
     "clanLevel": 20,
-    "attacks": 17,
-    "stars": 27,
-    "destructionPercentage": 66.26667,
+    "attacks": 19,
+    "stars": 33,
+    "destructionPercentage": 76.933334,
     "members": [
       {
         "tag": "#QLVUY2YQ9",
@@ -841,7 +841,25 @@
           "destructionPercentage": 96,
           "order": 18,
           "duration": 153
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#LUVRL8GY2",
+            "defenderTag": "#29UC8C2PC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 75
+          },
+          {
+            "attackerTag": "#LUVRL8GY2",
+            "defenderTag": "#2GG0VGQ9Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 33
+          }
+        ]
       }
     ]
   }
