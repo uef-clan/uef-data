@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32360,
+  "clanPoints": 32350,
   "clanBuilderBasePoints": 36157,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -201,52 +201,6 @@
       }
     },
     {
-      "tag": "#G9800GYGL",
-      "name": "kvmvm",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 123,
-      "league": {
-        "id": 29000019,
-        "name": "Titan League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png"
-        }
-      },
-      "trophies": 4354,
-      "builderBaseTrophies": 2848,
-      "clanRank": 5,
-      "previousClanRank": 6,
-      "donations": 250,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000024,
-        "name": "Iron League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000016
-          },
-          {
-            "type": 0,
-            "id": 82000060
-          }
-        ]
-      }
-    },
-    {
       "tag": "#QJ02YGJR0",
       "name": "Tobias",
       "role": 0,
@@ -263,7 +217,7 @@
       },
       "trophies": 4342,
       "builderBaseTrophies": 3346,
-      "clanRank": 6,
+      "clanRank": 5,
       "previousClanRank": 5,
       "donations": 1408,
       "donationsReceived": 1670,
@@ -288,6 +242,52 @@
           {
             "type": 0,
             "id": 82000063
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#G9800GYGL",
+      "name": "kvmvm",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 123,
+      "league": {
+        "id": 29000019,
+        "name": "Titan League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png"
+        }
+      },
+      "trophies": 4334,
+      "builderBaseTrophies": 2848,
+      "clanRank": 6,
+      "previousClanRank": 6,
+      "donations": 250,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Iron League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000016
+          },
+          {
+            "type": 0,
+            "id": 82000060
           }
         ]
       }
