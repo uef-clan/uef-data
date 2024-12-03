@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32330,
-  "clanBuilderBasePoints": 36181,
+  "clanPoints": 32337,
+  "clanBuilderBasePoints": 36174,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
     "id": 85000015,
@@ -51,7 +51,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 5023,
+      "trophies": 5037,
       "builderBaseTrophies": 4846,
       "clanRank": 1,
       "previousClanRank": 1,
@@ -1201,7 +1201,7 @@
         }
       },
       "trophies": 2006,
-      "builderBaseTrophies": 2389,
+      "builderBaseTrophies": 2317,
       "clanRank": 27,
       "previousClanRank": 27,
       "donations": 0,
