@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32396,
-  "clanBuilderBasePoints": 36181,
+  "clanPoints": 32393,
+  "clanBuilderBasePoints": 36169,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
     "id": 85000015,
@@ -308,7 +308,7 @@
         }
       },
       "trophies": 3629,
-      "builderBaseTrophies": 3342,
+      "builderBaseTrophies": 3292,
       "clanRank": 7,
       "previousClanRank": 7,
       "donations": 1511,
@@ -1511,52 +1511,6 @@
       }
     },
     {
-      "tag": "#G2LRGULG0",
-      "name": "stefkefilms",
-      "role": 3,
-      "townHallLevel": 11,
-      "expLevel": 101,
-      "league": {
-        "id": 29000008,
-        "name": "Gold League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
-        }
-      },
-      "trophies": 1743,
-      "builderBaseTrophies": 2384,
-      "clanRank": 35,
-      "previousClanRank": 35,
-      "donations": 28,
-      "donationsReceived": 409,
-      "builderBaseLeague": {
-        "id": 44000021,
-        "name": "Brass League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000031
-          },
-          {
-            "type": 0,
-            "id": 82000064
-          }
-        ]
-      }
-    },
-    {
       "tag": "#892VLVPG8",
       "name": "GeTReKT",
       "role": 3,
@@ -1572,7 +1526,7 @@
       },
       "trophies": 1727,
       "builderBaseTrophies": 2188,
-      "clanRank": 36,
+      "clanRank": 35,
       "previousClanRank": 36,
       "donations": 0,
       "donationsReceived": 0,
@@ -1597,6 +1551,52 @@
           {
             "type": 0,
             "id": 82000060
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#G2LRGULG0",
+      "name": "stefkefilms",
+      "role": 3,
+      "townHallLevel": 11,
+      "expLevel": 101,
+      "league": {
+        "id": 29000008,
+        "name": "Gold League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
+        }
+      },
+      "trophies": 1716,
+      "builderBaseTrophies": 2384,
+      "clanRank": 36,
+      "previousClanRank": 35,
+      "donations": 28,
+      "donationsReceived": 409,
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Brass League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000031
+          },
+          {
+            "type": 0,
+            "id": 82000064
           }
         ]
       }
