@@ -101,7 +101,7 @@
       "builderBaseTrophies": 4500,
       "clanRank": 2,
       "previousClanRank": 3,
-      "donations": 2430,
+      "donations": 2510,
       "donationsReceived": 1866,
       "builderBaseLeague": {
         "id": 44000032,
@@ -261,12 +261,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
         }
       },
-      "trophies": 4384,
+      "trophies": 4400,
       "builderBaseTrophies": 3346,
       "clanRank": 6,
       "previousClanRank": 6,
       "donations": 2011,
-      "donationsReceived": 2335,
+      "donationsReceived": 2416,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3311,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 1772,
+      "donations": 1773,
       "donationsReceived": 1674,
       "builderBaseLeague": {
         "id": 44000026,
@@ -339,52 +339,6 @@
       }
     },
     {
-      "tag": "#82QCPCG9P",
-      "name": "wes",
-      "role": 3,
-      "townHallLevel": 14,
-      "expLevel": 184,
-      "league": {
-        "id": 29000015,
-        "name": "Master League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
-        }
-      },
-      "trophies": 3133,
-      "builderBaseTrophies": 2562,
-      "clanRank": 8,
-      "previousClanRank": 8,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000022,
-        "name": "Brass League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000017
-          },
-          {
-            "type": 0,
-            "id": 82000059
-          }
-        ]
-      }
-    },
-    {
       "tag": "#P8UVRLJQR",
       "name": "Gekke Man",
       "role": 3,
@@ -401,7 +355,7 @@
       },
       "trophies": 3119,
       "builderBaseTrophies": 2797,
-      "clanRank": 9,
+      "clanRank": 8,
       "previousClanRank": 9,
       "donations": 439,
       "donationsReceived": 75,
@@ -426,6 +380,52 @@
           {
             "type": 0,
             "id": 82000064
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#82QCPCG9P",
+      "name": "wes",
+      "role": 3,
+      "townHallLevel": 14,
+      "expLevel": 184,
+      "league": {
+        "id": 29000015,
+        "name": "Master League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
+        }
+      },
+      "trophies": 3108,
+      "builderBaseTrophies": 2562,
+      "clanRank": 9,
+      "previousClanRank": 8,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000022,
+        "name": "Brass League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000017
+          },
+          {
+            "type": 0,
+            "id": 82000059
           }
         ]
       }
@@ -745,7 +745,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
         }
       },
-      "trophies": 2690,
+      "trophies": 2705,
       "builderBaseTrophies": 2307,
       "clanRank": 17,
       "previousClanRank": 17,
