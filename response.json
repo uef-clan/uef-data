@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32367,
+  "clanPoints": 32368,
   "clanBuilderBasePoints": 36208,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -2015,52 +2015,6 @@
       }
     },
     {
-      "tag": "#QRYPQJUPY",
-      "name": "sander",
-      "role": 3,
-      "townHallLevel": 8,
-      "expLevel": 57,
-      "league": {
-        "id": 29000003,
-        "name": "Bronze League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png"
-        }
-      },
-      "trophies": 733,
-      "builderBaseTrophies": 1435,
-      "clanRank": 47,
-      "previousClanRank": 48,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000014,
-        "name": "Stone League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000000
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000009
-          },
-          {
-            "type": 0,
-            "id": 82000059
-          }
-        ]
-      }
-    },
-    {
       "tag": "#QJ0VCVQYC",
       "name": "Frank",
       "role": 0,
@@ -2074,9 +2028,9 @@
           "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 729,
+      "trophies": 752,
       "builderBaseTrophies": 2739,
-      "clanRank": 48,
+      "clanRank": 47,
       "previousClanRank": 47,
       "donations": 0,
       "donationsReceived": 195,
@@ -2101,6 +2055,52 @@
           {
             "type": 0,
             "id": 82000080
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#QRYPQJUPY",
+      "name": "sander",
+      "role": 3,
+      "townHallLevel": 8,
+      "expLevel": 57,
+      "league": {
+        "id": 29000003,
+        "name": "Bronze League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png"
+        }
+      },
+      "trophies": 733,
+      "builderBaseTrophies": 1435,
+      "clanRank": 48,
+      "previousClanRank": 48,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000014,
+        "name": "Stone League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000000
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000009
+          },
+          {
+            "type": 0,
+            "id": 82000059
           }
         ]
       }
