@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32327,
+  "clanPoints": 32326,
   "clanBuilderBasePoints": 36205,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -143,7 +143,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4897,
+      "trophies": 4888,
       "builderBaseTrophies": 3718,
       "clanRank": 3,
       "previousClanRank": 3,
@@ -1322,6 +1322,52 @@
       }
     },
     {
+      "tag": "#82RUY9RG9",
+      "name": "Rinse",
+      "role": 3,
+      "townHallLevel": 11,
+      "expLevel": 94,
+      "league": {
+        "id": 29000009,
+        "name": "Gold League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+        }
+      },
+      "trophies": 1919,
+      "builderBaseTrophies": 1658,
+      "clanRank": 30,
+      "previousClanRank": 31,
+      "donations": 1,
+      "donationsReceived": 210,
+      "builderBaseLeague": {
+        "id": 44000016,
+        "name": "Copper League IV"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000000
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000011
+          },
+          {
+            "type": 0,
+            "id": 82000058
+          }
+        ]
+      }
+    },
+    {
       "tag": "#QJC9YJ2G0",
       "name": "King Wessel",
       "role": 3,
@@ -1337,7 +1383,7 @@
       },
       "trophies": 1907,
       "builderBaseTrophies": 2217,
-      "clanRank": 30,
+      "clanRank": 31,
       "previousClanRank": 32,
       "donations": 0,
       "donationsReceived": 0,
@@ -1363,7 +1409,7 @@
       },
       "trophies": 1895,
       "builderBaseTrophies": 2608,
-      "clanRank": 31,
+      "clanRank": 32,
       "previousClanRank": 30,
       "donations": 228,
       "donationsReceived": 538,
@@ -1409,59 +1455,13 @@
       },
       "trophies": 1892,
       "builderBaseTrophies": 2026,
-      "clanRank": 32,
+      "clanRank": 33,
       "previousClanRank": 33,
       "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000020,
         "name": "Brass League III"
-      }
-    },
-    {
-      "tag": "#82RUY9RG9",
-      "name": "Rinse",
-      "role": 3,
-      "townHallLevel": 11,
-      "expLevel": 94,
-      "league": {
-        "id": 29000009,
-        "name": "Gold League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-        }
-      },
-      "trophies": 1892,
-      "builderBaseTrophies": 1658,
-      "clanRank": 33,
-      "previousClanRank": 31,
-      "donations": 1,
-      "donationsReceived": 210,
-      "builderBaseLeague": {
-        "id": 44000016,
-        "name": "Copper League IV"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000000
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000011
-          },
-          {
-            "type": 0,
-            "id": 82000058
-          }
-        ]
       }
     },
     {
