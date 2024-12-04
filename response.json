@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32441,
+  "clanPoints": 32452,
   "clanBuilderBasePoints": 36206,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -215,7 +215,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
         }
       },
-      "trophies": 4550,
+      "trophies": 4574,
       "builderBaseTrophies": 2890,
       "clanRank": 5,
       "previousClanRank": 5,
@@ -1393,6 +1393,31 @@
       }
     },
     {
+      "tag": "#YULPUJR9U",
+      "name": "RinseVX2",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 117,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 1875,
+      "builderBaseTrophies": 2026,
+      "clanRank": 32,
+      "previousClanRank": 32,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Brass League III"
+      }
+    },
+    {
       "tag": "#99LQPJ2UG",
       "name": "sdetopper",
       "role": 3,
@@ -1407,9 +1432,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
         }
       },
-      "trophies": 1878,
+      "trophies": 1863,
       "builderBaseTrophies": 2608,
-      "clanRank": 32,
+      "clanRank": 33,
       "previousClanRank": 33,
       "donations": 228,
       "donationsReceived": 538,
@@ -1436,31 +1461,6 @@
             "id": 82000059
           }
         ]
-      }
-    },
-    {
-      "tag": "#YULPUJR9U",
-      "name": "RinseVX2",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 117,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 1875,
-      "builderBaseTrophies": 2026,
-      "clanRank": 33,
-      "previousClanRank": 32,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000020,
-        "name": "Brass League III"
       }
     },
     {
