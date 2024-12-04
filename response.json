@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32440,
+  "clanPoints": 32439,
   "clanBuilderBasePoints": 36200,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -1738,6 +1738,31 @@
       }
     },
     {
+      "tag": "#QG0CPLYYG",
+      "name": "Remco08",
+      "role": 3,
+      "townHallLevel": 10,
+      "expLevel": 88,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 1465,
+      "builderBaseTrophies": 1748,
+      "clanRank": 40,
+      "previousClanRank": 41,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000017,
+        "name": "Copper League III"
+      }
+    },
+    {
       "tag": "#LV020LC28",
       "name": "BroekUit",
       "role": 3,
@@ -1752,9 +1777,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
         }
       },
-      "trophies": 1472,
+      "trophies": 1451,
       "builderBaseTrophies": 2492,
-      "clanRank": 40,
+      "clanRank": 41,
       "previousClanRank": 40,
       "donations": 0,
       "donationsReceived": 470,
@@ -1781,31 +1806,6 @@
             "id": 82000064
           }
         ]
-      }
-    },
-    {
-      "tag": "#QG0CPLYYG",
-      "name": "Remco08",
-      "role": 3,
-      "townHallLevel": 10,
-      "expLevel": 88,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 1465,
-      "builderBaseTrophies": 1748,
-      "clanRank": 41,
-      "previousClanRank": 41,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000017,
-        "name": "Copper League III"
       }
     },
     {
