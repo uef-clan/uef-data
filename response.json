@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32550,
+  "clanPoints": 32560,
   "clanBuilderBasePoints": 36199,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -143,7 +143,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4933,
+      "trophies": 4952,
       "builderBaseTrophies": 4211,
       "clanRank": 3,
       "previousClanRank": 4,
@@ -496,7 +496,7 @@
       "clanRank": 11,
       "previousClanRank": 11,
       "donations": 501,
-      "donationsReceived": 233,
+      "donationsReceived": 243,
       "builderBaseLeague": {
         "id": 44000027,
         "name": "Steel League II"
@@ -1482,7 +1482,7 @@
       "builderBaseTrophies": 5000,
       "clanRank": 34,
       "previousClanRank": 34,
-      "donations": 555,
+      "donations": 565,
       "donationsReceived": 204,
       "builderBaseLeague": {
         "id": 44000035,
