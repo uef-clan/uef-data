@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32499,
+  "clanPoints": 32506,
   "clanBuilderBasePoints": 36128,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -523,6 +523,52 @@
       }
     },
     {
+      "tag": "#9RY0YYYCG",
+      "name": "Gus",
+      "role": 3,
+      "townHallLevel": 13,
+      "expLevel": 172,
+      "league": {
+        "id": 29000014,
+        "name": "Master League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
+        }
+      },
+      "trophies": 2938,
+      "builderBaseTrophies": 4045,
+      "clanRank": 12,
+      "previousClanRank": 14,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000030,
+        "name": "Titanium League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000081
+          },
+          {
+            "type": 0,
+            "id": 82000066
+          }
+        ]
+      }
+    },
+    {
       "tag": "#QG8RPCL02",
       "name": "max",
       "role": 3,
@@ -539,7 +585,7 @@
       },
       "trophies": 2919,
       "builderBaseTrophies": 2111,
-      "clanRank": 12,
+      "clanRank": 13,
       "previousClanRank": 12,
       "donations": 51,
       "donationsReceived": 381,
@@ -585,59 +631,13 @@
       },
       "trophies": 2916,
       "builderBaseTrophies": 2948,
-      "clanRank": 13,
+      "clanRank": 14,
       "previousClanRank": 13,
       "donations": 7,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000024,
         "name": "Iron League II"
-      }
-    },
-    {
-      "tag": "#9RY0YYYCG",
-      "name": "Gus",
-      "role": 3,
-      "townHallLevel": 13,
-      "expLevel": 172,
-      "league": {
-        "id": 29000014,
-        "name": "Master League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
-        }
-      },
-      "trophies": 2908,
-      "builderBaseTrophies": 4045,
-      "clanRank": 14,
-      "previousClanRank": 14,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000030,
-        "name": "Titanium League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000081
-          },
-          {
-            "type": 0,
-            "id": 82000066
-          }
-        ]
       }
     },
     {
