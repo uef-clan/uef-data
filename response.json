@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32505,
-  "clanBuilderBasePoints": 36135,
+  "clanPoints": 32512,
+  "clanBuilderBasePoints": 36148,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
     "id": 85000015,
@@ -216,7 +216,7 @@
         }
       },
       "trophies": 4723,
-      "builderBaseTrophies": 2902,
+      "builderBaseTrophies": 2952,
       "clanRank": 5,
       "previousClanRank": 5,
       "donations": 311,
@@ -307,11 +307,11 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
         }
       },
-      "trophies": 3595,
+      "trophies": 3609,
       "builderBaseTrophies": 3293,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 1812,
+      "donations": 1815,
       "donationsReceived": 1811,
       "builderBaseLeague": {
         "id": 44000026,
@@ -542,7 +542,7 @@
       "clanRank": 12,
       "previousClanRank": 14,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 2,
       "builderBaseLeague": {
         "id": 44000030,
         "name": "Titanium League II"
@@ -1295,7 +1295,7 @@
       "clanRank": 29,
       "previousClanRank": 29,
       "donations": 0,
-      "donationsReceived": 570,
+      "donationsReceived": 571,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
