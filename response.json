@@ -41,7 +41,7 @@
       "name": "Beunmeister",
       "role": 1,
       "townHallLevel": 17,
-      "expLevel": 261,
+      "expLevel": 262,
       "league": {
         "id": 29000022,
         "name": "Legend League",
@@ -55,7 +55,7 @@
       "builderBaseTrophies": 4846,
       "clanRank": 1,
       "previousClanRank": 1,
-      "donations": 437,
+      "donations": 501,
       "donationsReceived": 1367,
       "builderBaseLeague": {
         "id": 44000034,
@@ -1782,7 +1782,7 @@
       "clanRank": 41,
       "previousClanRank": 40,
       "donations": 0,
-      "donationsReceived": 470,
+      "donationsReceived": 534,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
