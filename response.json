@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32740,
+  "clanPoints": 32750,
   "clanBuilderBasePoints": 36354,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -173,7 +173,7 @@
       "builderBaseTrophies": 4500,
       "clanRank": 4,
       "previousClanRank": 2,
-      "donations": 3534,
+      "donations": 3621,
       "donationsReceived": 2696,
       "builderBaseLeague": {
         "id": 44000032,
@@ -261,12 +261,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
         }
       },
-      "trophies": 4458,
+      "trophies": 4478,
       "builderBaseTrophies": 3346,
       "clanRank": 6,
       "previousClanRank": 6,
       "donations": 2900,
-      "donationsReceived": 3415,
+      "donationsReceived": 3497,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -1504,7 +1504,7 @@
       "clanRank": 34,
       "previousClanRank": 34,
       "donations": 866,
-      "donationsReceived": 340,
+      "donationsReceived": 345,
       "builderBaseLeague": {
         "id": 44000035,
         "name": "Emerald League III"
