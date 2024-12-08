@@ -87,7 +87,7 @@
       "name": "kvmvm",
       "role": 3,
       "townHallLevel": 12,
-      "expLevel": 124,
+      "expLevel": 125,
       "league": {
         "id": 29000021,
         "name": "Titan League I",
@@ -101,7 +101,7 @@
       "builderBaseTrophies": 2944,
       "clanRank": 2,
       "previousClanRank": 5,
-      "donations": 490,
+      "donations": 532,
       "donationsReceived": 280,
       "builderBaseLeague": {
         "id": 44000024,
@@ -450,7 +450,7 @@
       "clanRank": 10,
       "previousClanRank": 12,
       "donations": 95,
-      "donationsReceived": 126,
+      "donationsReceived": 141,
       "builderBaseLeague": {
         "id": 44000030,
         "name": "Titanium League II"
@@ -1069,8 +1069,8 @@
       "builderBaseTrophies": 3076,
       "clanRank": 24,
       "previousClanRank": 24,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donations": 15,
+      "donationsReceived": 42,
       "builderBaseLeague": {
         "id": 44000025,
         "name": "Iron League I"
