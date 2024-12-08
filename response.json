@@ -220,7 +220,7 @@
       "clanRank": 5,
       "previousClanRank": 5,
       "donations": 489,
-      "donationsReceived": 245,
+      "donationsReceived": 280,
       "builderBaseLeague": {
         "id": 44000024,
         "name": "Iron League II"
@@ -312,7 +312,7 @@
       "clanRank": 7,
       "previousClanRank": 7,
       "donations": 2291,
-      "donationsReceived": 2159,
+      "donationsReceived": 2174,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -1503,7 +1503,7 @@
       "builderBaseTrophies": 5000,
       "clanRank": 34,
       "previousClanRank": 34,
-      "donations": 1049,
+      "donations": 1099,
       "donationsReceived": 345,
       "builderBaseLeague": {
         "id": 44000035,
