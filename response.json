@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32830,
+  "clanPoints": 32850,
   "clanBuilderBasePoints": 36357,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -51,12 +51,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 5250,
+      "trophies": 5290,
       "builderBaseTrophies": 4846,
       "clanRank": 1,
       "previousClanRank": 1,
-      "donations": 691,
-      "donationsReceived": 1995,
+      "donations": 697,
+      "donationsReceived": 1996,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -219,8 +219,8 @@
       "builderBaseTrophies": 2914,
       "clanRank": 5,
       "previousClanRank": 5,
-      "donations": 442,
-      "donationsReceived": 238,
+      "donations": 489,
+      "donationsReceived": 244,
       "builderBaseLeague": {
         "id": 44000024,
         "name": "Iron League II"
@@ -404,7 +404,7 @@
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 109,
-      "donationsReceived": 418,
+      "donationsReceived": 464,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
