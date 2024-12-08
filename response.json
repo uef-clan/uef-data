@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32777,
+  "clanPoints": 32774,
   "clanBuilderBasePoints": 36357,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -1322,6 +1322,31 @@
       }
     },
     {
+      "tag": "#QJC9YJ2G0",
+      "name": "King Wessel",
+      "role": 3,
+      "townHallLevel": 11,
+      "expLevel": 107,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 1907,
+      "builderBaseTrophies": 2217,
+      "clanRank": 30,
+      "previousClanRank": 32,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Brass League II"
+      }
+    },
+    {
       "tag": "#GGPCCUG8P",
       "name": "GuusjeMan",
       "role": 0,
@@ -1336,9 +1361,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
         }
       },
-      "trophies": 1925,
+      "trophies": 1906,
       "builderBaseTrophies": 2357,
-      "clanRank": 30,
+      "clanRank": 31,
       "previousClanRank": 30,
       "donations": 3,
       "donationsReceived": 740,
@@ -1365,31 +1390,6 @@
             "id": 82000064
           }
         ]
-      }
-    },
-    {
-      "tag": "#QJC9YJ2G0",
-      "name": "King Wessel",
-      "role": 3,
-      "townHallLevel": 11,
-      "expLevel": 107,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 1907,
-      "builderBaseTrophies": 2217,
-      "clanRank": 31,
-      "previousClanRank": 32,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000021,
-        "name": "Brass League II"
       }
     },
     {
