@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32887,
+  "clanPoints": 32882,
   "clanBuilderBasePoints": 36404,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -735,7 +735,7 @@
       "name": "Timon",
       "role": 3,
       "townHallLevel": 12,
-      "expLevel": 137,
+      "expLevel": 138,
       "league": {
         "id": 29000013,
         "name": "Master League III",
@@ -745,7 +745,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
         }
       },
-      "trophies": 2679,
+      "trophies": 2658,
       "builderBaseTrophies": 2307,
       "clanRank": 17,
       "previousClanRank": 17,
