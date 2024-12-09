@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32871,
+  "clanPoints": 32887,
   "clanBuilderBasePoints": 36404,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -143,11 +143,11 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4891,
+      "trophies": 4923,
       "builderBaseTrophies": 4182,
       "clanRank": 3,
       "previousClanRank": 3,
-      "donations": 1710,
+      "donations": 1750,
       "donationsReceived": 229,
       "builderBaseLeague": {
         "id": 44000030,
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3351,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 2540,
+      "donations": 2542,
       "donationsReceived": 2447,
       "builderBaseLeague": {
         "id": 44000026,
@@ -450,7 +450,7 @@
       "clanRank": 10,
       "previousClanRank": 10,
       "donations": 344,
-      "donationsReceived": 188,
+      "donationsReceived": 230,
       "builderBaseLeague": {
         "id": 44000030,
         "name": "Titanium League II"
