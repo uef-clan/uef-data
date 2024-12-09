@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32837,
+  "clanPoints": 32835,
   "clanBuilderBasePoints": 36376,
   "clanCapitalPoints": 3162,
   "capitalLeague": {
@@ -1668,52 +1668,6 @@
       }
     },
     {
-      "tag": "#LV020LC28",
-      "name": "BroekUit",
-      "role": 3,
-      "townHallLevel": 10,
-      "expLevel": 83,
-      "league": {
-        "id": 29000007,
-        "name": "Gold League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
-        }
-      },
-      "trophies": 1573,
-      "builderBaseTrophies": 2485,
-      "clanRank": 38,
-      "previousClanRank": 39,
-      "donations": 0,
-      "donationsReceived": 654,
-      "builderBaseLeague": {
-        "id": 44000022,
-        "name": "Brass League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000132
-          },
-          {
-            "type": 0,
-            "id": 82000064
-          }
-        ]
-      }
-    },
-    {
       "tag": "#22G8CQGPV",
       "name": "gdetopper",
       "role": 3,
@@ -1730,7 +1684,7 @@
       },
       "trophies": 1564,
       "builderBaseTrophies": 1654,
-      "clanRank": 39,
+      "clanRank": 38,
       "previousClanRank": 38,
       "donations": 0,
       "donationsReceived": 0,
@@ -1755,6 +1709,52 @@
           {
             "type": 0,
             "id": 82000058
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#LV020LC28",
+      "name": "BroekUit",
+      "role": 3,
+      "townHallLevel": 10,
+      "expLevel": 83,
+      "league": {
+        "id": 29000007,
+        "name": "Gold League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
+        }
+      },
+      "trophies": 1558,
+      "builderBaseTrophies": 2485,
+      "clanRank": 39,
+      "previousClanRank": 39,
+      "donations": 0,
+      "donationsReceived": 654,
+      "builderBaseLeague": {
+        "id": 44000022,
+        "name": "Brass League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000132
+          },
+          {
+            "type": 0,
+            "id": 82000064
           }
         ]
       }
