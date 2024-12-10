@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32914,
+  "clanPoints": 32916,
   "clanBuilderBasePoints": 36390,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -915,51 +915,6 @@
       }
     },
     {
-      "tag": "#L9LLG88QU",
-      "name": "olivier",
-      "role": 3,
-      "townHallLevel": 13,
-      "expLevel": 168,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 2529,
-      "builderBaseTrophies": 3363,
-      "clanRank": 21,
-      "previousClanRank": 22,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000026,
-        "name": "Steel League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000054
-          },
-          {
-            "type": 2,
-            "id": 82000033
-          },
-          {
-            "type": 0,
-            "id": 82000059
-          }
-        ]
-      }
-    },
-    {
       "tag": "#98L9YV90V",
       "name": "bastiaan 2",
       "role": 3,
@@ -974,9 +929,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
         }
       },
-      "trophies": 2526,
+      "trophies": 2553,
       "builderBaseTrophies": 3076,
-      "clanRank": 22,
+      "clanRank": 21,
       "previousClanRank": 21,
       "donations": 64,
       "donationsReceived": 197,
@@ -1001,6 +956,51 @@
           {
             "type": 0,
             "id": 82000060
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#L9LLG88QU",
+      "name": "olivier",
+      "role": 3,
+      "townHallLevel": 13,
+      "expLevel": 168,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 2529,
+      "builderBaseTrophies": 3363,
+      "clanRank": 22,
+      "previousClanRank": 22,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000026,
+        "name": "Steel League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000054
+          },
+          {
+            "type": 2,
+            "id": 82000033
+          },
+          {
+            "type": 0,
+            "id": 82000059
           }
         ]
       }
@@ -1155,7 +1155,7 @@
           "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 2303,
+      "trophies": 2297,
       "builderBaseTrophies": 2650,
       "clanRank": 26,
       "previousClanRank": 26,
