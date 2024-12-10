@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32960,
+  "clanPoints": 32966,
   "clanBuilderBasePoints": 36396,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -55,7 +55,7 @@
       "builderBaseTrophies": 4846,
       "clanRank": 1,
       "previousClanRank": 1,
-      "donations": 828,
+      "donations": 888,
       "donationsReceived": 2371,
       "builderBaseLeague": {
         "id": 44000034,
@@ -823,52 +823,6 @@
       }
     },
     {
-      "tag": "#8YPUG9C88",
-      "name": "stormquini",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 148,
-      "league": {
-        "id": 29000013,
-        "name": "Master League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
-        }
-      },
-      "trophies": 2615,
-      "builderBaseTrophies": 3425,
-      "clanRank": 19,
-      "previousClanRank": 20,
-      "donations": 1,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000027,
-        "name": "Steel League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000000
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000009
-          },
-          {
-            "type": 0,
-            "id": 82000058
-          }
-        ]
-      }
-    },
-    {
       "tag": "#JJRRR888",
       "name": "'t Brikje",
       "role": 3,
@@ -883,9 +837,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
         }
       },
-      "trophies": 2605,
+      "trophies": 2630,
       "builderBaseTrophies": 2676,
-      "clanRank": 20,
+      "clanRank": 19,
       "previousClanRank": 19,
       "donations": 0,
       "donationsReceived": 0,
@@ -910,6 +864,52 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#8YPUG9C88",
+      "name": "stormquini",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 148,
+      "league": {
+        "id": 29000013,
+        "name": "Master League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
+        }
+      },
+      "trophies": 2615,
+      "builderBaseTrophies": 3425,
+      "clanRank": 20,
+      "previousClanRank": 20,
+      "donations": 1,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000027,
+        "name": "Steel League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000000
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000009
+          },
+          {
+            "type": 0,
+            "id": 82000058
           }
         ]
       }
@@ -1939,7 +1939,7 @@
       "clanRank": 44,
       "previousClanRank": 44,
       "donations": 1971,
-      "donationsReceived": 495,
+      "donationsReceived": 525,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -2010,7 +2010,7 @@
       "clanRank": 46,
       "previousClanRank": 46,
       "donations": 0,
-      "donationsReceived": 498,
+      "donationsReceived": 528,
       "builderBaseLeague": {
         "id": 44000027,
         "name": "Steel League II"
