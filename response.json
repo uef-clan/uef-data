@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32966,
+  "clanPoints": 32951,
   "clanBuilderBasePoints": 36390,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -83,52 +83,6 @@
       }
     },
     {
-      "tag": "#G9800GYGL",
-      "name": "kvmvm",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 125,
-      "league": {
-        "id": 29000022,
-        "name": "Legend League",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
-        }
-      },
-      "trophies": 4941,
-      "builderBaseTrophies": 3013,
-      "clanRank": 2,
-      "previousClanRank": 3,
-      "donations": 725,
-      "donationsReceived": 352,
-      "builderBaseLeague": {
-        "id": 44000025,
-        "name": "Iron League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000086
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000032
-          },
-          {
-            "type": 0,
-            "id": 82000060
-          }
-        ]
-      }
-    },
-    {
       "tag": "#9GYP9288C",
       "name": "King niels",
       "role": 3,
@@ -145,7 +99,7 @@
       },
       "trophies": 4931,
       "builderBaseTrophies": 4181,
-      "clanRank": 3,
+      "clanRank": 2,
       "previousClanRank": 2,
       "donations": 2248,
       "donationsReceived": 355,
@@ -170,6 +124,52 @@
           {
             "type": 0,
             "id": 82000068
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#G9800GYGL",
+      "name": "kvmvm",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 125,
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      },
+      "trophies": 4910,
+      "builderBaseTrophies": 3013,
+      "clanRank": 3,
+      "previousClanRank": 3,
+      "donations": 725,
+      "donationsReceived": 352,
+      "builderBaseLeague": {
+        "id": 44000025,
+        "name": "Iron League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000086
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000032
+          },
+          {
+            "type": 0,
+            "id": 82000060
           }
         ]
       }
