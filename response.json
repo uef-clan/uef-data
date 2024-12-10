@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32939,
+  "clanPoints": 32949,
   "clanBuilderBasePoints": 36390,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -100,7 +100,7 @@
       "trophies": 4964,
       "builderBaseTrophies": 2990,
       "clanRank": 2,
-      "previousClanRank": 2,
+      "previousClanRank": 3,
       "donations": 619,
       "donationsReceived": 352,
       "builderBaseLeague": {
@@ -146,7 +146,7 @@
       "trophies": 4964,
       "builderBaseTrophies": 4182,
       "clanRank": 3,
-      "previousClanRank": 3,
+      "previousClanRank": 2,
       "donations": 2088,
       "donationsReceived": 355,
       "builderBaseLeague": {
@@ -175,6 +175,32 @@
       }
     },
     {
+      "tag": "#2Y08ULL9J",
+      "name": "Azka Thegazters",
+      "role": 1,
+      "townHallLevel": 15,
+      "expLevel": 217,
+      "league": {
+        "id": 29000021,
+        "name": "Titan League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+        }
+      },
+      "trophies": 4874,
+      "builderBaseTrophies": 3718,
+      "clanRank": 4,
+      "previousClanRank": 5,
+      "donations": 273,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000028,
+        "name": "Steel League I"
+      }
+    },
+    {
       "tag": "#9L9RRPV2G",
       "name": "Tobias",
       "role": 0,
@@ -191,8 +217,8 @@
       },
       "trophies": 4858,
       "builderBaseTrophies": 4500,
-      "clanRank": 4,
-      "previousClanRank": 5,
+      "clanRank": 5,
+      "previousClanRank": 4,
       "donations": 4595,
       "donationsReceived": 3622,
       "builderBaseLeague": {
@@ -218,32 +244,6 @@
             "id": 82000066
           }
         ]
-      }
-    },
-    {
-      "tag": "#2Y08ULL9J",
-      "name": "Azka Thegazters",
-      "role": 1,
-      "townHallLevel": 15,
-      "expLevel": 217,
-      "league": {
-        "id": 29000021,
-        "name": "Titan League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
-        }
-      },
-      "trophies": 4854,
-      "builderBaseTrophies": 3718,
-      "clanRank": 5,
-      "previousClanRank": 4,
-      "donations": 273,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000028,
-        "name": "Steel League I"
       }
     },
     {
@@ -1023,7 +1023,7 @@
       "trophies": 2493,
       "builderBaseTrophies": 3165,
       "clanRank": 23,
-      "previousClanRank": 24,
+      "previousClanRank": 23,
       "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
@@ -1068,7 +1068,7 @@
       "trophies": 2490,
       "builderBaseTrophies": 1910,
       "clanRank": 24,
-      "previousClanRank": 23,
+      "previousClanRank": 24,
       "donations": 110,
       "donationsReceived": 0,
       "builderBaseLeague": {
@@ -1248,7 +1248,7 @@
       "trophies": 2009,
       "builderBaseTrophies": 2760,
       "clanRank": 28,
-      "previousClanRank": 29,
+      "previousClanRank": 28,
       "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
@@ -1293,7 +1293,7 @@
       "trophies": 2002,
       "builderBaseTrophies": 2857,
       "clanRank": 29,
-      "previousClanRank": 28,
+      "previousClanRank": 29,
       "donations": 0,
       "donationsReceived": 45,
       "builderBaseLeague": {
@@ -1410,7 +1410,7 @@
       "trophies": 1855,
       "builderBaseTrophies": 5000,
       "clanRank": 32,
-      "previousClanRank": 34,
+      "previousClanRank": 33,
       "donations": 1479,
       "donationsReceived": 403,
       "builderBaseLeague": {
@@ -1502,7 +1502,7 @@
       "trophies": 1837,
       "builderBaseTrophies": 2627,
       "clanRank": 34,
-      "previousClanRank": 33,
+      "previousClanRank": 34,
       "donations": 263,
       "donationsReceived": 538,
       "builderBaseLeague": {
@@ -1685,7 +1685,7 @@
       "trophies": 1578,
       "builderBaseTrophies": 2485,
       "clanRank": 38,
-      "previousClanRank": 39,
+      "previousClanRank": 38,
       "donations": 0,
       "donationsReceived": 720,
       "builderBaseLeague": {
@@ -1731,7 +1731,7 @@
       "trophies": 1564,
       "builderBaseTrophies": 1654,
       "clanRank": 39,
-      "previousClanRank": 38,
+      "previousClanRank": 39,
       "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
