@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32905,
+  "clanPoints": 32907,
   "clanBuilderBasePoints": 36411,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -1393,6 +1393,52 @@
       }
     },
     {
+      "tag": "#99LQPJ2UG",
+      "name": "sdetopper",
+      "role": 3,
+      "townHallLevel": 11,
+      "expLevel": 132,
+      "league": {
+        "id": 29000009,
+        "name": "Gold League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+        }
+      },
+      "trophies": 1841,
+      "builderBaseTrophies": 2627,
+      "clanRank": 32,
+      "previousClanRank": 34,
+      "donations": 263,
+      "donationsReceived": 538,
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Iron League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000017
+          },
+          {
+            "type": 0,
+            "id": 82000059
+          }
+        ]
+      }
+    },
+    {
       "tag": "#999JUCGLG",
       "name": "Paddy Field",
       "role": 1,
@@ -1409,7 +1455,7 @@
       },
       "trophies": 1841,
       "builderBaseTrophies": 5000,
-      "clanRank": 32,
+      "clanRank": 33,
       "previousClanRank": 32,
       "donations": 1514,
       "donationsReceived": 403,
@@ -1455,7 +1501,7 @@
       },
       "trophies": 1824,
       "builderBaseTrophies": 1658,
-      "clanRank": 33,
+      "clanRank": 34,
       "previousClanRank": 33,
       "donations": 1,
       "donationsReceived": 245,
@@ -1480,52 +1526,6 @@
           {
             "type": 0,
             "id": 82000058
-          }
-        ]
-      }
-    },
-    {
-      "tag": "#99LQPJ2UG",
-      "name": "sdetopper",
-      "role": 3,
-      "townHallLevel": 11,
-      "expLevel": 132,
-      "league": {
-        "id": 29000009,
-        "name": "Gold League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-        }
-      },
-      "trophies": 1819,
-      "builderBaseTrophies": 2627,
-      "clanRank": 34,
-      "previousClanRank": 34,
-      "donations": 263,
-      "donationsReceived": 538,
-      "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000017
-          },
-          {
-            "type": 0,
-            "id": 82000059
           }
         ]
       }
@@ -1636,7 +1636,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
         }
       },
-      "trophies": 1621,
+      "trophies": 1610,
       "builderBaseTrophies": 1472,
       "clanRank": 37,
       "previousClanRank": 37,
