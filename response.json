@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33015,
+  "clanPoints": 33003,
   "clanBuilderBasePoints": 36429,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -129,52 +129,6 @@
       }
     },
     {
-      "tag": "#G9800GYGL",
-      "name": "kvmvm",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 125,
-      "league": {
-        "id": 29000021,
-        "name": "Titan League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
-        }
-      },
-      "trophies": 4891,
-      "builderBaseTrophies": 3013,
-      "clanRank": 3,
-      "previousClanRank": 2,
-      "donations": 771,
-      "donationsReceived": 352,
-      "builderBaseLeague": {
-        "id": 44000025,
-        "name": "Iron League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000086
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000032
-          },
-          {
-            "type": 0,
-            "id": 82000060
-          }
-        ]
-      }
-    },
-    {
       "tag": "#2Y08ULL9J",
       "name": "Azka Thegazters",
       "role": 1,
@@ -191,7 +145,7 @@
       },
       "trophies": 4872,
       "builderBaseTrophies": 3718,
-      "clanRank": 4,
+      "clanRank": 3,
       "previousClanRank": 5,
       "donations": 273,
       "donationsReceived": 0,
@@ -217,7 +171,7 @@
       },
       "trophies": 4868,
       "builderBaseTrophies": 4500,
-      "clanRank": 5,
+      "clanRank": 4,
       "previousClanRank": 4,
       "donations": 5129,
       "donationsReceived": 4021,
@@ -242,6 +196,52 @@
           {
             "type": 0,
             "id": 82000066
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#G9800GYGL",
+      "name": "kvmvm",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 125,
+      "league": {
+        "id": 29000021,
+        "name": "Titan League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+        }
+      },
+      "trophies": 4867,
+      "builderBaseTrophies": 3013,
+      "clanRank": 5,
+      "previousClanRank": 2,
+      "donations": 771,
+      "donationsReceived": 352,
+      "builderBaseLeague": {
+        "id": 44000025,
+        "name": "Iron League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000086
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000032
+          },
+          {
+            "type": 0,
+            "id": 82000060
           }
         ]
       }
