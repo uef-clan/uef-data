@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33057,
+  "clanPoints": 33070,
   "clanBuilderBasePoints": 36396,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -56,7 +56,7 @@
       "clanRank": 1,
       "previousClanRank": 1,
       "donations": 918,
-      "donationsReceived": 2514,
+      "donationsReceived": 2517,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -101,7 +101,7 @@
       "builderBaseTrophies": 4500,
       "clanRank": 2,
       "previousClanRank": 4,
-      "donations": 5315,
+      "donations": 5345,
       "donationsReceived": 4187,
       "builderBaseLeague": {
         "id": 44000032,
@@ -265,8 +265,8 @@
       "builderBaseTrophies": 3346,
       "clanRank": 6,
       "previousClanRank": 6,
-      "donations": 4371,
-      "donationsReceived": 5110,
+      "donations": 4404,
+      "donationsReceived": 5140,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -307,7 +307,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
         }
       },
-      "trophies": 3637,
+      "trophies": 3663,
       "builderBaseTrophies": 3295,
       "clanRank": 7,
       "previousClanRank": 7,
@@ -404,7 +404,7 @@
       "clanRank": 9,
       "previousClanRank": 10,
       "donations": 344,
-      "donationsReceived": 344,
+      "donationsReceived": 374,
       "builderBaseLeague": {
         "id": 44000030,
         "name": "Titanium League II"
