@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33039,
+  "clanPoints": 32986,
   "clanBuilderBasePoints": 36396,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -477,52 +477,6 @@
       }
     },
     {
-      "tag": "#Y8LRCRR8",
-      "name": "romano 0344",
-      "role": 3,
-      "townHallLevel": 14,
-      "expLevel": 213,
-      "league": {
-        "id": 29000016,
-        "name": "Champion League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
-        }
-      },
-      "trophies": 3112,
-      "builderBaseTrophies": 4794,
-      "clanRank": 11,
-      "previousClanRank": 9,
-      "donations": 112,
-      "donationsReceived": 658,
-      "builderBaseLeague": {
-        "id": 44000033,
-        "name": "Platinum League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000032
-          },
-          {
-            "type": 0,
-            "id": 82000062
-          }
-        ]
-      }
-    },
-    {
       "tag": "#P8UVRLJQR",
       "name": "Gekke Man",
       "role": 3,
@@ -539,7 +493,7 @@
       },
       "trophies": 3068,
       "builderBaseTrophies": 2797,
-      "clanRank": 12,
+      "clanRank": 11,
       "previousClanRank": 11,
       "donations": 439,
       "donationsReceived": 75,
@@ -564,6 +518,52 @@
           {
             "type": 0,
             "id": 82000064
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#Y8LRCRR8",
+      "name": "romano 0344",
+      "role": 3,
+      "townHallLevel": 14,
+      "expLevel": 213,
+      "league": {
+        "id": 29000014,
+        "name": "Master League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
+        }
+      },
+      "trophies": 2900,
+      "builderBaseTrophies": 4794,
+      "clanRank": 12,
+      "previousClanRank": 9,
+      "donations": 112,
+      "donationsReceived": 658,
+      "builderBaseLeague": {
+        "id": 44000033,
+        "name": "Platinum League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000032
+          },
+          {
+            "type": 0,
+            "id": 82000062
           }
         ]
       }
