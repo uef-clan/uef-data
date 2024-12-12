@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33020,
+  "clanPoints": 32992,
   "clanBuilderBasePoints": 36401,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -523,52 +523,6 @@
       }
     },
     {
-      "tag": "#Y8LRCRR8",
-      "name": "romano 0344",
-      "role": 3,
-      "townHallLevel": 14,
-      "expLevel": 213,
-      "league": {
-        "id": 29000014,
-        "name": "Master League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
-        }
-      },
-      "trophies": 2931,
-      "builderBaseTrophies": 4794,
-      "clanRank": 12,
-      "previousClanRank": 9,
-      "donations": 112,
-      "donationsReceived": 706,
-      "builderBaseLeague": {
-        "id": 44000033,
-        "name": "Platinum League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000032
-          },
-          {
-            "type": 0,
-            "id": 82000062
-          }
-        ]
-      }
-    },
-    {
       "tag": "#29UC8C2PC",
       "name": "Rutger",
       "role": 0,
@@ -585,7 +539,7 @@
       },
       "trophies": 2861,
       "builderBaseTrophies": 2973,
-      "clanRank": 13,
+      "clanRank": 12,
       "previousClanRank": 14,
       "donations": 9,
       "donationsReceived": 0,
@@ -611,7 +565,7 @@
       },
       "trophies": 2827,
       "builderBaseTrophies": 2111,
-      "clanRank": 14,
+      "clanRank": 13,
       "previousClanRank": 13,
       "donations": 51,
       "donationsReceived": 381,
@@ -636,6 +590,52 @@
           {
             "type": 0,
             "id": 82000071
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#Y8LRCRR8",
+      "name": "romano 0344",
+      "role": 3,
+      "townHallLevel": 14,
+      "expLevel": 213,
+      "league": {
+        "id": 29000014,
+        "name": "Master League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
+        }
+      },
+      "trophies": 2816,
+      "builderBaseTrophies": 4794,
+      "clanRank": 14,
+      "previousClanRank": 9,
+      "donations": 112,
+      "donationsReceived": 706,
+      "builderBaseLeague": {
+        "id": 44000033,
+        "name": "Platinum League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000032
+          },
+          {
+            "type": 0,
+            "id": 82000062
           }
         ]
       }
