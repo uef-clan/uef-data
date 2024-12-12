@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32809,
-  "clanBuilderBasePoints": 36112,
+  "clanBuilderBasePoints": 36109,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
     "id": 85000016,
@@ -553,7 +553,7 @@
       "name": "romano 0344",
       "role": 3,
       "townHallLevel": 14,
-      "expLevel": 213,
+      "expLevel": 214,
       "league": {
         "id": 29000014,
         "name": "Master League II",
@@ -567,7 +567,7 @@
       "builderBaseTrophies": 4794,
       "clanRank": 13,
       "previousClanRank": 12,
-      "donations": 112,
+      "donations": 149,
       "donationsReceived": 754,
       "builderBaseLeague": {
         "id": 44000033,
@@ -1500,11 +1500,11 @@
         }
       },
       "trophies": 1740,
-      "builderBaseTrophies": 2550,
+      "builderBaseTrophies": 2528,
       "clanRank": 34,
       "previousClanRank": 36,
       "donations": 32,
-      "donationsReceived": 714,
+      "donationsReceived": 751,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
