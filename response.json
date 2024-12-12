@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32826,
-  "clanBuilderBasePoints": 36093,
+  "clanBuilderBasePoints": 36118,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
     "id": 85000016,
@@ -400,14 +400,14 @@
         }
       },
       "trophies": 3236,
-      "builderBaseTrophies": 3975,
+      "builderBaseTrophies": 4025,
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 344,
       "donationsReceived": 395,
       "builderBaseLeague": {
-        "id": 44000029,
-        "name": "Titanium League III"
+        "id": 44000030,
+        "name": "Titanium League II"
       },
       "playerHouse": {
         "elements": [
