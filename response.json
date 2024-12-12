@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32836,
+  "clanPoints": 32843,
   "clanBuilderBasePoints": 36099,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -51,7 +51,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 5202,
+      "trophies": 5216,
       "builderBaseTrophies": 4846,
       "clanRank": 1,
       "previousClanRank": 1,
@@ -312,7 +312,7 @@
       "clanRank": 7,
       "previousClanRank": 7,
       "donations": 2906,
-      "donationsReceived": 3017,
+      "donationsReceived": 3062,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -1892,7 +1892,7 @@
       "builderBaseTrophies": 4815,
       "clanRank": 43,
       "previousClanRank": 44,
-      "donations": 2311,
+      "donations": 2356,
       "donationsReceived": 525,
       "builderBaseLeague": {
         "id": 44000034,
