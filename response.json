@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32762,
+  "clanPoints": 32771,
   "clanBuilderBasePoints": 36117,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -97,7 +97,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4915,
+      "trophies": 4936,
       "builderBaseTrophies": 4181,
       "clanRank": 2,
       "previousClanRank": 2,
@@ -915,52 +915,6 @@
       }
     },
     {
-      "tag": "#98L9YV90V",
-      "name": "bastiaan 2",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 156,
-      "league": {
-        "id": 29000012,
-        "name": "Crystal League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
-        }
-      },
-      "trophies": 2520,
-      "builderBaseTrophies": 3076,
-      "clanRank": 21,
-      "previousClanRank": 21,
-      "donations": 64,
-      "donationsReceived": 269,
-      "builderBaseLeague": {
-        "id": 44000025,
-        "name": "Iron League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000006
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000046
-          },
-          {
-            "type": 0,
-            "id": 82000060
-          }
-        ]
-      }
-    },
-    {
       "tag": "#L9LLG88QU",
       "name": "olivier",
       "role": 3,
@@ -976,7 +930,7 @@
       },
       "trophies": 2517,
       "builderBaseTrophies": 3363,
-      "clanRank": 22,
+      "clanRank": 21,
       "previousClanRank": 22,
       "donations": 0,
       "donationsReceived": 0,
@@ -1001,6 +955,52 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#98L9YV90V",
+      "name": "bastiaan 2",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 156,
+      "league": {
+        "id": 29000012,
+        "name": "Crystal League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
+        }
+      },
+      "trophies": 2503,
+      "builderBaseTrophies": 3076,
+      "clanRank": 22,
+      "previousClanRank": 21,
+      "donations": 64,
+      "donationsReceived": 269,
+      "builderBaseLeague": {
+        "id": 44000025,
+        "name": "Iron League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000006
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000046
+          },
+          {
+            "type": 0,
+            "id": 82000060
           }
         ]
       }
