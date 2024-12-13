@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32779,
+  "clanPoints": 32772,
   "clanBuilderBasePoints": 36117,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3317,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 2997,
+      "donations": 3032,
       "donationsReceived": 3242,
       "builderBaseLeague": {
         "id": 44000026,
@@ -883,7 +883,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
         }
       },
-      "trophies": 2616,
+      "trophies": 2591,
       "builderBaseTrophies": 3425,
       "clanRank": 20,
       "previousClanRank": 20,
@@ -1295,7 +1295,7 @@
       "clanRank": 29,
       "previousClanRank": 29,
       "donations": 7,
-      "donationsReceived": 1103,
+      "donationsReceived": 1138,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
