@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32723,
-  "clanBuilderBasePoints": 36021,
+  "clanBuilderBasePoints": 36015,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
     "id": 85000016,
@@ -404,7 +404,7 @@
       "clanRank": 9,
       "previousClanRank": 9,
       "donations": 442,
-      "donationsReceived": 489,
+      "donationsReceived": 491,
       "builderBaseLeague": {
         "id": 44000029,
         "name": "Titanium League III"
@@ -1489,7 +1489,7 @@
       "name": "stefkefilms",
       "role": 3,
       "townHallLevel": 11,
-      "expLevel": 102,
+      "expLevel": 103,
       "league": {
         "id": 29000008,
         "name": "Gold League II",
@@ -1500,14 +1500,14 @@
         }
       },
       "trophies": 1740,
-      "builderBaseTrophies": 2643,
+      "builderBaseTrophies": 2593,
       "clanRank": 34,
       "previousClanRank": 34,
-      "donations": 32,
+      "donations": 69,
       "donationsReceived": 751,
       "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
+        "id": 44000022,
+        "name": "Brass League I"
       },
       "playerHouse": {
         "elements": [
@@ -1687,7 +1687,7 @@
       "clanRank": 38,
       "previousClanRank": 37,
       "donations": 0,
-      "donationsReceived": 852,
+      "donationsReceived": 887,
       "builderBaseLeague": {
         "id": 44000022,
         "name": "Brass League I"
