@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32746,
-  "clanBuilderBasePoints": 36013,
+  "clanPoints": 32756,
+  "clanBuilderBasePoints": 36007,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
     "id": 85000016,
@@ -339,52 +339,6 @@
       }
     },
     {
-      "tag": "#82QCPCG9P",
-      "name": "wes",
-      "role": 3,
-      "townHallLevel": 14,
-      "expLevel": 185,
-      "league": {
-        "id": 29000016,
-        "name": "Champion League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
-        }
-      },
-      "trophies": 3274,
-      "builderBaseTrophies": 2562,
-      "clanRank": 8,
-      "previousClanRank": 8,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000022,
-        "name": "Brass League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000017
-          },
-          {
-            "type": 0,
-            "id": 82000059
-          }
-        ]
-      }
-    },
-    {
       "tag": "#9RY0YYYCG",
       "name": "Gus",
       "role": 3,
@@ -399,9 +353,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
         }
       },
-      "trophies": 3267,
+      "trophies": 3287,
       "builderBaseTrophies": 3945,
-      "clanRank": 9,
+      "clanRank": 8,
       "previousClanRank": 9,
       "donations": 442,
       "donationsReceived": 496,
@@ -426,6 +380,52 @@
           {
             "type": 0,
             "id": 82000066
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#82QCPCG9P",
+      "name": "wes",
+      "role": 3,
+      "townHallLevel": 14,
+      "expLevel": 185,
+      "league": {
+        "id": 29000016,
+        "name": "Champion League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
+        }
+      },
+      "trophies": 3274,
+      "builderBaseTrophies": 2562,
+      "clanRank": 9,
+      "previousClanRank": 8,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000022,
+        "name": "Brass League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000017
+          },
+          {
+            "type": 0,
+            "id": 82000059
           }
         ]
       }
@@ -1500,7 +1500,7 @@
         }
       },
       "trophies": 1740,
-      "builderBaseTrophies": 2579,
+      "builderBaseTrophies": 2529,
       "clanRank": 34,
       "previousClanRank": 34,
       "donations": 69,
