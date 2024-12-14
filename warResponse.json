@@ -1,37 +1,359 @@
 {
-  "state": "notInWar",
-  "teamSize": 0,
-  "attacksPerMember": 0,
-  "battleModifier": null,
-  "preparationStartTime": null,
-  "startTime": null,
-  "endTime": null,
+  "state": "preparation",
+  "teamSize": 20,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "preparationStartTime": "20241213T213347.000Z",
+  "startTime": "20241214T203347.000Z",
+  "endTime": "20241215T203347.000Z",
   "clan": {
-    "tag": null,
-    "name": null,
+    "tag": "#VLRLQGU",
+    "name": "www.uef-clan.eu",
     "badgeUrls": {
-      "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      "small": "https://api-assets.clashofclans.com/badges/70/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
-    "clanLevel": 0,
+    "clanLevel": 23,
     "attacks": 0,
     "stars": 0,
     "destructionPercentage": 0.0,
-    "members": null
+    "members": [
+      {
+        "tag": "#JJRRR888",
+        "name": "'t Brikje",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QJ0VCVQYC",
+        "name": "Frank",
+        "townhallLevel": 10,
+        "mapPosition": 17,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QJ02YGJR0",
+        "name": "Tobias",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#9L9RRPV2G",
+        "name": "Tobias",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2GG0VGQ9Y",
+        "name": "Lynn & Daan",
+        "townhallLevel": 8,
+        "mapPosition": 19,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#Y8LRCRR8",
+        "name": "romano 0344",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2Y08ULL9J",
+        "name": "Azka Thegazters",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#89Q0YQYL",
+        "name": "Beunmeister",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2QYCVRGLY",
+        "name": "Epic Goblin",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QG8RPCL02",
+        "name": "max",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#RVGCJGQ8",
+        "name": "CuriousWanderer",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#U0YLJVY0",
+        "name": "FrankMan",
+        "townhallLevel": 11,
+        "mapPosition": 14,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GY2Q0CGPJ",
+        "name": "Daventria",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#29UC8C2PC",
+        "name": "Rutger",
+        "townhallLevel": 12,
+        "mapPosition": 11,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GGPCCUG8P",
+        "name": "GuusjeMan",
+        "townhallLevel": 11,
+        "mapPosition": 12,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QRYPQJUPY",
+        "name": "sander",
+        "townhallLevel": 8,
+        "mapPosition": 18,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#LJ02J988Q",
+        "name": "Guusje",
+        "townhallLevel": 11,
+        "mapPosition": 15,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QP8UV2L9R",
+        "name": "tijmen6",
+        "townhallLevel": 9,
+        "mapPosition": 16,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#20CCR02Q",
+        "name": "Daan",
+        "townhallLevel": 7,
+        "mapPosition": 20,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#22G8CQGPV",
+        "name": "gdetopper",
+        "townhallLevel": 10,
+        "mapPosition": 13,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      }
+    ]
   },
   "opponent": {
-    "tag": null,
-    "name": null,
+    "tag": "#2G9PPQPJY",
+    "name": "to the moon",
     "badgeUrls": {
-      "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
-      "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      "small": "https://api-assets.clashofclans.com/badges/70/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png"
     },
-    "clanLevel": 0,
+    "clanLevel": 16,
     "attacks": 0,
     "stars": 0,
     "destructionPercentage": 0.0,
-    "members": null
+    "members": [
+      {
+        "tag": "#PCPYC8R88",
+        "name": "RJ",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#P9YU2YLJ2",
+        "name": "bosS kyLeR",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QUYJ0QJLC",
+        "name": "precast",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GQQYRLQ9J",
+        "name": "KLAUS",
+        "townhallLevel": 8,
+        "mapPosition": 16,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QGR2CV28R",
+        "name": "jj",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GPPQ8UG2G",
+        "name": "ampyang el-le",
+        "townhallLevel": 11,
+        "mapPosition": 13,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#L2LR80CUP",
+        "name": "P.E.K.K.A 3",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GGV20Y0LV",
+        "name": "missy",
+        "townhallLevel": 8,
+        "mapPosition": 18,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GR0P0C8V9",
+        "name": "ruru",
+        "townhallLevel": 8,
+        "mapPosition": 17,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#2LCVCU9GR",
+        "name": "ms.leo",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GJRYY92LY",
+        "name": "ruby",
+        "townhallLevel": 8,
+        "mapPosition": 19,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GJ9CRUL22",
+        "name": "mark",
+        "townhallLevel": 10,
+        "mapPosition": 15,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#LCPPCVVPU",
+        "name": "TASKFORCE",
+        "townhallLevel": 12,
+        "mapPosition": 11,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#Q8PCQU80V",
+        "name": "nad",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QJL998VJU",
+        "name": "Gundam",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#QCYL2J9VJ",
+        "name": "sam",
+        "townhallLevel": 12,
+        "mapPosition": 12,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GL29YUC28",
+        "name": "bataan",
+        "townhallLevel": 10,
+        "mapPosition": 14,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#9CJU80QYC",
+        "name": "FADM.Joson",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#GYGCRQPJ9",
+        "name": "ladyboss",
+        "townhallLevel": 5,
+        "mapPosition": 20,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      },
+      {
+        "tag": "#8YJPCYYVQ",
+        "name": "B'W LEXA",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": null
+      }
+    ]
   }
 }
