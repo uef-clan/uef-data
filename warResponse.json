@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 5.0,
+    "attacks": 2,
+    "stars": 6,
+    "destructionPercentage": 10.0,
     "members": [
       {
         "tag": "#JJRRR888",
@@ -41,7 +41,17 @@
         "townhallLevel": 15,
         "mapPosition": 5,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#QJ02YGJR0",
+            "defenderTag": "#QGR2CV28R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 109
+          }
+        ]
       },
       {
         "tag": "#9L9RRPV2G",
@@ -241,8 +251,15 @@
         "name": "jj",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ02YGJR0",
+          "defenderTag": "#QGR2CV28R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 109
+        }
       },
       {
         "tag": "#GPPQ8UG2G",
