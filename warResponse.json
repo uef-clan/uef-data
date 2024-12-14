@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 4,
-    "stars": 12,
-    "destructionPercentage": 20.0,
+    "attacks": 5,
+    "stars": 15,
+    "destructionPercentage": 25.0,
     "members": [
       {
         "tag": "#JJRRR888",
@@ -193,7 +193,17 @@
         "townhallLevel": 11,
         "mapPosition": 15,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#LJ02J988Q",
+            "defenderTag": "#GPPQ8UG2G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 67
+          }
+        ]
       },
       {
         "tag": "#QP8UV2L9R",
@@ -286,8 +296,15 @@
         "name": "ampyang el-le",
         "townhallLevel": 11,
         "mapPosition": 13,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ02J988Q",
+          "defenderTag": "#GPPQ8UG2G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 67
+        }
       },
       {
         "tag": "#L2LR80CUP",
