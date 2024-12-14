@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 20,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -341,7 +341,7 @@
       {
         "tag": "#GYGCRQPJ9",
         "name": "ladyboss",
-        "townhallLevel": 5,
+        "townhallLevel": 6,
         "mapPosition": 20,
         "opponentAttacks": 0,
         "bestOpponentAttack": null
