@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32793,
+  "clanPoints": 32809,
   "clanBuilderBasePoints": 36013,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -147,8 +147,8 @@
       "builderBaseTrophies": 4500,
       "clanRank": 3,
       "previousClanRank": 3,
-      "donations": 6073,
-      "donationsReceived": 4851,
+      "donations": 6123,
+      "donationsReceived": 4934,
       "builderBaseLeague": {
         "id": 44000032,
         "name": "Platinum League III"
@@ -215,11 +215,11 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4793,
+      "trophies": 4814,
       "builderBaseTrophies": 2313,
       "clanRank": 5,
       "previousClanRank": 5,
-      "donations": 805,
+      "donations": 806,
       "donationsReceived": 352,
       "builderBaseLeague": {
         "id": 44000021,
@@ -265,8 +265,8 @@
       "builderBaseTrophies": 3346,
       "clanRank": 6,
       "previousClanRank": 6,
-      "donations": 5046,
-      "donationsReceived": 5836,
+      "donations": 5129,
+      "donationsReceived": 5886,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -537,7 +537,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
         }
       },
-      "trophies": 2929,
+      "trophies": 2948,
       "builderBaseTrophies": 2958,
       "clanRank": 12,
       "previousClanRank": 12,
@@ -568,7 +568,7 @@
       "clanRank": 13,
       "previousClanRank": 14,
       "donations": 51,
-      "donationsReceived": 411,
+      "donationsReceived": 412,
       "builderBaseLeague": {
         "id": 44000020,
         "name": "Brass League III"
