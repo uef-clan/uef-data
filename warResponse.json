@@ -186,8 +186,15 @@
         "name": "CuriousWanderer",
         "townhallLevel": 15,
         "mapPosition": 2,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PCPYC8R88",
+          "defenderTag": "#RVGCJGQ8",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 27,
+          "duration": 111
+        },
         "attacks": [
           {
             "attackerTag": "#RVGCJGQ8",
@@ -344,8 +351,15 @@
         "name": "tijmen6",
         "townhallLevel": 9,
         "mapPosition": 16,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GJ9CRUL22",
+          "defenderTag": "#QP8UV2L9R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 106
+        },
         "attacks": [
           {
             "attackerTag": "#QP8UV2L9R",
@@ -391,9 +405,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png"
     },
     "clanLevel": 16,
-    "attacks": 9,
-    "stars": 20,
-    "destructionPercentage": 33.65,
+    "attacks": 11,
+    "stars": 25,
+    "destructionPercentage": 42.6,
     "members": [
       {
         "tag": "#PCPYC8R88",
@@ -401,7 +415,17 @@
         "townhallLevel": 16,
         "mapPosition": 1,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#PCPYC8R88",
+            "defenderTag": "#RVGCJGQ8",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 27,
+            "duration": 111
+          }
+        ]
       },
       {
         "tag": "#P9YU2YLJ2",
@@ -601,7 +625,17 @@
           "destructionPercentage": 100,
           "order": 17,
           "duration": 64
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#GJ9CRUL22",
+            "defenderTag": "#QP8UV2L9R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 106
+          }
+        ]
       },
       {
         "tag": "#LCPPCVVPU",
