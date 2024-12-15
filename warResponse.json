@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 12,
-    "stars": 31,
-    "destructionPercentage": 53.0,
+    "attacks": 13,
+    "stars": 34,
+    "destructionPercentage": 58.0,
     "members": [
       {
         "tag": "#JJRRR888",
@@ -191,7 +191,17 @@
         "townhallLevel": 11,
         "mapPosition": 14,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#U0YLJVY0",
+            "defenderTag": "#GQQYRLQ9J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 62
+          }
+        ]
       },
       {
         "tag": "#GY2Q0CGPJ",
@@ -369,8 +379,15 @@
         "name": "KLAUS",
         "townhallLevel": 8,
         "mapPosition": 16,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#U0YLJVY0",
+          "defenderTag": "#GQQYRLQ9J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 62
+        }
       },
       {
         "tag": "#QGR2CV28R",
