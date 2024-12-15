@@ -255,8 +255,15 @@
         "name": "Daan",
         "townhallLevel": 7,
         "mapPosition": 20,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYGCRQPJ9",
+          "defenderTag": "#20CCR02Q",
+          "stars": 0,
+          "destructionPercentage": 10,
+          "order": 10,
+          "duration": 52
+        }
       },
       {
         "tag": "#22G8CQGPV",
@@ -277,9 +284,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png"
     },
     "clanLevel": 16,
-    "attacks": 1,
+    "attacks": 2,
     "stars": 2,
-    "destructionPercentage": 3.7,
+    "destructionPercentage": 4.2,
     "members": [
       {
         "tag": "#PCPYC8R88",
@@ -490,7 +497,17 @@
         "townhallLevel": 6,
         "mapPosition": 20,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#GYGCRQPJ9",
+            "defenderTag": "#20CCR02Q",
+            "stars": 0,
+            "destructionPercentage": 10,
+            "order": 10,
+            "duration": 52
+          }
+        ]
       },
       {
         "tag": "#8YJPCYYVQ",
