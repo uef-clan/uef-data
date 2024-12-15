@@ -273,8 +273,15 @@
         "name": "Daventria",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJL998VJU",
+          "defenderTag": "#GY2Q0CGPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 109
+        },
         "attacks": [
           {
             "attackerTag": "#GY2Q0CGPJ",
@@ -420,7 +427,7 @@
         "name": "gdetopper",
         "townhallLevel": 10,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GJ9CRUL22",
           "defenderTag": "#22G8CQGPV",
@@ -441,9 +448,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png"
     },
     "clanLevel": 16,
-    "attacks": 18,
-    "stars": 34,
-    "destructionPercentage": 58.75,
+    "attacks": 20,
+    "stars": 37,
+    "destructionPercentage": 63.75,
     "members": [
       {
         "tag": "#PCPYC8R88",
@@ -775,7 +782,17 @@
           "destructionPercentage": 100,
           "order": 12,
           "duration": 115
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#QJL998VJU",
+            "defenderTag": "#GY2Q0CGPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 109
+          }
+        ]
       },
       {
         "tag": "#QCYL2J9VJ",
@@ -832,6 +849,14 @@
             "destructionPercentage": 73,
             "order": 35,
             "duration": 102
+          },
+          {
+            "attackerTag": "#GL29YUC28",
+            "defenderTag": "#22G8CQGPV",
+            "stars": 1,
+            "destructionPercentage": 55,
+            "order": 37,
+            "duration": 62
           }
         ]
       },
