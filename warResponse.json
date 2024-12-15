@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 13,
-    "stars": 34,
-    "destructionPercentage": 58.0,
+    "attacks": 14,
+    "stars": 37,
+    "destructionPercentage": 63.0,
     "members": [
       {
         "tag": "#JJRRR888",
@@ -284,6 +284,14 @@
             "destructionPercentage": 100,
             "order": 5,
             "duration": 67
+          },
+          {
+            "attackerTag": "#LJ02J988Q",
+            "defenderTag": "#GJ9CRUL22",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 64
           }
         ]
       },
@@ -505,8 +513,15 @@
         "name": "mark",
         "townhallLevel": 10,
         "mapPosition": 15,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ02J988Q",
+          "defenderTag": "#GJ9CRUL22",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 64
+        }
       },
       {
         "tag": "#LCPPCVVPU",
