@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 18,
-    "stars": 44,
-    "destructionPercentage": 77.45,
+    "attacks": 19,
+    "stars": 46,
+    "destructionPercentage": 81.15,
     "members": [
       {
         "tag": "#JJRRR888",
@@ -186,6 +186,14 @@
             "destructionPercentage": 100,
             "order": 13,
             "duration": 172
+          },
+          {
+            "attackerTag": "#89Q0YQYL",
+            "defenderTag": "#PCPYC8R88",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 47,
+            "duration": 163
           }
         ]
       },
@@ -507,8 +515,15 @@
         "name": "RJ",
         "townhallLevel": 16,
         "mapPosition": 1,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#89Q0YQYL",
+          "defenderTag": "#PCPYC8R88",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 47,
+          "duration": 163
+        },
         "attacks": [
           {
             "attackerTag": "#PCPYC8R88",
