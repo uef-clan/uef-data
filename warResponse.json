@@ -32,8 +32,15 @@
         "name": "Frank",
         "townhallLevel": 10,
         "mapPosition": 17,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGV20Y0LV",
+          "defenderTag": "#QJ0VCVQYC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 139
+        }
       },
       {
         "tag": "#QJ02YGJR0",
@@ -370,9 +377,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png"
     },
     "clanLevel": 16,
-    "attacks": 6,
-    "stars": 11,
-    "destructionPercentage": 18.65,
+    "attacks": 7,
+    "stars": 14,
+    "destructionPercentage": 23.65,
     "members": [
       {
         "tag": "#PCPYC8R88",
@@ -490,6 +497,14 @@
             "destructionPercentage": 100,
             "order": 22,
             "duration": 93
+          },
+          {
+            "attackerTag": "#GGV20Y0LV",
+            "defenderTag": "#QJ0VCVQYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 139
           }
         ]
       },
