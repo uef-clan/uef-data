@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 10,
-    "stars": 26,
-    "destructionPercentage": 44.6,
+    "attacks": 11,
+    "stars": 28,
+    "destructionPercentage": 48.0,
     "members": [
       {
         "tag": "#JJRRR888",
@@ -103,7 +103,17 @@
         "townhallLevel": 15,
         "mapPosition": 3,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#2Y08ULL9J",
+            "defenderTag": "#P9YU2YLJ2",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 14,
+            "duration": 105
+          }
+        ]
       },
       {
         "tag": "#89Q0YQYL",
@@ -326,8 +336,15 @@
         "name": "bosS kyLeR",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2Y08ULL9J",
+          "defenderTag": "#P9YU2YLJ2",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 14,
+          "duration": 105
+        }
       },
       {
         "tag": "#QUYJ0QJLC",
