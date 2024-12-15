@@ -282,14 +282,14 @@
         "name": "sander",
         "townhallLevel": 8,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GJRYY92LY",
+          "attackerTag": "#GGV20Y0LV",
           "defenderTag": "#QRYPQJUPY",
-          "stars": 2,
-          "destructionPercentage": 74,
-          "order": 9,
-          "duration": 115
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 93
         }
       },
       {
@@ -370,9 +370,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png"
     },
     "clanLevel": 16,
-    "attacks": 5,
-    "stars": 10,
-    "destructionPercentage": 17.35,
+    "attacks": 6,
+    "stars": 11,
+    "destructionPercentage": 18.65,
     "members": [
       {
         "tag": "#PCPYC8R88",
@@ -481,7 +481,17 @@
         "townhallLevel": 8,
         "mapPosition": 18,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#GGV20Y0LV",
+            "defenderTag": "#QRYPQJUPY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 93
+          }
+        ]
       },
       {
         "tag": "#GR0P0C8V9",
