@@ -148,14 +148,14 @@
         "name": "Beunmeister",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PCPYC8R88",
+          "attackerTag": "#2LCVCU9GR",
           "defenderTag": "#89Q0YQYL",
-          "stars": 1,
-          "destructionPercentage": 60,
-          "order": 28,
-          "duration": 99
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 33,
+          "duration": 112
         },
         "attacks": [
           {
@@ -441,9 +441,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png"
     },
     "clanLevel": 16,
-    "attacks": 15,
-    "stars": 33,
-    "destructionPercentage": 58.7,
+    "attacks": 16,
+    "stars": 34,
+    "destructionPercentage": 58.75,
     "members": [
       {
         "tag": "#PCPYC8R88",
@@ -661,7 +661,17 @@
           "destructionPercentage": 100,
           "order": 13,
           "duration": 172
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#2LCVCU9GR",
+            "defenderTag": "#89Q0YQYL",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 33,
+            "duration": 112
+          }
+        ]
       },
       {
         "tag": "#GJRYY92LY",
