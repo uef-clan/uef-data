@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 19,
+    "attacks": 20,
     "stars": 46,
     "destructionPercentage": 81.15,
     "members": [
@@ -161,6 +161,14 @@
             "destructionPercentage": 68,
             "order": 14,
             "duration": 105
+          },
+          {
+            "attackerTag": "#2Y08ULL9J",
+            "defenderTag": "#L2LR80CUP",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 48,
+            "duration": 180
           }
         ]
       },
@@ -680,7 +688,7 @@
         "name": "P.E.K.K.A 3",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y8LRCRR8",
           "defenderTag": "#L2LR80CUP",
