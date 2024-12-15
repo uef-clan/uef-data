@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32741,
+  "clanPoints": 32765,
   "clanBuilderBasePoints": 36013,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -51,7 +51,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 5133,
+      "trophies": 5173,
       "builderBaseTrophies": 4846,
       "clanRank": 1,
       "previousClanRank": 1,
@@ -1276,6 +1276,52 @@
       }
     },
     {
+      "tag": "#999JUCGLG",
+      "name": "Paddy Field",
+      "role": 1,
+      "townHallLevel": 15,
+      "expLevel": 244,
+      "league": {
+        "id": 29000009,
+        "name": "Gold League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+        }
+      },
+      "trophies": 1918,
+      "builderBaseTrophies": 5000,
+      "clanRank": 29,
+      "previousClanRank": 31,
+      "donations": 1694,
+      "donationsReceived": 403,
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000054
+          },
+          {
+            "type": 2,
+            "id": 82000041
+          },
+          {
+            "type": 0,
+            "id": 82000089
+          }
+        ]
+      }
+    },
+    {
       "tag": "#QJC9YJ2G0",
       "name": "King Wessel",
       "role": 3,
@@ -1291,7 +1337,7 @@
       },
       "trophies": 1907,
       "builderBaseTrophies": 2217,
-      "clanRank": 29,
+      "clanRank": 30,
       "previousClanRank": 30,
       "donations": 0,
       "donationsReceived": 0,
@@ -1317,7 +1363,7 @@
       },
       "trophies": 1891,
       "builderBaseTrophies": 2357,
-      "clanRank": 30,
+      "clanRank": 31,
       "previousClanRank": 29,
       "donations": 9,
       "donationsReceived": 1138,
@@ -1342,52 +1388,6 @@
           {
             "type": 0,
             "id": 82000064
-          }
-        ]
-      }
-    },
-    {
-      "tag": "#999JUCGLG",
-      "name": "Paddy Field",
-      "role": 1,
-      "townHallLevel": 15,
-      "expLevel": 244,
-      "league": {
-        "id": 29000009,
-        "name": "Gold League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-        }
-      },
-      "trophies": 1890,
-      "builderBaseTrophies": 5000,
-      "clanRank": 31,
-      "previousClanRank": 31,
-      "donations": 1694,
-      "donationsReceived": 403,
-      "builderBaseLeague": {
-        "id": 44000035,
-        "name": "Emerald League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000054
-          },
-          {
-            "type": 2,
-            "id": 82000041
-          },
-          {
-            "type": 0,
-            "id": 82000089
           }
         ]
       }
