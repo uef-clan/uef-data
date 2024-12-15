@@ -24,8 +24,15 @@
         "name": "'t Brikje",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QGR2CV28R",
+          "defenderTag": "#JJRRR888",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 101
+        }
       },
       {
         "tag": "#QJ0VCVQYC",
@@ -434,9 +441,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png"
     },
     "clanLevel": 16,
-    "attacks": 14,
-    "stars": 30,
-    "destructionPercentage": 53.7,
+    "attacks": 15,
+    "stars": 33,
+    "destructionPercentage": 58.7,
     "members": [
       {
         "tag": "#PCPYC8R88",
@@ -524,6 +531,14 @@
             "destructionPercentage": 100,
             "order": 31,
             "duration": 116
+          },
+          {
+            "attackerTag": "#QGR2CV28R",
+            "defenderTag": "#JJRRR888",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 32,
+            "duration": 101
           }
         ]
       },
