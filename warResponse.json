@@ -309,7 +309,7 @@
         "name": "GuusjeMan",
         "townhallLevel": 11,
         "mapPosition": 12,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GPPQ8UG2G",
           "defenderTag": "#GGPCCUG8P",
@@ -441,7 +441,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png"
     },
     "clanLevel": 16,
-    "attacks": 17,
+    "attacks": 18,
     "stars": 34,
     "destructionPercentage": 58.75,
     "members": [
@@ -823,7 +823,17 @@
           "destructionPercentage": 100,
           "order": 18,
           "duration": 68
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#GL29YUC28",
+            "defenderTag": "#GGPCCUG8P",
+            "stars": 1,
+            "destructionPercentage": 73,
+            "order": 35,
+            "duration": 102
+          }
+        ]
       },
       {
         "tag": "#9CJU80QYC",
