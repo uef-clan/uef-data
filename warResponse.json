@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 21,
-    "stars": 46,
-    "destructionPercentage": 81.15,
+    "attacks": 22,
+    "stars": 48,
+    "destructionPercentage": 82.1,
     "members": [
       {
         "tag": "#JJRRR888",
@@ -136,6 +136,14 @@
             "destructionPercentage": 92,
             "order": 7,
             "duration": 100
+          },
+          {
+            "attackerTag": "#Y8LRCRR8",
+            "defenderTag": "#9CJU80QYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 132
           }
         ]
       },
@@ -1020,14 +1028,14 @@
         "name": "FADM.Joson",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#29UC8C2PC",
+          "attackerTag": "#Y8LRCRR8",
           "defenderTag": "#9CJU80QYC",
-          "stars": 1,
-          "destructionPercentage": 81,
-          "order": 39,
-          "duration": 131
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 132
         }
       },
       {
