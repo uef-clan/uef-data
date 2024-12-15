@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 22,
-    "stars": 48,
-    "destructionPercentage": 82.1,
+    "attacks": 23,
+    "stars": 51,
+    "destructionPercentage": 87.1,
     "members": [
       {
         "tag": "#JJRRR888",
@@ -47,7 +47,17 @@
           "destructionPercentage": 100,
           "order": 23,
           "duration": 139
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#QJ0VCVQYC",
+            "defenderTag": "#GJRYY92LY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 62
+          }
+        ]
       },
       {
         "tag": "#QJ02YGJR0",
@@ -830,8 +840,15 @@
         "name": "ruby",
         "townhallLevel": 8,
         "mapPosition": 19,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ0VCVQYC",
+          "defenderTag": "#GJRYY92LY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 62
+        },
         "attacks": [
           {
             "attackerTag": "#GJRYY92LY",
