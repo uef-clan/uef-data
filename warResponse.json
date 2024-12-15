@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 23,
-    "stars": 51,
-    "destructionPercentage": 87.1,
+    "attacks": 24,
+    "stars": 54,
+    "destructionPercentage": 92.1,
     "members": [
       {
         "tag": "#JJRRR888",
@@ -56,6 +56,14 @@
             "destructionPercentage": 100,
             "order": 51,
             "duration": 62
+          },
+          {
+            "attackerTag": "#QJ0VCVQYC",
+            "defenderTag": "#GYGCRQPJ9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 38
           }
         ]
       },
@@ -1060,8 +1068,15 @@
         "name": "ladyboss",
         "townhallLevel": 6,
         "mapPosition": 20,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ0VCVQYC",
+          "defenderTag": "#GYGCRQPJ9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 38
+        },
         "attacks": [
           {
             "attackerTag": "#GYGCRQPJ9",
