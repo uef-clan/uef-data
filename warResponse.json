@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 11,
-    "stars": 28,
-    "destructionPercentage": 48.0,
+    "attacks": 12,
+    "stars": 31,
+    "destructionPercentage": 53.0,
     "members": [
       {
         "tag": "#JJRRR888",
@@ -173,7 +173,17 @@
         "townhallLevel": 15,
         "mapPosition": 2,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#RVGCJGQ8",
+            "defenderTag": "#Q8PCQU80V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 149
+          }
+        ]
       },
       {
         "tag": "#U0YLJVY0",
@@ -501,8 +511,15 @@
         "name": "nad",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RVGCJGQ8",
+          "defenderTag": "#Q8PCQU80V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 149
+        }
       },
       {
         "tag": "#QJL998VJU",
