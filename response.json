@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32754,
+  "clanPoints": 32749,
   "clanBuilderBasePoints": 36005,
   "clanCapitalPoints": 3245,
   "capitalLeague": {
@@ -55,7 +55,7 @@
       "builderBaseTrophies": 4846,
       "clanRank": 1,
       "previousClanRank": 1,
-      "donations": 1043,
+      "donations": 1073,
       "donationsReceived": 2860,
       "builderBaseLeague": {
         "id": 44000034,
@@ -97,7 +97,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4960,
+      "trophies": 4950,
       "builderBaseTrophies": 4500,
       "clanRank": 2,
       "previousClanRank": 4,
@@ -1893,7 +1893,7 @@
       "clanRank": 43,
       "previousClanRank": 43,
       "donations": 2761,
-      "donationsReceived": 525,
+      "donationsReceived": 555,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
