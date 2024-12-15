@@ -442,14 +442,14 @@
         "name": "gdetopper",
         "townhallLevel": 10,
         "mapPosition": 13,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#GJ9CRUL22",
+          "attackerTag": "#QUYJ0QJLC",
           "defenderTag": "#22G8CQGPV",
-          "stars": 1,
-          "destructionPercentage": 62,
-          "order": 29,
-          "duration": 93
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 56
         }
       }
     ]
@@ -463,9 +463,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ySBpY3jhKAVRIvpynxuaRNA3qi99Eu15aBKdBZpCPw0.png"
     },
     "clanLevel": 16,
-    "attacks": 21,
-    "stars": 40,
-    "destructionPercentage": 68.75,
+    "attacks": 22,
+    "stars": 42,
+    "destructionPercentage": 70.65,
     "members": [
       {
         "tag": "#PCPYC8R88",
@@ -514,7 +514,17 @@
         "townhallLevel": 14,
         "mapPosition": 8,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#QUYJ0QJLC",
+            "defenderTag": "#22G8CQGPV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 56
+          }
+        ]
       },
       {
         "tag": "#GQQYRLQ9J",
