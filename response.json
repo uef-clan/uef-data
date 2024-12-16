@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32922,
-  "clanBuilderBasePoints": 35965,
+  "clanBuilderBasePoints": 35942,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
     "id": 85000016,
@@ -400,7 +400,7 @@
         }
       },
       "trophies": 3319,
-      "builderBaseTrophies": 3867,
+      "builderBaseTrophies": 3820,
       "clanRank": 9,
       "previousClanRank": 8,
       "donations": 867,
@@ -1674,7 +1674,7 @@
       "name": "BroekUit",
       "role": 3,
       "townHallLevel": 10,
-      "expLevel": 84,
+      "expLevel": 85,
       "league": {
         "id": 29000008,
         "name": "Gold League II",
