@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32877,
+  "clanPoints": 32894,
   "clanBuilderBasePoints": 36006,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -89,19 +89,19 @@
       "townHallLevel": 15,
       "expLevel": 223,
       "league": {
-        "id": 29000021,
-        "name": "Titan League I",
+        "id": 29000022,
+        "name": "Legend League",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 4988,
+      "trophies": 5016,
       "builderBaseTrophies": 4500,
       "clanRank": 2,
       "previousClanRank": 2,
-      "donations": 6600,
+      "donations": 6602,
       "donationsReceived": 5499,
       "builderBaseLeague": {
         "id": 44000032,
@@ -266,7 +266,7 @@
       "clanRank": 6,
       "previousClanRank": 6,
       "donations": 5692,
-      "donationsReceived": 6316,
+      "donationsReceived": 6318,
       "builderBaseLeague": {
         "id": 44000026,
         "name": "Steel League III"
@@ -1408,7 +1408,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
         }
       },
-      "trophies": 1795,
+      "trophies": 1821,
       "builderBaseTrophies": 2627,
       "clanRank": 32,
       "previousClanRank": 33,
