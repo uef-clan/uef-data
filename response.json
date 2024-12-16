@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32931,
-  "clanBuilderBasePoints": 35949,
+  "clanPoints": 32933,
+  "clanBuilderBasePoints": 35946,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
     "id": 85000016,
@@ -1624,52 +1624,6 @@
       }
     },
     {
-      "tag": "#22G8CQGPV",
-      "name": "gdetopper",
-      "role": 3,
-      "townHallLevel": 10,
-      "expLevel": 101,
-      "league": {
-        "id": 29000007,
-        "name": "Gold League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
-        }
-      },
-      "trophies": 1564,
-      "builderBaseTrophies": 1654,
-      "clanRank": 37,
-      "previousClanRank": 37,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000016,
-        "name": "Copper League IV"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000017
-          },
-          {
-            "type": 0,
-            "id": 82000058
-          }
-        ]
-      }
-    },
-    {
       "tag": "#LV020LC28",
       "name": "BroekUit",
       "role": 3,
@@ -1684,9 +1638,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
         }
       },
-      "trophies": 1555,
-      "builderBaseTrophies": 2465,
-      "clanRank": 38,
+      "trophies": 1575,
+      "builderBaseTrophies": 2439,
+      "clanRank": 37,
       "previousClanRank": 38,
       "donations": 0,
       "donationsReceived": 953,
@@ -1711,6 +1665,52 @@
           {
             "type": 0,
             "id": 82000064
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#22G8CQGPV",
+      "name": "gdetopper",
+      "role": 3,
+      "townHallLevel": 10,
+      "expLevel": 101,
+      "league": {
+        "id": 29000007,
+        "name": "Gold League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
+        }
+      },
+      "trophies": 1564,
+      "builderBaseTrophies": 1654,
+      "clanRank": 38,
+      "previousClanRank": 37,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000016,
+        "name": "Copper League IV"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000017
+          },
+          {
+            "type": 0,
+            "id": 82000058
           }
         ]
       }
