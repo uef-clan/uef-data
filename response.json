@@ -527,7 +527,7 @@
       "name": "Rutger",
       "role": 0,
       "townHallLevel": 12,
-      "expLevel": 141,
+      "expLevel": 142,
       "league": {
         "id": 29000015,
         "name": "Master League I",
@@ -1981,7 +1981,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
         }
       },
-      "trophies": 882,
+      "trophies": 876,
       "builderBaseTrophies": 1379,
       "clanRank": 45,
       "previousClanRank": 45,
