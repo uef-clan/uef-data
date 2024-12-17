@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33051,
+  "clanPoints": 33048,
   "clanBuilderBasePoints": 35953,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -1488,52 +1488,6 @@
       }
     },
     {
-      "tag": "#892VLVPG8",
-      "name": "GeTReKT",
-      "role": 3,
-      "townHallLevel": 11,
-      "expLevel": 125,
-      "league": {
-        "id": 29000008,
-        "name": "Gold League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
-        }
-      },
-      "trophies": 1733,
-      "builderBaseTrophies": 2188,
-      "clanRank": 34,
-      "previousClanRank": 35,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000020,
-        "name": "Brass League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000000
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000014
-          },
-          {
-            "type": 0,
-            "id": 82000060
-          }
-        ]
-      }
-    },
-    {
       "tag": "#G0G8YRUG2",
       "name": "thijs",
       "role": 3,
@@ -1550,7 +1504,7 @@
       },
       "trophies": 1715,
       "builderBaseTrophies": 1472,
-      "clanRank": 35,
+      "clanRank": 34,
       "previousClanRank": 36,
       "donations": 0,
       "donationsReceived": 0,
@@ -1596,7 +1550,7 @@
       },
       "trophies": 1711,
       "builderBaseTrophies": 2548,
-      "clanRank": 36,
+      "clanRank": 35,
       "previousClanRank": 34,
       "donations": 70,
       "donationsReceived": 1052,
@@ -1621,6 +1575,52 @@
           {
             "type": 0,
             "id": 82000064
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#892VLVPG8",
+      "name": "GeTReKT",
+      "role": 3,
+      "townHallLevel": 11,
+      "expLevel": 125,
+      "league": {
+        "id": 29000008,
+        "name": "Gold League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
+        }
+      },
+      "trophies": 1709,
+      "builderBaseTrophies": 2188,
+      "clanRank": 36,
+      "previousClanRank": 35,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Brass League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000000
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000014
+          },
+          {
+            "type": 0,
+            "id": 82000060
           }
         ]
       }
