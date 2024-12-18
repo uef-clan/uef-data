@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32969,
+  "clanPoints": 32965,
   "clanBuilderBasePoints": 35958,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -1234,51 +1234,6 @@
       }
     },
     {
-      "tag": "#PUPP98CCC",
-      "name": "JurriaanDuq",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 147,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 1961,
-      "builderBaseTrophies": 2760,
-      "clanRank": 28,
-      "previousClanRank": 28,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000015
-          },
-          {
-            "type": 0,
-            "id": 82000062
-          }
-        ]
-      }
-    },
-    {
       "tag": "#999JUCGLG",
       "name": "Paddy Field",
       "role": 1,
@@ -1295,7 +1250,7 @@
       },
       "trophies": 1947,
       "builderBaseTrophies": 5000,
-      "clanRank": 29,
+      "clanRank": 28,
       "previousClanRank": 29,
       "donations": 1744,
       "donationsReceived": 403,
@@ -1320,6 +1275,51 @@
           {
             "type": 0,
             "id": 82000089
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#PUPP98CCC",
+      "name": "JurriaanDuq",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 147,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 1928,
+      "builderBaseTrophies": 2760,
+      "clanRank": 29,
+      "previousClanRank": 28,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Iron League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000015
+          },
+          {
+            "type": 0,
+            "id": 82000062
           }
         ]
       }
