@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32964,
-  "clanBuilderBasePoints": 35963,
+  "clanPoints": 32974,
+  "clanBuilderBasePoints": 35969,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
     "id": 85000016,
@@ -143,7 +143,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4902,
+      "trophies": 4923,
       "builderBaseTrophies": 4181,
       "clanRank": 3,
       "previousClanRank": 3,
@@ -1503,14 +1503,14 @@
         }
       },
       "trophies": 1724,
-      "builderBaseTrophies": 2560,
+      "builderBaseTrophies": 2610,
       "clanRank": 34,
       "previousClanRank": 34,
       "donations": 72,
       "donationsReceived": 1052,
       "builderBaseLeague": {
-        "id": 44000022,
-        "name": "Brass League I"
+        "id": 44000023,
+        "name": "Iron League III"
       },
       "playerHouse": {
         "elements": [
