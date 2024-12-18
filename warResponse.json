@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 3,
-    "stars": 7,
-    "destructionPercentage": 12.5,
+    "attacks": 4,
+    "stars": 10,
+    "destructionPercentage": 17.5,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -146,7 +146,17 @@
         "townhallLevel": 12,
         "mapPosition": 11,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#29UC8C2PC",
+            "defenderTag": "#QG2V28R9V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 99
+          }
+        ]
       },
       {
         "tag": "#GGPCCUG8P",
@@ -386,8 +396,15 @@
         "name": "MATUFFOLA",
         "townhallLevel": 11,
         "mapPosition": 12,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#29UC8C2PC",
+          "defenderTag": "#QG2V28R9V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 99
+        }
       },
       {
         "tag": "#GC0C2RVCJ",
