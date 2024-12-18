@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 10,
-    "stars": 26,
-    "destructionPercentage": 44.95,
+    "attacks": 11,
+    "stars": 29,
+    "destructionPercentage": 49.95,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -167,6 +167,14 @@
             "destructionPercentage": 100,
             "order": 11,
             "duration": 100
+          },
+          {
+            "attackerTag": "#U0YLJVY0",
+            "defenderTag": "#GQ2LPJY28",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 81
           }
         ]
       },
@@ -544,8 +552,15 @@
         "name": "Sinan",
         "townhallLevel": 9,
         "mapPosition": 16,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#U0YLJVY0",
+          "defenderTag": "#GQ2LPJY28",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 81
+        }
       }
     ]
   }
