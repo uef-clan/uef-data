@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32960,
+  "clanPoints": 32935,
   "clanBuilderBasePoints": 35945,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -189,7 +189,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4755,
+      "trophies": 4767,
       "builderBaseTrophies": 3718,
       "clanRank": 4,
       "previousClanRank": 4,
@@ -594,52 +594,6 @@
       }
     },
     {
-      "tag": "#Y8LRCRR8",
-      "name": "romano 0344",
-      "role": 3,
-      "townHallLevel": 14,
-      "expLevel": 214,
-      "league": {
-        "id": 29000014,
-        "name": "Master League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
-        }
-      },
-      "trophies": 2758,
-      "builderBaseTrophies": 4823,
-      "clanRank": 14,
-      "previousClanRank": 13,
-      "donations": 259,
-      "donationsReceived": 1159,
-      "builderBaseLeague": {
-        "id": 44000034,
-        "name": "Platinum League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000032
-          },
-          {
-            "type": 0,
-            "id": 82000062
-          }
-        ]
-      }
-    },
-    {
       "tag": "#QG8RPCL02",
       "name": "max",
       "role": 3,
@@ -656,7 +610,7 @@
       },
       "trophies": 2745,
       "builderBaseTrophies": 2111,
-      "clanRank": 15,
+      "clanRank": 14,
       "previousClanRank": 14,
       "donations": 101,
       "donationsReceived": 492,
@@ -702,7 +656,7 @@
       },
       "trophies": 2731,
       "builderBaseTrophies": 2307,
-      "clanRank": 16,
+      "clanRank": 15,
       "previousClanRank": 16,
       "donations": 0,
       "donationsReceived": 0,
@@ -748,7 +702,7 @@
       },
       "trophies": 2658,
       "builderBaseTrophies": 3858,
-      "clanRank": 17,
+      "clanRank": 16,
       "previousClanRank": 18,
       "donations": 0,
       "donationsReceived": 0,
@@ -793,7 +747,7 @@
       },
       "trophies": 2651,
       "builderBaseTrophies": 3907,
-      "clanRank": 18,
+      "clanRank": 17,
       "previousClanRank": 17,
       "donations": 0,
       "donationsReceived": 0,
@@ -818,6 +772,52 @@
           {
             "type": 0,
             "id": 82000066
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#Y8LRCRR8",
+      "name": "romano 0344",
+      "role": 3,
+      "townHallLevel": 14,
+      "expLevel": 214,
+      "league": {
+        "id": 29000013,
+        "name": "Master League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
+        }
+      },
+      "trophies": 2634,
+      "builderBaseTrophies": 4823,
+      "clanRank": 18,
+      "previousClanRank": 13,
+      "donations": 259,
+      "donationsReceived": 1159,
+      "builderBaseLeague": {
+        "id": 44000034,
+        "name": "Platinum League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000032
+          },
+          {
+            "type": 0,
+            "id": 82000062
           }
         ]
       }
