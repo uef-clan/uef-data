@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32933,
+  "clanPoints": 32937,
   "clanBuilderBasePoints": 35945,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -311,8 +311,8 @@
       "builderBaseTrophies": 3400,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 3612,
-      "donationsReceived": 3901,
+      "donations": 3614,
+      "donationsReceived": 3946,
       "builderBaseLeague": {
         "id": 44000027,
         "name": "Steel League II"
@@ -1280,6 +1280,52 @@
       }
     },
     {
+      "tag": "#GGPCCUG8P",
+      "name": "GuusjeMan",
+      "role": 0,
+      "townHallLevel": 11,
+      "expLevel": 95,
+      "league": {
+        "id": 29000009,
+        "name": "Gold League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+        }
+      },
+      "trophies": 1933,
+      "builderBaseTrophies": 2357,
+      "clanRank": 29,
+      "previousClanRank": 31,
+      "donations": 10,
+      "donationsReceived": 1307,
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Brass League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000054
+          },
+          {
+            "type": 2,
+            "id": 82000042
+          },
+          {
+            "type": 0,
+            "id": 82000064
+          }
+        ]
+      }
+    },
+    {
       "tag": "#PUPP98CCC",
       "name": "JurriaanDuq",
       "role": 3,
@@ -1295,7 +1341,7 @@
       },
       "trophies": 1928,
       "builderBaseTrophies": 2760,
-      "clanRank": 29,
+      "clanRank": 30,
       "previousClanRank": 28,
       "donations": 0,
       "donationsReceived": 0,
@@ -1340,59 +1386,13 @@
       },
       "trophies": 1907,
       "builderBaseTrophies": 2217,
-      "clanRank": 30,
+      "clanRank": 31,
       "previousClanRank": 30,
       "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
-      }
-    },
-    {
-      "tag": "#GGPCCUG8P",
-      "name": "GuusjeMan",
-      "role": 0,
-      "townHallLevel": 11,
-      "expLevel": 95,
-      "league": {
-        "id": 29000009,
-        "name": "Gold League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-        }
-      },
-      "trophies": 1899,
-      "builderBaseTrophies": 2357,
-      "clanRank": 31,
-      "previousClanRank": 31,
-      "donations": 10,
-      "donationsReceived": 1305,
-      "builderBaseLeague": {
-        "id": 44000021,
-        "name": "Brass League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000054
-          },
-          {
-            "type": 2,
-            "id": 82000042
-          },
-          {
-            "type": 0,
-            "id": 82000064
-          }
-        ]
       }
     },
     {
@@ -1896,7 +1896,7 @@
       "builderBaseTrophies": 4803,
       "clanRank": 43,
       "previousClanRank": 43,
-      "donations": 3006,
+      "donations": 3051,
       "donationsReceived": 590,
       "builderBaseLeague": {
         "id": 44000034,
