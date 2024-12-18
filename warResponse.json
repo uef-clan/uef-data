@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 5.0,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -137,7 +137,17 @@
         "townhallLevel": 11,
         "mapPosition": 13,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#GGPCCUG8P",
+            "defenderTag": "#QJ9GG9VVQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 89
+          }
+        ]
       },
       {
         "tag": "#QRYPQJUPY",
@@ -255,8 +265,15 @@
         "name": "Jackie",
         "townhallLevel": 10,
         "mapPosition": 14,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGPCCUG8P",
+          "defenderTag": "#QJ9GG9VVQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 89
+        }
       },
       {
         "tag": "#G82QJ8CYJ",
