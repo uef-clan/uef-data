@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 5.0,
+    "attacks": 2,
+    "stars": 4,
+    "destructionPercentage": 7.5,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -25,7 +25,17 @@
         "townhallLevel": 11,
         "mapPosition": 12,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#G2LRGULG0",
+            "defenderTag": "#QP9J0R2G8",
+            "stars": 1,
+            "destructionPercentage": 50,
+            "order": 2,
+            "duration": 84
+          }
+        ]
       },
       {
         "tag": "#QJ0VCVQYC",
@@ -288,8 +298,15 @@
         "name": ";) Sansiux™",
         "townhallLevel": 11,
         "mapPosition": 13,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2LRGULG0",
+          "defenderTag": "#QP9J0R2G8",
+          "stars": 1,
+          "destructionPercentage": 50,
+          "order": 2,
+          "duration": 84
+        }
       },
       {
         "tag": "#82CJLRVQP",
