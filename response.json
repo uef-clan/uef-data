@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32935,
-  "clanBuilderBasePoints": 35945,
+  "clanPoints": 32919,
+  "clanBuilderBasePoints": 35951,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
     "id": 85000016,
@@ -308,7 +308,7 @@
         }
       },
       "trophies": 3781,
-      "builderBaseTrophies": 3400,
+      "builderBaseTrophies": 3427,
       "clanRank": 7,
       "previousClanRank": 7,
       "donations": 3653,
@@ -353,7 +353,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
         }
       },
-      "trophies": 3362,
+      "trophies": 3344,
       "builderBaseTrophies": 2562,
       "clanRank": 8,
       "previousClanRank": 8,
@@ -594,52 +594,6 @@
       }
     },
     {
-      "tag": "#QG8RPCL02",
-      "name": "max",
-      "role": 3,
-      "townHallLevel": 14,
-      "expLevel": 120,
-      "league": {
-        "id": 29000014,
-        "name": "Master League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
-        }
-      },
-      "trophies": 2745,
-      "builderBaseTrophies": 2111,
-      "clanRank": 14,
-      "previousClanRank": 15,
-      "donations": 101,
-      "donationsReceived": 492,
-      "builderBaseLeague": {
-        "id": 44000020,
-        "name": "Brass League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000047
-          },
-          {
-            "type": 0,
-            "id": 82000071
-          }
-        ]
-      }
-    },
-    {
       "tag": "#2P820RVP2",
       "name": "Timon",
       "role": 3,
@@ -656,7 +610,7 @@
       },
       "trophies": 2731,
       "builderBaseTrophies": 2307,
-      "clanRank": 15,
+      "clanRank": 14,
       "previousClanRank": 16,
       "donations": 0,
       "donationsReceived": 0,
@@ -681,6 +635,52 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#QG8RPCL02",
+      "name": "max",
+      "role": 3,
+      "townHallLevel": 14,
+      "expLevel": 120,
+      "league": {
+        "id": 29000014,
+        "name": "Master League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
+        }
+      },
+      "trophies": 2713,
+      "builderBaseTrophies": 2111,
+      "clanRank": 15,
+      "previousClanRank": 15,
+      "donations": 101,
+      "donationsReceived": 492,
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Brass League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000047
+          },
+          {
+            "type": 0,
+            "id": 82000071
           }
         ]
       }
@@ -2144,7 +2144,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/U2acNDRaR5rQDu4Z6pQKaGcjWm9dkSnHMAPZCXrHPB4.png"
         }
       },
-      "trophies": 558,
+      "trophies": 579,
       "builderBaseTrophies": 1801,
       "clanRank": 49,
       "previousClanRank": 49,
