@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 7,
-    "stars": 18,
-    "destructionPercentage": 32.45,
+    "attacks": 8,
+    "stars": 21,
+    "destructionPercentage": 37.45,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -110,6 +110,14 @@
             "destructionPercentage": 99,
             "order": 7,
             "duration": 180
+          },
+          {
+            "attackerTag": "#89Q0YQYL",
+            "defenderTag": "#QLVG02LV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 166
           }
         ]
       },
@@ -283,8 +291,15 @@
         "name": "Nemo",
         "townhallLevel": 16,
         "mapPosition": 1,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#89Q0YQYL",
+          "defenderTag": "#QLVG02LV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 166
+        }
       },
       {
         "tag": "#GPVRVU2V0",
