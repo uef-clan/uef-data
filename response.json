@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32937,
+  "clanPoints": 32928,
   "clanBuilderBasePoints": 35945,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -56,7 +56,7 @@
       "clanRank": 1,
       "previousClanRank": 1,
       "donations": 1402,
-      "donationsReceived": 3540,
+      "donationsReceived": 3541,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -175,32 +175,6 @@
       }
     },
     {
-      "tag": "#2Y08ULL9J",
-      "name": "Azka Thegazters",
-      "role": 1,
-      "townHallLevel": 15,
-      "expLevel": 218,
-      "league": {
-        "id": 29000021,
-        "name": "Titan League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
-        }
-      },
-      "trophies": 4767,
-      "builderBaseTrophies": 3718,
-      "clanRank": 4,
-      "previousClanRank": 4,
-      "donations": 333,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000028,
-        "name": "Steel League I"
-      }
-    },
-    {
       "tag": "#G9800GYGL",
       "name": "kvmvm",
       "role": 3,
@@ -217,7 +191,7 @@
       },
       "trophies": 4751,
       "builderBaseTrophies": 2535,
-      "clanRank": 5,
+      "clanRank": 4,
       "previousClanRank": 5,
       "donations": 810,
       "donationsReceived": 352,
@@ -244,6 +218,32 @@
             "id": 82000060
           }
         ]
+      }
+    },
+    {
+      "tag": "#2Y08ULL9J",
+      "name": "Azka Thegazters",
+      "role": 1,
+      "townHallLevel": 15,
+      "expLevel": 218,
+      "league": {
+        "id": 29000021,
+        "name": "Titan League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+        }
+      },
+      "trophies": 4748,
+      "builderBaseTrophies": 3718,
+      "clanRank": 5,
+      "previousClanRank": 4,
+      "donations": 333,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000028,
+        "name": "Steel League I"
       }
     },
     {
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3400,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 3649,
+      "donations": 3653,
       "donationsReceived": 3946,
       "builderBaseLeague": {
         "id": 44000027,
@@ -751,7 +751,7 @@
       "clanRank": 17,
       "previousClanRank": 13,
       "donations": 259,
-      "donationsReceived": 1189,
+      "donationsReceived": 1192,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
