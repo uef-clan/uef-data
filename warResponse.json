@@ -328,8 +328,15 @@
         "name": "wes",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QC9R09QQG",
+          "defenderTag": "#82QCPCG9P",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 20,
+          "duration": 114
+        },
         "attacks": [
           {
             "attackerTag": "#82QCPCG9P",
@@ -360,9 +367,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/hQBVefoVEcx7-0zgcNMEMNUCd3kP5lmyp-DzrEJbdSI.png"
     },
     "clanLevel": 18,
-    "attacks": 4,
-    "stars": 10,
-    "destructionPercentage": 19.3,
+    "attacks": 5,
+    "stars": 12,
+    "destructionPercentage": 23.35,
     "members": [
       {
         "tag": "#QLVG02LV",
@@ -422,7 +429,17 @@
           "destructionPercentage": 99,
           "order": 7,
           "duration": 180
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#QC9R09QQG",
+            "defenderTag": "#82QCPCG9P",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 20,
+            "duration": 114
+          }
+        ]
       },
       {
         "tag": "#QLG9298UR",
