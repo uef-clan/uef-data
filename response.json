@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33004,
+  "clanPoints": 33003,
   "clanBuilderBasePoints": 35961,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -1396,52 +1396,6 @@
       }
     },
     {
-      "tag": "#99LQPJ2UG",
-      "name": "sdetopper",
-      "role": 3,
-      "townHallLevel": 11,
-      "expLevel": 132,
-      "league": {
-        "id": 29000009,
-        "name": "Gold League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-        }
-      },
-      "trophies": 1794,
-      "builderBaseTrophies": 2593,
-      "clanRank": 32,
-      "previousClanRank": 32,
-      "donations": 263,
-      "donationsReceived": 605,
-      "builderBaseLeague": {
-        "id": 44000022,
-        "name": "Brass League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000001
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000017
-          },
-          {
-            "type": 0,
-            "id": 82000059
-          }
-        ]
-      }
-    },
-    {
       "tag": "#82RUY9RG9",
       "name": "Rinse",
       "role": 3,
@@ -1458,7 +1412,7 @@
       },
       "trophies": 1791,
       "builderBaseTrophies": 1658,
-      "clanRank": 33,
+      "clanRank": 32,
       "previousClanRank": 33,
       "donations": 1,
       "donationsReceived": 245,
@@ -1483,6 +1437,52 @@
           {
             "type": 0,
             "id": 82000058
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#99LQPJ2UG",
+      "name": "sdetopper",
+      "role": 3,
+      "townHallLevel": 11,
+      "expLevel": 132,
+      "league": {
+        "id": 29000009,
+        "name": "Gold League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+        }
+      },
+      "trophies": 1781,
+      "builderBaseTrophies": 2593,
+      "clanRank": 33,
+      "previousClanRank": 32,
+      "donations": 263,
+      "donationsReceived": 605,
+      "builderBaseLeague": {
+        "id": 44000022,
+        "name": "Brass League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000001
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000017
+          },
+          {
+            "type": 0,
+            "id": 82000059
           }
         ]
       }
