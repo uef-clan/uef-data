@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32993,
+  "clanPoints": 33013,
   "clanBuilderBasePoints": 35960,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -51,7 +51,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 5233,
+      "trophies": 5273,
       "builderBaseTrophies": 4846,
       "clanRank": 1,
       "previousClanRank": 1,
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3430,
       "clanRank": 7,
       "previousClanRank": 7,
-      "donations": 3917,
+      "donations": 3920,
       "donationsReceived": 4246,
       "builderBaseLeague": {
         "id": 44000027,
@@ -1207,7 +1207,7 @@
       "clanRank": 27,
       "previousClanRank": 26,
       "donations": 0,
-      "donationsReceived": 132,
+      "donationsReceived": 135,
       "builderBaseLeague": {
         "id": 44000024,
         "name": "Iron League II"
