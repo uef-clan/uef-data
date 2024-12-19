@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 26,
-    "stars": 51,
-    "destructionPercentage": 91.4,
+    "attacks": 27,
+    "stars": 53,
+    "destructionPercentage": 91.7,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -113,7 +113,17 @@
           "destructionPercentage": 100,
           "order": 18,
           "duration": 136
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#9L9RRPV2G",
+            "defenderTag": "#QRRRV28RJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 120
+          }
+        ]
       },
       {
         "tag": "#2GG0VGQ9Y",
@@ -928,14 +938,14 @@
         "name": "Alessia",
         "townhallLevel": 15,
         "mapPosition": 3,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#RVGCJGQ8",
+          "attackerTag": "#9L9RRPV2G",
           "defenderTag": "#QRRRV28RJ",
-          "stars": 1,
-          "destructionPercentage": 94,
-          "order": 26,
-          "duration": 160
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 120
         },
         "attacks": [
           {
