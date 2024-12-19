@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 24,
+    "attacks": 25,
     "stars": 51,
     "destructionPercentage": 91.4,
     "members": [
@@ -336,6 +336,14 @@
             "destructionPercentage": 100,
             "order": 27,
             "duration": 102
+          },
+          {
+            "attackerTag": "#GY2Q0CGPJ",
+            "defenderTag": "#LV2YR00LJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 126
           }
         ]
       },
@@ -565,7 +573,7 @@
         "name": "pompadauro",
         "townhallLevel": 15,
         "mapPosition": 8,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9RY0YYYCG",
           "defenderTag": "#LV2YR00LJ",
