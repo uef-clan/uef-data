@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 28,
+    "attacks": 29,
     "stars": 56,
     "destructionPercentage": 96.7,
     "members": [
@@ -132,6 +132,14 @@
             "destructionPercentage": 100,
             "order": 55,
             "duration": 120
+          },
+          {
+            "attackerTag": "#9L9RRPV2G",
+            "defenderTag": "#2G922VPP8",
+            "stars": 1,
+            "destructionPercentage": 78,
+            "order": 57,
+            "duration": 110
           }
         ]
       },
@@ -1066,7 +1074,7 @@
         "name": "Efyt",
         "townhallLevel": 17,
         "mapPosition": 4,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2Y08ULL9J",
           "defenderTag": "#2G922VPP8",
