@@ -296,8 +296,15 @@
         "name": "Daventria",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QLVG02LV",
+          "defenderTag": "#GY2Q0CGPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 102
+        },
         "attacks": [
           {
             "attackerTag": "#GY2Q0CGPJ",
@@ -455,9 +462,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/hQBVefoVEcx7-0zgcNMEMNUCd3kP5lmyp-DzrEJbdSI.png"
     },
     "clanLevel": 18,
-    "attacks": 12,
-    "stars": 28,
-    "destructionPercentage": 52.4,
+    "attacks": 13,
+    "stars": 31,
+    "destructionPercentage": 57.4,
     "members": [
       {
         "tag": "#QLVG02LV",
@@ -481,6 +488,14 @@
             "destructionPercentage": 85,
             "order": 24,
             "duration": 155
+          },
+          {
+            "attackerTag": "#QLVG02LV",
+            "defenderTag": "#GY2Q0CGPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 102
           }
         ]
       },
