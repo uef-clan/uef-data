@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 14,
-    "stars": 38,
-    "destructionPercentage": 64.95,
+    "attacks": 15,
+    "stars": 40,
+    "destructionPercentage": 67.6,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -68,16 +68,30 @@
         "name": "Tobias",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRRRV28RJ",
+          "defenderTag": "#QJ02YGJR0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 113
+        }
       },
       {
         "tag": "#9L9RRPV2G",
         "name": "Tobias",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRRRV28RJ",
+          "defenderTag": "#9L9RRPV2G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 136
+        }
       },
       {
         "tag": "#2GG0VGQ9Y",
@@ -93,7 +107,17 @@
         "townhallLevel": 15,
         "mapPosition": 3,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#2Y08ULL9J",
+            "defenderTag": "#2G922VPP8",
+            "stars": 2,
+            "destructionPercentage": 53,
+            "order": 19,
+            "duration": 71
+          }
+        ]
       },
       {
         "tag": "#9RY0YYYCG",
@@ -336,9 +360,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/hQBVefoVEcx7-0zgcNMEMNUCd3kP5lmyp-DzrEJbdSI.png"
     },
     "clanLevel": 18,
-    "attacks": 2,
-    "stars": 4,
-    "destructionPercentage": 9.3,
+    "attacks": 4,
+    "stars": 10,
+    "destructionPercentage": 19.3,
     "members": [
       {
         "tag": "#QLVG02LV",
@@ -516,7 +540,25 @@
         "townhallLevel": 15,
         "mapPosition": 3,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#QRRRV28RJ",
+            "defenderTag": "#QJ02YGJR0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 113
+          },
+          {
+            "attackerTag": "#QRRRV28RJ",
+            "defenderTag": "#9L9RRPV2G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 136
+          }
+        ]
       },
       {
         "tag": "#QG2V28R9V",
@@ -576,8 +618,15 @@
         "name": "Efyt",
         "townhallLevel": 17,
         "mapPosition": 4,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2Y08ULL9J",
+          "defenderTag": "#2G922VPP8",
+          "stars": 2,
+          "destructionPercentage": 53,
+          "order": 19,
+          "duration": 71
+        }
       },
       {
         "tag": "#GQ9QQC9YR",
