@@ -57,14 +57,14 @@
         "name": "Frank",
         "townhallLevel": 10,
         "mapPosition": 17,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9CVQPP02Y",
+          "attackerTag": "#QLG9298UR",
           "defenderTag": "#QJ0VCVQYC",
-          "stars": 2,
-          "destructionPercentage": 58,
-          "order": 38,
-          "duration": 95
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 45
         },
         "attacks": [
           {
@@ -473,8 +473,15 @@
         "name": "tijmen6",
         "townhallLevel": 9,
         "mapPosition": 16,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QLG9298UR",
+          "defenderTag": "#QP8UV2L9R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 55
+        },
         "attacks": [
           {
             "attackerTag": "#QP8UV2L9R",
@@ -545,9 +552,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/hQBVefoVEcx7-0zgcNMEMNUCd3kP5lmyp-DzrEJbdSI.png"
     },
     "clanLevel": 18,
-    "attacks": 20,
-    "stars": 45,
-    "destructionPercentage": 80.3,
+    "attacks": 22,
+    "stars": 49,
+    "destructionPercentage": 87.4,
     "members": [
       {
         "tag": "#QLVG02LV",
@@ -658,7 +665,25 @@
           "destructionPercentage": 100,
           "order": 27,
           "duration": 102
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#QLG9298UR",
+            "defenderTag": "#QJ0VCVQYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 45
+          },
+          {
+            "attackerTag": "#QLG9298UR",
+            "defenderTag": "#QP8UV2L9R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 55
+          }
+        ]
       },
       {
         "tag": "#9CVQPP02Y",
