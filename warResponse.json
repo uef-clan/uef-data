@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 17,
-    "stars": 44,
-    "destructionPercentage": 77.3,
+    "attacks": 18,
+    "stars": 47,
+    "destructionPercentage": 82.3,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -267,7 +267,17 @@
         "townhallLevel": 13,
         "mapPosition": 9,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#GY2Q0CGPJ",
+            "defenderTag": "#QLG9298UR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 102
+          }
+        ]
       },
       {
         "tag": "#29UC8C2PC",
@@ -512,8 +522,15 @@
         "name": "y66f",
         "townhallLevel": 13,
         "mapPosition": 10,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GY2Q0CGPJ",
+          "defenderTag": "#QLG9298UR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 102
+        }
       },
       {
         "tag": "#9CVQPP02Y",
