@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32999,
+  "clanPoints": 32997,
   "clanBuilderBasePoints": 35962,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -823,52 +823,6 @@
       }
     },
     {
-      "tag": "#L9LLG88QU",
-      "name": "olivier",
-      "role": 3,
-      "townHallLevel": 13,
-      "expLevel": 168,
-      "league": {
-        "id": 29000013,
-        "name": "Master League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
-        }
-      },
-      "trophies": 2582,
-      "builderBaseTrophies": 3363,
-      "clanRank": 19,
-      "previousClanRank": 20,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000026,
-        "name": "Steel League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000054
-          },
-          {
-            "type": 2,
-            "id": 82000033
-          },
-          {
-            "type": 0,
-            "id": 82000059
-          }
-        ]
-      }
-    },
-    {
       "tag": "#JJRRR888",
       "name": "'t Brikje",
       "role": 3,
@@ -885,7 +839,7 @@
       },
       "trophies": 2576,
       "builderBaseTrophies": 2676,
-      "clanRank": 20,
+      "clanRank": 19,
       "previousClanRank": 19,
       "donations": 0,
       "donationsReceived": 0,
@@ -906,6 +860,52 @@
           {
             "type": 2,
             "id": 82000032
+          },
+          {
+            "type": 0,
+            "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#L9LLG88QU",
+      "name": "olivier",
+      "role": 3,
+      "townHallLevel": 13,
+      "expLevel": 168,
+      "league": {
+        "id": 29000013,
+        "name": "Master League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
+        }
+      },
+      "trophies": 2575,
+      "builderBaseTrophies": 3363,
+      "clanRank": 20,
+      "previousClanRank": 20,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000026,
+        "name": "Steel League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000054
+          },
+          {
+            "type": 2,
+            "id": 82000033
           },
           {
             "type": 0,
