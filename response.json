@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32986,
-  "clanBuilderBasePoints": 35970,
+  "clanBuilderBasePoints": 35969,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
     "id": 85000016,
@@ -205,7 +205,7 @@
       "name": "kvmvm",
       "role": 3,
       "townHallLevel": 12,
-      "expLevel": 126,
+      "expLevel": 127,
       "league": {
         "id": 29000021,
         "name": "Titan League I",
@@ -1687,7 +1687,7 @@
         }
       },
       "trophies": 1550,
-      "builderBaseTrophies": 2477,
+      "builderBaseTrophies": 2462,
       "clanRank": 38,
       "previousClanRank": 37,
       "donations": 2,
