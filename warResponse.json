@@ -112,8 +112,15 @@
         "name": "Lynn & Daan",
         "townhallLevel": 8,
         "mapPosition": 19,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQ9QQC9YR",
+          "defenderTag": "#2GG0VGQ9Y",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 166
+        }
       },
       {
         "tag": "#2Y08ULL9J",
@@ -516,9 +523,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/hQBVefoVEcx7-0zgcNMEMNUCd3kP5lmyp-DzrEJbdSI.png"
     },
     "clanLevel": 18,
-    "attacks": 15,
-    "stars": 35,
-    "destructionPercentage": 64.15,
+    "attacks": 16,
+    "stars": 38,
+    "destructionPercentage": 69.15,
     "members": [
       {
         "tag": "#QLVG02LV",
@@ -932,7 +939,17 @@
           "destructionPercentage": 100,
           "order": 14,
           "duration": 68
-        }
+        },
+        "attacks": [
+          {
+            "attackerTag": "#GQ9QQC9YR",
+            "defenderTag": "#2GG0VGQ9Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 166
+          }
+        ]
       },
       {
         "tag": "#GQ2LPJY28",
