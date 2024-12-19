@@ -124,8 +124,15 @@
         "name": "Gus",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QC9R09QQG",
+          "defenderTag": "#9RY0YYYCG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 82
+        },
         "attacks": [
           {
             "attackerTag": "#9RY0YYYCG",
@@ -367,9 +374,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/hQBVefoVEcx7-0zgcNMEMNUCd3kP5lmyp-DzrEJbdSI.png"
     },
     "clanLevel": 18,
-    "attacks": 5,
-    "stars": 12,
-    "destructionPercentage": 23.35,
+    "attacks": 6,
+    "stars": 15,
+    "destructionPercentage": 28.35,
     "members": [
       {
         "tag": "#QLVG02LV",
@@ -438,6 +445,14 @@
             "destructionPercentage": 81,
             "order": 20,
             "duration": 114
+          },
+          {
+            "attackerTag": "#QC9R09QQG",
+            "defenderTag": "#9RY0YYYCG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 82
           }
         ]
       },
