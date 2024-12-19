@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 12,
-    "stars": 32,
-    "destructionPercentage": 54.95,
+    "attacks": 14,
+    "stars": 38,
+    "destructionPercentage": 64.95,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -43,7 +43,25 @@
         "townhallLevel": 10,
         "mapPosition": 17,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#QJ0VCVQYC",
+            "defenderTag": "#GPVRVU2V0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 81
+          },
+          {
+            "attackerTag": "#QJ0VCVQYC",
+            "defenderTag": "#GC0C2RVCJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 56
+          }
+        ]
       },
       {
         "tag": "#QJ02YGJR0",
@@ -342,8 +360,15 @@
         "name": "Gab_m4tto",
         "townhallLevel": 8,
         "mapPosition": 19,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ0VCVQYC",
+          "defenderTag": "#GPVRVU2V0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 81
+        }
       },
       {
         "tag": "#LV2YR00LJ",
@@ -513,8 +538,15 @@
         "name": "eli",
         "townhallLevel": 7,
         "mapPosition": 20,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ0VCVQYC",
+          "defenderTag": "#GC0C2RVCJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 56
+        }
       },
       {
         "tag": "#QPCGGP08G",
