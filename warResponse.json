@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 11,
-    "stars": 29,
-    "destructionPercentage": 49.95,
+    "attacks": 12,
+    "stars": 32,
+    "destructionPercentage": 54.95,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -252,6 +252,14 @@
             "destructionPercentage": 100,
             "order": 12,
             "duration": 92
+          },
+          {
+            "attackerTag": "#LJ02J988Q",
+            "defenderTag": "#GQ9QQC9YR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 68
           }
         ]
       },
@@ -544,8 +552,15 @@
         "name": "Visez",
         "townhallLevel": 8,
         "mapPosition": 18,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJ02J988Q",
+          "defenderTag": "#GQ9QQC9YR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 68
+        }
       },
       {
         "tag": "#GQ2LPJY28",
