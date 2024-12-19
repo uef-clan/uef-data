@@ -24,8 +24,15 @@
         "name": "stefkefilms",
         "townhallLevel": 11,
         "mapPosition": 12,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G82QJ8CYJ",
+          "defenderTag": "#G2LRGULG0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 84
+        },
         "attacks": [
           {
             "attackerTag": "#G2LRGULG0",
@@ -381,9 +388,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/hQBVefoVEcx7-0zgcNMEMNUCd3kP5lmyp-DzrEJbdSI.png"
     },
     "clanLevel": 18,
-    "attacks": 7,
-    "stars": 18,
-    "destructionPercentage": 33.35,
+    "attacks": 8,
+    "stars": 21,
+    "destructionPercentage": 38.35,
     "members": [
       {
         "tag": "#QLVG02LV",
@@ -542,6 +549,14 @@
             "destructionPercentage": 100,
             "order": 22,
             "duration": 83
+          },
+          {
+            "attackerTag": "#G82QJ8CYJ",
+            "defenderTag": "#G2LRGULG0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 84
           }
         ]
       },
