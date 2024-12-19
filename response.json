@@ -16,8 +16,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32973,
-  "clanBuilderBasePoints": 35971,
+  "clanPoints": 32970,
+  "clanBuilderBasePoints": 35965,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
     "id": 85000016,
@@ -1143,52 +1143,6 @@
       }
     },
     {
-      "tag": "#8PVYLR0VY",
-      "name": "Dokter B",
-      "role": 3,
-      "townHallLevel": 13,
-      "expLevel": 167,
-      "league": {
-        "id": 29000010,
-        "name": "Crystal League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
-        }
-      },
-      "trophies": 2036,
-      "builderBaseTrophies": 2857,
-      "clanRank": 26,
-      "previousClanRank": 26,
-      "donations": 0,
-      "donationsReceived": 90,
-      "builderBaseLeague": {
-        "id": 44000024,
-        "name": "Iron League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000052
-          },
-          {
-            "type": 2,
-            "id": 82000032
-          },
-          {
-            "type": 0,
-            "id": 82000064
-          }
-        ]
-      }
-    },
-    {
       "tag": "#9LVPUY09U",
       "name": "Rev",
       "role": 3,
@@ -1204,7 +1158,7 @@
       },
       "trophies": 2031,
       "builderBaseTrophies": 2490,
-      "clanRank": 27,
+      "clanRank": 26,
       "previousClanRank": 27,
       "donations": 0,
       "donationsReceived": 0,
@@ -1229,6 +1183,52 @@
           {
             "type": 0,
             "id": 82000067
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#8PVYLR0VY",
+      "name": "Dokter B",
+      "role": 3,
+      "townHallLevel": 13,
+      "expLevel": 167,
+      "league": {
+        "id": 29000010,
+        "name": "Crystal League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
+        }
+      },
+      "trophies": 2011,
+      "builderBaseTrophies": 2857,
+      "clanRank": 27,
+      "previousClanRank": 26,
+      "donations": 0,
+      "donationsReceived": 90,
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Iron League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000052
+          },
+          {
+            "type": 2,
+            "id": 82000032
+          },
+          {
+            "type": 0,
+            "id": 82000064
           }
         ]
       }
@@ -1595,7 +1595,7 @@
         }
       },
       "trophies": 1706,
-      "builderBaseTrophies": 2673,
+      "builderBaseTrophies": 2623,
       "clanRank": 36,
       "previousClanRank": 34,
       "donations": 72,
