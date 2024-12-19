@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 20,
-    "stars": 48,
-    "destructionPercentage": 86.55,
+    "attacks": 21,
+    "stars": 50,
+    "destructionPercentage": 91.45,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -255,6 +255,14 @@
             "destructionPercentage": 94,
             "order": 26,
             "duration": 160
+          },
+          {
+            "attackerTag": "#RVGCJGQ8",
+            "defenderTag": "#LPGGRYUVL",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 34,
+            "duration": 180
           }
         ]
       },
@@ -597,8 +605,15 @@
         "name": "alfonso 07",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RVGCJGQ8",
+          "defenderTag": "#LPGGRYUVL",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 34,
+          "duration": 180
+        }
       },
       {
         "tag": "#QJ9GG9VVQ",
