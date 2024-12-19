@@ -197,8 +197,15 @@
         "name": "Epic Goblin",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#82CJLRVQP",
+          "defenderTag": "#2QYCVRGLY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 105
+        }
       },
       {
         "tag": "#QG8RPCL02",
@@ -448,9 +455,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/hQBVefoVEcx7-0zgcNMEMNUCd3kP5lmyp-DzrEJbdSI.png"
     },
     "clanLevel": 18,
-    "attacks": 11,
-    "stars": 25,
-    "destructionPercentage": 47.4,
+    "attacks": 12,
+    "stars": 28,
+    "destructionPercentage": 52.4,
     "members": [
       {
         "tag": "#QLVG02LV",
@@ -674,6 +681,14 @@
             "destructionPercentage": 100,
             "order": 31,
             "duration": 123
+          },
+          {
+            "attackerTag": "#82CJLRVQP",
+            "defenderTag": "#2QYCVRGLY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 32,
+            "duration": 105
           }
         ]
       },
