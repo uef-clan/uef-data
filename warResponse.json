@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 23,
+    "attacks": 24,
     "stars": 51,
-    "destructionPercentage": 90.2,
+    "destructionPercentage": 91.4,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -163,6 +163,14 @@
             "destructionPercentage": 100,
             "order": 9,
             "duration": 102
+          },
+          {
+            "attackerTag": "#9RY0YYYCG",
+            "defenderTag": "#G82QJ8CYJ",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 37,
+            "duration": 133
           }
         ]
       },
@@ -669,14 +677,14 @@
         "name": "michi",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#29UC8C2PC",
+          "attackerTag": "#9RY0YYYCG",
           "defenderTag": "#G82QJ8CYJ",
           "stars": 2,
-          "destructionPercentage": 60,
-          "order": 35,
-          "duration": 91
+          "destructionPercentage": 84,
+          "order": 37,
+          "duration": 133
         },
         "attacks": [
           {
