@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32973,
-  "clanBuilderBasePoints": 35965,
+  "clanBuilderBasePoints": 35959,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
     "id": 85000016,
@@ -1595,14 +1595,14 @@
         }
       },
       "trophies": 1706,
-      "builderBaseTrophies": 2620,
+      "builderBaseTrophies": 2570,
       "clanRank": 36,
       "previousClanRank": 34,
       "donations": 72,
       "donationsReceived": 1119,
       "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
+        "id": 44000022,
+        "name": "Brass League I"
       },
       "playerHouse": {
         "elements": [
