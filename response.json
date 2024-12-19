@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32990,
+  "clanPoints": 32986,
   "clanBuilderBasePoints": 35970,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -692,15 +692,15 @@
       "townHallLevel": 14,
       "expLevel": 120,
       "league": {
-        "id": 29000014,
-        "name": "Master League II",
+        "id": 29000013,
+        "name": "Master League III",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
         }
       },
-      "trophies": 2713,
+      "trophies": 2696,
       "builderBaseTrophies": 2111,
       "clanRank": 16,
       "previousClanRank": 14,
