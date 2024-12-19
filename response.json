@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32973,
-  "clanBuilderBasePoints": 35962,
+  "clanBuilderBasePoints": 35965,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
     "id": 85000016,
@@ -312,7 +312,7 @@
       "clanRank": 7,
       "previousClanRank": 7,
       "donations": 3917,
-      "donationsReceived": 4156,
+      "donationsReceived": 4201,
       "builderBaseLeague": {
         "id": 44000027,
         "name": "Steel League II"
@@ -1595,14 +1595,14 @@
         }
       },
       "trophies": 1706,
-      "builderBaseTrophies": 2596,
+      "builderBaseTrophies": 2623,
       "clanRank": 36,
       "previousClanRank": 34,
       "donations": 72,
       "donationsReceived": 1119,
       "builderBaseLeague": {
-        "id": 44000022,
-        "name": "Brass League I"
+        "id": 44000023,
+        "name": "Iron League III"
       },
       "playerHouse": {
         "elements": [
@@ -1896,7 +1896,7 @@
       "builderBaseTrophies": 4803,
       "clanRank": 43,
       "previousClanRank": 43,
-      "donations": 3186,
+      "donations": 3231,
       "donationsReceived": 690,
       "builderBaseLeague": {
         "id": 44000034,
