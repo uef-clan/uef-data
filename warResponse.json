@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
     },
     "clanLevel": 23,
-    "attacks": 15,
-    "stars": 40,
-    "destructionPercentage": 67.6,
+    "attacks": 16,
+    "stars": 43,
+    "destructionPercentage": 72.6,
     "members": [
       {
         "tag": "#G2LRGULG0",
@@ -191,7 +191,17 @@
         "townhallLevel": 14,
         "mapPosition": 10,
         "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "bestOpponentAttack": null,
+        "attacks": [
+          {
+            "attackerTag": "#QG8RPCL02",
+            "defenderTag": "#QPCGGP08G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 25,
+            "duration": 88
+          }
+        ]
       },
       {
         "tag": "#RVGCJGQ8",
@@ -676,8 +686,15 @@
         "name": "Leonni",
         "townhallLevel": 12,
         "mapPosition": 11,
-        "opponentAttacks": 0,
-        "bestOpponentAttack": null
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QG8RPCL02",
+          "defenderTag": "#QPCGGP08G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "duration": 88
+        }
       },
       {
         "tag": "#G0YLLYUCP",
