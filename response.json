@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33524,
+  "clanPoints": 33523,
   "clanBuilderBasePoints": 36108,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -1880,52 +1880,6 @@
       }
     },
     {
-      "tag": "#U0YLJVY0",
-      "name": "FrankMan",
-      "role": 2,
-      "townHallLevel": 11,
-      "expLevel": 229,
-      "league": {
-        "id": 29000005,
-        "name": "Silver League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
-        }
-      },
-      "trophies": 908,
-      "builderBaseTrophies": 4803,
-      "clanRank": 43,
-      "previousClanRank": 43,
-      "donations": 3456,
-      "donationsReceived": 690,
-      "builderBaseLeague": {
-        "id": 44000034,
-        "name": "Platinum League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000079
-          },
-          {
-            "type": 2,
-            "id": 82000042
-          },
-          {
-            "type": 0,
-            "id": 82000080
-          }
-        ]
-      }
-    },
-    {
       "tag": "#LJ02J988Q",
       "name": "Guusje",
       "role": 0,
@@ -1941,7 +1895,7 @@
       },
       "trophies": 907,
       "builderBaseTrophies": 3566,
-      "clanRank": 44,
+      "clanRank": 43,
       "previousClanRank": 44,
       "donations": 0,
       "donationsReceived": 728,
@@ -1987,13 +1941,59 @@
       },
       "trophies": 890,
       "builderBaseTrophies": 1379,
-      "clanRank": 45,
+      "clanRank": 44,
       "previousClanRank": 45,
       "donations": 0,
       "donationsReceived": 0,
       "builderBaseLeague": {
         "id": 44000013,
         "name": "Stone League II"
+      }
+    },
+    {
+      "tag": "#U0YLJVY0",
+      "name": "FrankMan",
+      "role": 2,
+      "townHallLevel": 11,
+      "expLevel": 229,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 883,
+      "builderBaseTrophies": 4803,
+      "clanRank": 45,
+      "previousClanRank": 43,
+      "donations": 3456,
+      "donationsReceived": 690,
+      "builderBaseLeague": {
+        "id": 44000034,
+        "name": "Platinum League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000079
+          },
+          {
+            "type": 2,
+            "id": 82000042
+          },
+          {
+            "type": 0,
+            "id": 82000080
+          }
+        ]
       }
     },
     {
