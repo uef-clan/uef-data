@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32976,
+  "clanPoints": 32988,
   "clanBuilderBasePoints": 35981,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -339,6 +339,52 @@
       }
     },
     {
+      "tag": "#RVGCJGQ8",
+      "name": "CuriousWanderer",
+      "role": 1,
+      "townHallLevel": 15,
+      "expLevel": 214,
+      "league": {
+        "id": 29000016,
+        "name": "Champion League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
+        }
+      },
+      "trophies": 3386,
+      "builderBaseTrophies": 3402,
+      "clanRank": 8,
+      "previousClanRank": 10,
+      "donations": 1117,
+      "donationsReceived": 609,
+      "builderBaseLeague": {
+        "id": 44000027,
+        "name": "Steel League II"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000002
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000010
+          },
+          {
+            "type": 0,
+            "id": 82000064
+          }
+        ]
+      }
+    },
+    {
       "tag": "#9RY0YYYCG",
       "name": "Gus",
       "role": 3,
@@ -355,7 +401,7 @@
       },
       "trophies": 3377,
       "builderBaseTrophies": 3806,
-      "clanRank": 8,
+      "clanRank": 9,
       "previousClanRank": 9,
       "donations": 1098,
       "donationsReceived": 722,
@@ -401,7 +447,7 @@
       },
       "trophies": 3372,
       "builderBaseTrophies": 2562,
-      "clanRank": 9,
+      "clanRank": 10,
       "previousClanRank": 8,
       "donations": 0,
       "donationsReceived": 0,
@@ -426,52 +472,6 @@
           {
             "type": 0,
             "id": 82000059
-          }
-        ]
-      }
-    },
-    {
-      "tag": "#RVGCJGQ8",
-      "name": "CuriousWanderer",
-      "role": 1,
-      "townHallLevel": 15,
-      "expLevel": 214,
-      "league": {
-        "id": 29000016,
-        "name": "Champion League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
-        }
-      },
-      "trophies": 3362,
-      "builderBaseTrophies": 3402,
-      "clanRank": 10,
-      "previousClanRank": 10,
-      "donations": 1117,
-      "donationsReceived": 609,
-      "builderBaseLeague": {
-        "id": 44000027,
-        "name": "Steel League II"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000002
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000010
-          },
-          {
-            "type": 0,
-            "id": 82000064
           }
         ]
       }
@@ -1503,7 +1503,7 @@
         }
       },
       "trophies": 1748,
-      "builderBaseTrophies": 1480,
+      "builderBaseTrophies": 1475,
       "clanRank": 34,
       "previousClanRank": 34,
       "donations": 0,
