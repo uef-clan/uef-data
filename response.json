@@ -1996,52 +1996,6 @@
       }
     },
     {
-      "tag": "#U0YLJVY0",
-      "name": "FrankMan",
-      "role": 2,
-      "townHallLevel": 11,
-      "expLevel": 229,
-      "league": {
-        "id": 29000004,
-        "name": "Silver League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
-        }
-      },
-      "trophies": 728,
-      "builderBaseTrophies": 4803,
-      "clanRank": 46,
-      "previousClanRank": 43,
-      "donations": 3456,
-      "donationsReceived": 690,
-      "builderBaseLeague": {
-        "id": 44000034,
-        "name": "Platinum League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000079
-          },
-          {
-            "type": 2,
-            "id": 82000042
-          },
-          {
-            "type": 0,
-            "id": 82000080
-          }
-        ]
-      }
-    },
-    {
       "tag": "#QRYPQJUPY",
       "name": "sander",
       "role": 3,
@@ -2057,7 +2011,7 @@
       },
       "trophies": 728,
       "builderBaseTrophies": 1435,
-      "clanRank": 47,
+      "clanRank": 46,
       "previousClanRank": 47,
       "donations": 0,
       "donationsReceived": 0,
@@ -2082,6 +2036,52 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#U0YLJVY0",
+      "name": "FrankMan",
+      "role": 2,
+      "townHallLevel": 11,
+      "expLevel": 229,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 707,
+      "builderBaseTrophies": 4803,
+      "clanRank": 47,
+      "previousClanRank": 43,
+      "donations": 3456,
+      "donationsReceived": 690,
+      "builderBaseLeague": {
+        "id": 44000034,
+        "name": "Platinum League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000079
+          },
+          {
+            "type": 2,
+            "id": 82000042
+          },
+          {
+            "type": 0,
+            "id": 82000080
           }
         ]
       }
