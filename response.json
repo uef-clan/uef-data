@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32957,
+  "clanPoints": 32965,
   "clanBuilderBasePoints": 35981,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -778,51 +778,6 @@
       }
     },
     {
-      "tag": "#20GL00CQ9",
-      "name": "Klein Diempje",
-      "role": 3,
-      "townHallLevel": 14,
-      "expLevel": 199,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 2623,
-      "builderBaseTrophies": 3907,
-      "clanRank": 18,
-      "previousClanRank": 18,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000029,
-        "name": "Titanium League III"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000004
-          },
-          {
-            "type": 3,
-            "id": 82000049
-          },
-          {
-            "type": 2,
-            "id": 82000081
-          },
-          {
-            "type": 0,
-            "id": 82000066
-          }
-        ]
-      }
-    },
-    {
       "tag": "#JJRRR888",
       "name": "'t Brikje",
       "role": 3,
@@ -837,9 +792,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/pSXfKvBKSgtvfOY3xKkgFaRQi0WcE28s3X35ywbIluY.png"
         }
       },
-      "trophies": 2597,
+      "trophies": 2629,
       "builderBaseTrophies": 2676,
-      "clanRank": 19,
+      "clanRank": 18,
       "previousClanRank": 19,
       "donations": 0,
       "donationsReceived": 0,
@@ -864,6 +819,51 @@
           {
             "type": 0,
             "id": 82000059
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#20GL00CQ9",
+      "name": "Klein Diempje",
+      "role": 3,
+      "townHallLevel": 14,
+      "expLevel": 199,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 2623,
+      "builderBaseTrophies": 3907,
+      "clanRank": 19,
+      "previousClanRank": 18,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000029,
+        "name": "Titanium League III"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000004
+          },
+          {
+            "type": 3,
+            "id": 82000049
+          },
+          {
+            "type": 2,
+            "id": 82000081
+          },
+          {
+            "type": 0,
+            "id": 82000066
           }
         ]
       }
