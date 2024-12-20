@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33523,
+  "clanPoints": 33522,
   "clanBuilderBasePoints": 36108,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -1951,29 +1951,28 @@
       }
     },
     {
-      "tag": "#U0YLJVY0",
-      "name": "FrankMan",
-      "role": 2,
-      "townHallLevel": 11,
-      "expLevel": 229,
+      "tag": "#QJ0VCVQYC",
+      "name": "Frank",
+      "role": 0,
+      "townHallLevel": 10,
+      "expLevel": 96,
       "league": {
-        "id": 29000004,
-        "name": "Silver League III",
+        "id": 29000000,
+        "name": "Unranked",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 883,
-      "builderBaseTrophies": 4803,
+      "trophies": 854,
+      "builderBaseTrophies": 2739,
       "clanRank": 45,
-      "previousClanRank": 43,
-      "donations": 3456,
-      "donationsReceived": 690,
+      "previousClanRank": 46,
+      "donations": 0,
+      "donationsReceived": 195,
       "builderBaseLeague": {
-        "id": 44000034,
-        "name": "Platinum League I"
+        "id": 44000023,
+        "name": "Iron League III"
       },
       "playerHouse": {
         "elements": [
@@ -1997,28 +1996,29 @@
       }
     },
     {
-      "tag": "#QJ0VCVQYC",
-      "name": "Frank",
-      "role": 0,
-      "townHallLevel": 10,
-      "expLevel": 96,
+      "tag": "#U0YLJVY0",
+      "name": "FrankMan",
+      "role": 2,
+      "townHallLevel": 11,
+      "expLevel": 229,
       "league": {
-        "id": 29000000,
-        "name": "Unranked",
+        "id": 29000004,
+        "name": "Silver League III",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
         }
       },
-      "trophies": 854,
-      "builderBaseTrophies": 2739,
+      "trophies": 852,
+      "builderBaseTrophies": 4803,
       "clanRank": 46,
-      "previousClanRank": 46,
-      "donations": 0,
-      "donationsReceived": 195,
+      "previousClanRank": 43,
+      "donations": 3456,
+      "donationsReceived": 690,
       "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
+        "id": 44000034,
+        "name": "Platinum League I"
       },
       "playerHouse": {
         "elements": [
