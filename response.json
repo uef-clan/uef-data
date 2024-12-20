@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33515,
+  "clanPoints": 33514,
   "clanBuilderBasePoints": 36113,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -1906,29 +1906,28 @@
       }
     },
     {
-      "tag": "#LJ02J988Q",
-      "name": "Guusje",
+      "tag": "#QJ0VCVQYC",
+      "name": "Frank",
       "role": 0,
-      "townHallLevel": 11,
-      "expLevel": 119,
+      "townHallLevel": 10,
+      "expLevel": 96,
       "league": {
-        "id": 29000004,
-        "name": "Silver League III",
+        "id": 29000000,
+        "name": "Unranked",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
         }
       },
-      "trophies": 861,
-      "builderBaseTrophies": 3566,
+      "trophies": 854,
+      "builderBaseTrophies": 2739,
       "clanRank": 44,
-      "previousClanRank": 44,
+      "previousClanRank": 46,
       "donations": 0,
-      "donationsReceived": 728,
+      "donationsReceived": 195,
       "builderBaseLeague": {
-        "id": 44000027,
-        "name": "Steel League II"
+        "id": 44000023,
+        "name": "Iron League III"
       },
       "playerHouse": {
         "elements": [
@@ -1952,28 +1951,29 @@
       }
     },
     {
-      "tag": "#QJ0VCVQYC",
-      "name": "Frank",
+      "tag": "#LJ02J988Q",
+      "name": "Guusje",
       "role": 0,
-      "townHallLevel": 10,
-      "expLevel": 96,
+      "townHallLevel": 11,
+      "expLevel": 119,
       "league": {
-        "id": 29000000,
-        "name": "Unranked",
+        "id": 29000004,
+        "name": "Silver League III",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
         }
       },
-      "trophies": 854,
-      "builderBaseTrophies": 2739,
+      "trophies": 828,
+      "builderBaseTrophies": 3566,
       "clanRank": 45,
-      "previousClanRank": 46,
+      "previousClanRank": 44,
       "donations": 0,
-      "donationsReceived": 195,
+      "donationsReceived": 728,
       "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
+        "id": 44000027,
+        "name": "Steel League II"
       },
       "playerHouse": {
         "elements": [
