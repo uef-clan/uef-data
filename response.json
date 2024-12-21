@@ -17,7 +17,7 @@
   },
   "clanLevel": 23,
   "clanPoints": 32745,
-  "clanBuilderBasePoints": 35915,
+  "clanBuilderBasePoints": 35919,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
     "id": 85000016,
@@ -56,7 +56,7 @@
       "clanRank": 1,
       "previousClanRank": 1,
       "donations": 1860,
-      "donationsReceived": 3930,
+      "donationsReceived": 3980,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -147,7 +147,7 @@
       "builderBaseTrophies": 4181,
       "clanRank": 3,
       "previousClanRank": 3,
-      "donations": 3043,
+      "donations": 3123,
       "donationsReceived": 355,
       "builderBaseLeague": {
         "id": 44000030,
@@ -358,7 +358,7 @@
       "clanRank": 8,
       "previousClanRank": 10,
       "donations": 1128,
-      "donationsReceived": 818,
+      "donationsReceived": 848,
       "builderBaseLeague": {
         "id": 44000029,
         "name": "Titanium League III"
@@ -1642,14 +1642,14 @@
         }
       },
       "trophies": 1544,
-      "builderBaseTrophies": 2386,
+      "builderBaseTrophies": 2428,
       "clanRank": 37,
       "previousClanRank": 38,
       "donations": 2,
       "donationsReceived": 1221,
       "builderBaseLeague": {
-        "id": 44000021,
-        "name": "Brass League II"
+        "id": 44000022,
+        "name": "Brass League I"
       },
       "playerHouse": {
         "elements": [
