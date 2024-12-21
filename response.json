@@ -527,7 +527,7 @@
       "name": "Gekke Man",
       "role": 3,
       "townHallLevel": 14,
-      "expLevel": 195,
+      "expLevel": 196,
       "league": {
         "id": 29000015,
         "name": "Master League I",
@@ -541,7 +541,7 @@
       "builderBaseTrophies": 2797,
       "clanRank": 12,
       "previousClanRank": 11,
-      "donations": 439,
+      "donations": 505,
       "donationsReceived": 75,
       "builderBaseLeague": {
         "id": 44000023,
@@ -1692,7 +1692,7 @@
       "clanRank": 38,
       "previousClanRank": 38,
       "donations": 2,
-      "donationsReceived": 1155,
+      "donationsReceived": 1221,
       "builderBaseLeague": {
         "id": 44000021,
         "name": "Brass League II"
