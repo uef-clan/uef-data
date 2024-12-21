@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33513,
+  "clanPoints": 33512,
   "clanBuilderBasePoints": 36113,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -1600,7 +1600,7 @@
       "clanRank": 36,
       "previousClanRank": 36,
       "donations": 72,
-      "donationsReceived": 1119,
+      "donationsReceived": 1155,
       "builderBaseLeague": {
         "id": 44000023,
         "name": "Iron League III"
@@ -1965,11 +1965,11 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
         }
       },
-      "trophies": 775,
+      "trophies": 762,
       "builderBaseTrophies": 3566,
       "clanRank": 45,
       "previousClanRank": 44,
-      "donations": 0,
+      "donations": 36,
       "donationsReceived": 728,
       "builderBaseLeague": {
         "id": 44000027,
