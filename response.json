@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33457,
+  "clanPoints": 33464,
   "clanBuilderBasePoints": 36105,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -523,6 +523,32 @@
       }
     },
     {
+      "tag": "#29UC8C2PC",
+      "name": "Rutger",
+      "role": 0,
+      "townHallLevel": 12,
+      "expLevel": 142,
+      "league": {
+        "id": 29000015,
+        "name": "Master League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
+        }
+      },
+      "trophies": 3081,
+      "builderBaseTrophies": 2874,
+      "clanRank": 12,
+      "previousClanRank": 12,
+      "donations": 71,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Iron League II"
+      }
+    },
+    {
       "tag": "#P8UVRLJQR",
       "name": "Gekke Man",
       "role": 3,
@@ -539,7 +565,7 @@
       },
       "trophies": 3060,
       "builderBaseTrophies": 2797,
-      "clanRank": 12,
+      "clanRank": 13,
       "previousClanRank": 11,
       "donations": 505,
       "donationsReceived": 75,
@@ -566,32 +592,6 @@
             "id": 82000064
           }
         ]
-      }
-    },
-    {
-      "tag": "#29UC8C2PC",
-      "name": "Rutger",
-      "role": 0,
-      "townHallLevel": 12,
-      "expLevel": 142,
-      "league": {
-        "id": 29000015,
-        "name": "Master League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
-        }
-      },
-      "trophies": 3053,
-      "builderBaseTrophies": 2874,
-      "clanRank": 13,
-      "previousClanRank": 12,
-      "donations": 71,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000024,
-        "name": "Iron League II"
       }
     },
     {
