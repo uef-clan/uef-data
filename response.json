@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 32743,
+  "clanPoints": 32745,
   "clanBuilderBasePoints": 35915,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -56,7 +56,7 @@
       "clanRank": 1,
       "previousClanRank": 1,
       "donations": 1860,
-      "donationsReceived": 3927,
+      "donationsReceived": 3930,
       "builderBaseLeague": {
         "id": 44000034,
         "name": "Platinum League I"
@@ -311,7 +311,7 @@
       "builderBaseTrophies": 3444,
       "clanRank": 7,
       "previousClanRank": 8,
-      "donations": 4030,
+      "donations": 4033,
       "donationsReceived": 4561,
       "builderBaseLeague": {
         "id": 44000027,
@@ -1627,51 +1627,6 @@
       }
     },
     {
-      "tag": "#L0Y8UVJLY",
-      "name": "whitebeard",
-      "role": 3,
-      "townHallLevel": 11,
-      "expLevel": 100,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 1532,
-      "builderBaseTrophies": 696,
-      "clanRank": 37,
-      "previousClanRank": 39,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000006,
-        "name": "Clay League IV"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000000
-          },
-          {
-            "type": 3,
-            "id": 82000048
-          },
-          {
-            "type": 2,
-            "id": 82000009
-          },
-          {
-            "type": 0,
-            "id": 82000058
-          }
-        ]
-      }
-    },
-    {
       "tag": "#LV020LC28",
       "name": "BroekUit",
       "role": 3,
@@ -1686,9 +1641,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
         }
       },
-      "trophies": 1529,
+      "trophies": 1544,
       "builderBaseTrophies": 2386,
-      "clanRank": 38,
+      "clanRank": 37,
       "previousClanRank": 38,
       "donations": 2,
       "donationsReceived": 1221,
@@ -1713,6 +1668,51 @@
           {
             "type": 0,
             "id": 82000064
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#L0Y8UVJLY",
+      "name": "whitebeard",
+      "role": 3,
+      "townHallLevel": 11,
+      "expLevel": 100,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 1532,
+      "builderBaseTrophies": 696,
+      "clanRank": 38,
+      "previousClanRank": 39,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000006,
+        "name": "Clay League IV"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000000
+          },
+          {
+            "type": 3,
+            "id": 82000048
+          },
+          {
+            "type": 2,
+            "id": 82000009
+          },
+          {
+            "type": 0,
+            "id": 82000058
           }
         ]
       }
