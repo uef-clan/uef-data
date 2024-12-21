@@ -16,7 +16,7 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
   },
   "clanLevel": 23,
-  "clanPoints": 33454,
+  "clanPoints": 33456,
   "clanBuilderBasePoints": 36105,
   "clanCapitalPoints": 3290,
   "capitalLeague": {
@@ -1144,51 +1144,6 @@
       }
     },
     {
-      "tag": "#9LVPUY09U",
-      "name": "Rev",
-      "role": 3,
-      "townHallLevel": 12,
-      "expLevel": 136,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "trophies": 2031,
-      "builderBaseTrophies": 2490,
-      "clanRank": 26,
-      "previousClanRank": 26,
-      "donations": 0,
-      "donationsReceived": 0,
-      "builderBaseLeague": {
-        "id": 44000022,
-        "name": "Brass League I"
-      },
-      "playerHouse": {
-        "elements": [
-          {
-            "type": 1,
-            "id": 82000006
-          },
-          {
-            "type": 3,
-            "id": 82000055
-          },
-          {
-            "type": 2,
-            "id": 82000031
-          },
-          {
-            "type": 0,
-            "id": 82000067
-          }
-        ]
-      }
-    },
-    {
       "tag": "#GGPCCUG8P",
       "name": "GuusjeMan",
       "role": 0,
@@ -1203,9 +1158,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
         }
       },
-      "trophies": 2010,
+      "trophies": 2032,
       "builderBaseTrophies": 2357,
-      "clanRank": 27,
+      "clanRank": 26,
       "previousClanRank": 28,
       "donations": 10,
       "donationsReceived": 1671,
@@ -1230,6 +1185,51 @@
           {
             "type": 0,
             "id": 82000064
+          }
+        ]
+      }
+    },
+    {
+      "tag": "#9LVPUY09U",
+      "name": "Rev",
+      "role": 3,
+      "townHallLevel": 12,
+      "expLevel": 136,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 2031,
+      "builderBaseTrophies": 2490,
+      "clanRank": 27,
+      "previousClanRank": 26,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000022,
+        "name": "Brass League I"
+      },
+      "playerHouse": {
+        "elements": [
+          {
+            "type": 1,
+            "id": 82000006
+          },
+          {
+            "type": 3,
+            "id": 82000055
+          },
+          {
+            "type": 2,
+            "id": 82000031
+          },
+          {
+            "type": 0,
+            "id": 82000067
           }
         ]
       }
